@@ -1,0 +1,47 @@
+name: Update dashboard data
+
+# 每天從 Notion 新聞摘要頁面抄一份已算好的 JSON 成 data.json
+# 這個 Action 跑在 GitHub 雲端，與你的電腦是否開機無關。
+# 它本身不抓股價，只是把 Notion 上「已算好的成品」複製成 data.json。
+# 因為你的 stock-daily-update 任務實際更新 Notion 的時間不固定
+# （app 開著才會跑），所以這裡每 6 小時自動同步一次，
+# 只有資料有變才會 commit，多跑無害。
+# cron 為 UTC：0/6/12/18 UTC = 台灣時間 08:00 / 14:00 / 20:00 / 02:00。
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:        # 也可在 Actions 頁面手動按一下測試
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Pull latest JSON from Notion -> data.json
+        env:
+          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+          NOTION_PAGE_ID: "37fb9cc5-3b8c-81ff-a749-e4f2802e7979"
+        run: python notion_to_data.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data.json
+          if git diff --staged --quiet; then
+            echo "No change."
+          else
+            git commit -m "Update data.json ($(date -u +%F))"
+            git push
+          fi

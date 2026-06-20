@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<title>股票儀表板</title>
+
+<!-- PWA / iOS add-to-home-screen -->
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="股票儀表板">
+<meta name="theme-color" content="#0e1117">
+<link rel="apple-touch-icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='180' height='180'%3E%3Crect width='180' height='180' rx='40' fill='%230e1117'/%3E%3Cpolyline points='25,120 65,90 95,105 135,50 160,65' fill='none' stroke='%2316c784' stroke-width='10' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E">
+
+<style>
+  :root{
+    --bg:#0e1117; --card:#161b22; --card2:#1c2230; --line:#222b38;
+    --txt:#e6edf3; --muted:#8b949e; --up:#16c784; --down:#ea3943; --accent:#3b82f6;
+  }
+  *{box-sizing:border-box; -webkit-tap-highlight-color:transparent;}
+  body{
+    margin:0; background:var(--bg); color:var(--txt);
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang TC","Microsoft JhengHei",sans-serif;
+    padding:env(safe-area-inset-top) 0 calc(env(safe-area-inset-bottom) + 24px);
+    -webkit-font-smoothing:antialiased;
+  }
+  .wrap{max-width:560px; margin:0 auto; padding:16px;}
+  header{display:flex; align-items:baseline; justify-content:space-between; margin:6px 2px 14px;}
+  header h1{font-size:20px; margin:0; font-weight:700;}
+  header .upd{font-size:12px; color:var(--muted);}
+
+  /* total cards */
+  .totals{display:grid; grid-template-columns:1fr 1fr; gap:10px; margin-bottom:12px;}
+  .net{grid-column:1 / -1; background:linear-gradient(135deg,#182233,#10151e); border:1px solid var(--line);
+       border-radius:16px; padding:16px;}
+  .net .lbl{font-size:12px; color:var(--muted);}
+  .net .big{font-size:30px; font-weight:800; margin-top:2px; letter-spacing:.3px;}
+  .net .sub{font-size:13px; margin-top:4px;}
+  .card{background:var(--card); border:1px solid var(--line); border-radius:14px; padding:12px 13px;}
+  .card .lbl{font-size:12px; color:var(--muted); display:flex; justify-content:space-between;}
+  .card .val{font-size:18px; font-weight:700; margin-top:4px;}
+  .card .pl{font-size:13px; margin-top:2px;}
+
+  .up{color:var(--up);} .down{color:var(--down);} .flat{color:var(--muted);}
+
+  /* fx row */
+  .fxrow{display:flex; align-items:center; gap:8px; font-size:12px; color:var(--muted); margin:2px 2px 14px; justify-content:flex-end;}
+  .fxrow input{width:64px; background:var(--card2); border:1px solid var(--line); color:var(--txt);
+    border-radius:8px; padding:5px 8px; font-size:13px; text-align:right;}
+
+  /* tabs */
+  .tabs{display:flex; gap:6px; background:var(--card); border:1px solid var(--line); border-radius:12px; padding:4px; margin-bottom:14px;}
+  .tabs button{flex:1; background:none; border:none; color:var(--muted); padding:9px 0; font-size:14px; font-weight:600;
+    border-radius:9px; cursor:pointer; transition:.15s;}
+  .tabs button.on{background:var(--accent); color:#fff;}
+
+  .section-t{font-size:13px; color:var(--muted); margin:18px 4px 8px; font-weight:600; letter-spacing:.5px;}
+
+  /* allocation */
+  .alloc{background:var(--card); border:1px solid var(--line); border-radius:14px; padding:12px 13px;}
+  .arow{margin:9px 0;}
+  .arow .top{display:flex; justify-content:space-between; font-size:13px; margin-bottom:4px;}
+  .arow .top span:last-child{color:var(--muted);}
+  .bar{height:8px; background:var(--card2); border-radius:6px; overflow:hidden;}
+  .bar > i{display:block; height:100%; border-radius:6px;}
+
+  /* holdings */
+  .h{background:var(--card); border:1px solid var(--line); border-radius:14px; margin-bottom:10px; overflow:hidden;}
+  .h .head{display:flex; align-items:center; gap:10px; padding:13px 14px; cursor:pointer;}
+  .h .tk{font-size:16px; font-weight:700;}
+  .h .mk{font-size:10px; color:var(--muted); border:1px solid var(--line); padding:1px 6px; border-radius:6px; margin-left:7px;}
+  .h .flag{font-size:10px; padding:1px 7px; border-radius:6px; margin-left:7px;}
+  .flag.hold{background:rgba(22,199,132,.15); color:var(--up);}
+  .flag.watch{background:rgba(234,182,57,.18); color:#eab639;}
+  .flag.switch{background:rgba(234,57,67,.15); color:var(--down);}
+  .h .grow{flex:1;}
+  .h .mv{font-size:15px; font-weight:700; text-align:right;}
+  .h .pct{font-size:12px; text-align:right; margin-top:2px;}
+  .h .sub{font-size:11px; color:var(--muted); margin-top:3px;}
+  .h .detail{display:none; padding:0 14px 13px; border-top:1px solid var(--line); margin-top:2px;}
+  .h.open .detail{display:block;}
+  .h .grid2{display:grid; grid-template-columns:1fr 1fr; gap:6px 14px; font-size:12.5px; padding-top:11px;}
+  .h .grid2 div span{color:var(--muted);}
+  .h .news{margin-top:11px; font-size:12.5px; line-height:1.55;}
+  .h .news .hl{font-weight:700; color:var(--txt); display:block; margin-bottom:3px;}
+  .h .news .sm{color:var(--muted);}
+  .h .src{margin-top:10px; display:flex; flex-direction:column; gap:6px;}
+  .h .src .src-t{font-size:11px; color:var(--muted);}
+  .h .src a{font-size:12.5px; color:var(--accent); text-decoration:none; line-height:1.4;}
+  .h .src a:active{opacity:.6;}
+  .chev{color:var(--muted); font-size:12px; transition:.2s;}
+  .h.open .chev{transform:rotate(180deg);}
+
+  footer{text-align:center; color:var(--muted); font-size:11px; margin-top:22px; line-height:1.7;}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>📈 股票儀表板</h1>
+    <span class="upd" id="upd"></span>
+  </header>
+
+  <div class="totals">
+    <div class="net">
+      <div class="lbl">總資產（估，新台幣）</div>
+      <div class="big" id="netVal">—</div>
+      <div class="sub" id="netPL">—</div>
+    </div>
+    <div class="card">
+      <div class="lbl"><span>台股市值</span><span id="twCnt"></span></div>
+      <div class="val" id="twVal">—</div>
+      <div class="pl" id="twPL">—</div>
+    </div>
+    <div class="card">
+      <div class="lbl"><span>美股市值</span><span id="usCnt"></span></div>
+      <div class="val" id="usVal">—</div>
+      <div class="pl" id="usPL">—</div>
+    </div>
+  </div>
+
+  <div class="fxrow">
+    <label for="fx">美元匯率（估）</label>
+    <input id="fx" type="number" inputmode="decimal" step="0.1" value="32.5">
+  </div>
+
+  <div class="tabs">
+    <button data-f="all" class="on">全部</button>
+    <button data-f="台股">台股</button>
+    <button data-f="美股">美股</button>
+  </div>
+
+  <div class="section-t">持股配置（依成本）</div>
+  <div class="alloc" id="alloc"></div>
+
+  <div class="section-t">持股明細（點開看新聞）</div>
+  <div id="holdings"></div>
+
+  <footer id="foot"></footer>
+</div>
+
+<script>
+/* ====== 內嵌資料（起點）。若同目錄有 data.json 會自動改用最新版 ====== */
+const EMBEDDED = {
+  "lastUpdated": "2026-06-19",
+  "holdings": [
+    {"ticker":"2330","market":"台股","qty":621,"avgCost":1214.19,"currentPrice":2400,"totalInvested":754010,"flag":"繼續持有","notes":""},
+    {"ticker":"009816","market":"台股","qty":29314,"avgCost":14.85,"currentPrice":15.68,"totalInvested":435356,"flag":"繼續持有","notes":""},
+    {"ticker":"006208","market":"台股","qty":3162,"avgCost":107.27,"currentPrice":249.10,"totalInvested":339188,"flag":"繼續持有","notes":""},
+    {"ticker":"00981A","market":"台股","qty":8625,"avgCost":30.48,"currentPrice":31.36,"totalInvested":262861,"flag":"繼續持有","notes":""},
+    {"ticker":"00713","market":"台股","qty":3999,"avgCost":49.91,"currentPrice":61.05,"totalInvested":199590,"flag":"繼續持有","notes":""},
+    {"ticker":"0050","market":"台股","qty":2177,"avgCost":77.73,"currentPrice":107.30,"totalInvested":169218,"flag":"繼續持有","notes":""},
+    {"ticker":"00919","market":"台股","qty":4956,"avgCost":22.32,"currentPrice":30.81,"totalInvested":110618,"flag":"繼續持有","notes":""},
+    {"ticker":"2891","market":"台股","qty":627,"avgCost":44.73,"currentPrice":71.90,"totalInvested":28046,"flag":"繼續持有","notes":""},
+    {"ticker":"00403A","market":"台股","qty":2000,"avgCost":9.82,"currentPrice":11.03,"totalInvested":19640,"flag":"繼續持有","notes":""},
+    {"ticker":"VT","market":"美股","qty":50,"avgCost":158.99,"currentPrice":157.76,"totalInvested":7949,"flag":"繼續持有","notes":"略低於成本"},
+    {"ticker":"NVDA","market":"美股","qty":27,"avgCost":173.12,"currentPrice":210.69,"totalInvested":4674,"flag":"繼續持有","notes":""},
+    {"ticker":"SPCX","market":"美股","qty":15,"avgCost":173.77,"currentPrice":174.90,"totalInvested":2607,"flag":"觀察中","notes":"新上市波動大"},
+    {"ticker":"GOOGL","market":"美股","qty":5,"avgCost":363.14,"currentPrice":363.79,"totalInvested":1816,"flag":"繼續持有","notes":""},
+    {"ticker":"MSFT","market":"美股","qty":4,"avgCost":384.94,"currentPrice":378.91,"totalInvested":1540,"flag":"觀察中","notes":"今年來下跌約18% 已跌破成本"},
+    {"ticker":"TSLA","market":"美股","qty":4,"avgCost":289.82,"currentPrice":396.38,"totalInvested":1159,"flag":"繼續持有","notes":""},
+    {"ticker":"ASTS","market":"美股","qty":12,"avgCost":87.36,"currentPrice":79.64,"totalInvested":1048,"flag":"觀察中","notes":"股價波動大 已跌破成本"}
+  ],
+  "news": [
+    {"ticker":"2330","headline":"台積電股價創高約2400元","summary":"6/18約2400元，3月營收年增逾46%，AI晶片與先進製程需求強勁帶動營運，外資持續看好2奈米與CoWoS先進封裝產能滿載。"},
+    {"ticker":"009816","headline":"009816不配息市值型ETF","summary":"凱基台灣TOP50收15.68元漲0.84%，首檔不配息市值型ETF，股息自動再投入複利，管理費0.07%偏低，規模逾1510億元。"},
+    {"ticker":"006208","headline":"富邦台50殖利率3.23%","summary":"6/18收249.1元漲1.14%，追蹤台灣50指數，前五大持股含台積電、鴻海、聯發科、台達電，近一年報酬約21%。"},
+    {"ticker":"00981A","headline":"00981A淨值居主動台股冠軍","summary":"6/18收31.36元漲1.55%，規模約2920億、受益人逾99萬，統一投信主動式ETF，具高成長潛力。"},
+    {"ticker":"00713","headline":"00713連5漲收61元","summary":"元大台灣高息低波6/17收61.05元漲0.49%，連5紅，採高股息低波動策略，近期表現穩健抗震。"},
+    {"ticker":"0050","headline":"元大台灣50收107.3創高","summary":"6/18收107.3元漲1.23%，基金規模逾2.17兆元，受惠台積電等權值股走強，續為台股核心持股。"},
+    {"ticker":"00919","headline":"00919第2次除息配1元","summary":"6/16第二次除息每股1元，7/13發放，殖利率3.26%，現價約30.81元，2025全年配息2.52元，屬高股息ETF。"},
+    {"ticker":"2891","headline":"中信金放量大漲外資買超","summary":"6/18收71.9元漲1.27%，連4漲累計5.19%，外資單日買超1.9萬張，本益比17.11，金融股走勢強勁。"},
+    {"ticker":"00403A","headline":"00403A掛牌交投熱絡漲2.6%","summary":"統一台股升級50主動式ETF，5/12掛牌，6/18收11.03元漲2.6%，成交逾80億元，採市值投資策略。"},
+    {"ticker":"VT","headline":"VT全球股票ETF約158美元","summary":"追蹤FTSE全球全市場指數，NAV約157.76美元，費用率0.06%、殖利率0.85%，提供全球股票分散配置。"},
+    {"ticker":"NVDA","headline":"Nvidia市值突破5兆美元","summary":"6/18收210.69美元漲2.95%，市值約5.14兆美元，AI晶片需求強勁；惟亞馬遜等競爭加劇，積極拓展美國以外市場。"},
+    {"ticker":"SPCX","headline":"SpaceX上市後股價波動","summary":"6/18約174.9美元，前收191.82，IPO後波動劇烈，52週區間135-225美元，現價已回到接近成本附近。"},
+    {"ticker":"GOOGL","headline":"Alphabet史上最大發債847億","summary":"6/17收363.79美元，6月超募完成847.5億美元發債，今年資本支出上看1900億；Gemini共同負責人離職投奔OpenAI。"},
+    {"ticker":"MSFT","headline":"微軟今年來下跌約18%","summary":"6/18收378.91元跌2.81%，近一年下跌約18%；傳與甲骨文30億雲端合約破局，考慮採DeepSeek降Copilot成本，7/28法說。"},
+    {"ticker":"TSLA","headline":"Tesla約396美元評等買進","summary":"6/18收396.38美元，分析師評等買進、平均目標價約420美元；公司預期下半年自由現金流為負，瑞典監管建議反對FSD歐洲上路。"},
+    {"ticker":"ASTS","headline":"ASTS發射3顆衛星後回檔","summary":"6/18約79.64美元跌約9%，成功發射BlueBird 8/9/10衛星；巴克萊調降目標價至60美元並維持劣於大盤評等，股價跌破成本。"}
+  ]
+};
+
+let DATA = EMBEDDED;
+let FILTER = "all";
+const NT = ["009816"]; // placeholder
+const PALETTE = ["#3b82f6","#16c784","#eab639","#a855f7","#ec4899","#06b6d4","#f97316","#84cc16","#ef4444"];
+
+const $ = s => document.querySelector(s);
+const fmt = (n,d=0) => n.toLocaleString("en-US",{minimumFractionDigits:d,maximumFractionDigits:d});
+function newsFor(tk){ return (DATA.news||[]).find(n=>n.ticker===tk); }
+function plClass(v){ return v>0?"up":v<0?"down":"flat"; }
+function sign(v){ return v>0?"+":""; }
+
+function fx(){ const v=parseFloat($("#fx").value); return (isFinite(v)&&v>0)?v:32.5; }
+
+function calc(h){
+  const mv = h.qty*h.currentPrice;
+  const cost = h.totalInvested;
+  const pl = mv-cost;
+  const plp = cost?pl/cost*100:0;
+  return {mv,cost,pl,plp};
+}
+
+function render(){
+  $("#upd").textContent = "更新：" + (DATA.lastUpdated||"—");
+
+  const tw = DATA.holdings.filter(h=>h.market==="台股");
+  const us = DATA.holdings.filter(h=>h.market==="美股");
+  const sum = arr => arr.reduce((a,h)=>{const c=calc(h);a.mv+=c.mv;a.cost+=c.cost;return a;},{mv:0,cost:0});
+  const twS=sum(tw), usS=sum(us);
+  const twPL=twS.mv-twS.cost, usPL=usS.mv-usS.cost;
+
+  $("#twCnt").textContent = tw.length+" 檔";
+  $("#usCnt").textContent = us.length+" 檔";
+  $("#twVal").textContent = "NT$ "+fmt(twS.mv);
+  $("#usVal").textContent = "US$ "+fmt(usS.mv,2);
+  $("#twPL").innerHTML = `<span class="${plClass(twPL)}">${sign(twPL)}${fmt(twPL)} (${sign(twPL)}${(twS.cost?twPL/twS.cost*100:0).toFixed(1)}%)</span>`;
+  $("#usPL").innerHTML = `<span class="${plClass(usPL)}">${sign(usPL)}${fmt(usPL,2)} (${sign(usPL)}${(usS.cost?usPL/usS.cost*100:0).toFixed(1)}%)</span>`;
+
+  const rate=fx();
+  const netMV = twS.mv + usS.mv*rate;
+  const netCost = twS.cost + usS.cost*rate;
+  const netPL = netMV-netCost;
+  $("#netVal").textContent = "NT$ "+fmt(netMV);
+  $("#netPL").innerHTML = `成本 NT$ ${fmt(netCost)} ・ <span class="${plClass(netPL)}">${sign(netPL)}${fmt(netPL)} (${sign(netPL)}${(netCost?netPL/netCost*100:0).toFixed(1)}%)</span>`;
+
+  // scope
+  let list = DATA.holdings.slice();
+  if(FILTER!=="all") list=list.filter(h=>h.market===FILTER);
+  list.sort((a,b)=>calc(b).mv*(b.market==="美股"?fx():1) - calc(a).mv*(a.market==="美股"?fx():1));
+
+  // allocation (by cost, normalized within scope, US converted to NTD for fair compare)
+  const toNT = h => h.market==="美股"? h.totalInvested*fx() : h.totalInvested;
+  const totCost = list.reduce((a,h)=>a+toNT(h),0) || 1;
+  $("#alloc").innerHTML = list.map((h,i)=>{
+    const pct = toNT(h)/totCost*100;
+    return `<div class="arow">
+      <div class="top"><span>${h.ticker}<span style="color:var(--muted)"> ${h.market}</span></span><span>${pct.toFixed(1)}%</span></div>
+      <div class="bar"><i style="width:${pct}%;background:${PALETTE[i%PALETTE.length]}"></i></div>
+    </div>`;
+  }).join("");
+
+  // holdings
+  $("#holdings").innerHTML = list.map(h=>{
+    const c=calc(h);
+    const cur = h.market==="美股"?"US$":"NT$";
+    const dec = h.market==="美股"?2:0;
+    const n=newsFor(h.ticker);
+    const flagCls = h.flag==="繼續持有"?"hold":h.flag==="觀察中"?"watch":"switch";
+    return `<div class="h" onclick="this.classList.toggle('open')">
+      <div class="head">
+        <div>
+          <div><span class="tk">${h.ticker}</span><span class="mk">${h.market}</span><span class="flag ${flagCls}">${h.flag}</span></div>
+          <div class="sub">${fmt(h.qty)} 股 ・ 均價 ${fmt(h.avgCost,2)} → 現價 ${fmt(h.currentPrice,2)}</div>
+        </div>
+        <div class="grow"></div>
+        <div>
+          <div class="mv">${cur} ${fmt(c.mv,dec)}</div>
+          <div class="pct ${plClass(c.pl)}">${sign(c.pl)}${fmt(c.pl,dec)} ・ ${sign(c.plp)}${c.plp.toFixed(1)}% <span class="chev">▾</span></div>
+        </div>
+      </div>
+      <div class="detail">
+        <div class="grid2">
+          <div><span>持有量</span><br>${fmt(h.qty)} 股</div>
+          <div><span>平均成本</span><br>${cur} ${fmt(h.avgCost,2)}</div>
+          <div><span>現價</span><br>${cur} ${fmt(h.currentPrice,2)}</div>
+          <div><span>總投入</span><br>${cur} ${fmt(h.totalInvested,dec)}</div>
+          <div><span>市值</span><br>${cur} ${fmt(c.mv,dec)}</div>
+          <div><span>未實現損益</span><br><span class="${plClass(c.pl)}">${sign(c.pl)}${fmt(c.pl,dec)} (${sign(c.plp)}${c.plp.toFixed(1)}%)</span></div>
+        </div>
+        ${h.notes?`<div style="font-size:12px;color:var(--muted);margin-top:9px">📝 ${h.notes}</div>`:""}
+        ${n?`<div class="news"><span class="hl">📰 ${n.headline}</span><span class="sm">${n.summary}</span></div>`:""}
+        ${n&&n.sources&&n.sources.length?`<div class="src"><span class="src-t">原文連結</span>${n.sources.map(s=>`<a href="${s.url}" target="_blank" rel="noopener">🔗 ${s.title}</a>`).join("")}</div>`:""}
+      </div>
+    </div>`;
+  }).join("");
+
+  $("#foot").innerHTML = `資料來源：個人 Notion 記帳本 ・ 報價為每日更新之收盤估值<br>總資產為估算（美股以匯率 ${fx()} 換算）・ 僅供參考，非投資建議`;
+}
+
+// tabs
+document.querySelectorAll(".tabs button").forEach(b=>{
+  b.addEventListener("click",()=>{
+    document.querySelectorAll(".tabs button").forEach(x=>x.classList.remove("on"));
+    b.classList.add("on"); FILTER=b.dataset.f; render();
+  });
+});
+// fx persistence
+const savedFx = localStorage.getItem("fx"); if(savedFx) $("#fx").value=savedFx;
+$("#fx").addEventListener("input",()=>{ localStorage.setItem("fx",$("#fx").value); render(); });
+
+// try live data.json, else embedded
+(async function(){
+  try{
+    const r = await fetch("data.json",{cache:"no-store"});
+    if(r.ok){ const j=await r.json(); if(j&&j.holdings) DATA=j; }
+  }catch(e){}
+  render();
+})();
+</script>
+</body>
+</html>
