@@ -84,6 +84,7 @@
   .h .grid2 div span{color:var(--muted);}
   .h .news{margin-top:11px; font-size:12.5px; line-height:1.55;}
   .h .news .hl{font-weight:700; color:var(--txt); display:block; margin-bottom:3px;}
+  .h .news .ndate{font-weight:400; color:var(--muted); font-size:11px; margin-left:6px;}
   .h .news .sm{color:var(--muted);}
   .h .src{margin-top:10px; display:flex; flex-direction:column; gap:6px;}
   .h .src .src-t{font-size:11px; color:var(--muted);}
@@ -271,7 +272,7 @@ function render(){
           <div><span>未實現損益</span><br><span class="${plClass(c.pl)}">${sign(c.pl)}${fmt(c.pl,dec)} (${sign(c.plp)}${c.plp.toFixed(1)}%)</span></div>
         </div>
         ${h.notes?`<div style="font-size:12px;color:var(--muted);margin-top:9px">📝 ${h.notes}</div>`:""}
-        ${n?`<div class="news"><span class="hl">📰 ${n.headline}</span><span class="sm">${n.summary}</span></div>`:""}
+        ${n?`<div class="news"><span class="hl">📰 ${n.headline}${n.date?`<span class="ndate">${n.date}</span>`:""}</span><span class="sm">${n.summary}</span></div>`:""}
         ${n&&n.sources&&n.sources.length?`<div class="src"><span class="src-t">原文連結</span>${n.sources.map(s=>`<a href="${s.url}" target="_blank" rel="noopener">🔗 ${s.title}</a>`).join("")}</div>`:""}
       </div>
     </div>`;
