@@ -1,89 +1,411 @@
 {
-  "lastUpdated": "2026-06-19",
+  "lastUpdated": "2026-06-20",
   "holdings": [
-    {"ticker": "2330", "market": "台股", "qty": 621, "avgCost": 1214.19, "currentPrice": 2400, "totalInvested": 754010, "flag": "繼續持有", "notes": ""},
-    {"ticker": "009816", "market": "台股", "qty": 29314, "avgCost": 14.85, "currentPrice": 15.68, "totalInvested": 435356, "flag": "繼續持有", "notes": ""},
-    {"ticker": "006208", "market": "台股", "qty": 3162, "avgCost": 107.27, "currentPrice": 249.10, "totalInvested": 339188, "flag": "繼續持有", "notes": ""},
-    {"ticker": "00981A", "market": "台股", "qty": 8625, "avgCost": 30.48, "currentPrice": 31.36, "totalInvested": 262861, "flag": "繼續持有", "notes": ""},
-    {"ticker": "00713", "market": "台股", "qty": 3999, "avgCost": 49.91, "currentPrice": 61.05, "totalInvested": 199590, "flag": "繼續持有", "notes": ""},
-    {"ticker": "0050", "market": "台股", "qty": 2177, "avgCost": 77.73, "currentPrice": 107.30, "totalInvested": 169218, "flag": "繼續持有", "notes": ""},
-    {"ticker": "00919", "market": "台股", "qty": 4956, "avgCost": 22.32, "currentPrice": 30.81, "totalInvested": 110618, "flag": "繼續持有", "notes": ""},
-    {"ticker": "2891", "market": "台股", "qty": 627, "avgCost": 44.73, "currentPrice": 71.90, "totalInvested": 28046, "flag": "繼續持有", "notes": ""},
-    {"ticker": "00403A", "market": "台股", "qty": 2000, "avgCost": 9.82, "currentPrice": 11.03, "totalInvested": 19640, "flag": "繼續持有", "notes": ""},
-    {"ticker": "VT", "market": "美股", "qty": 50, "avgCost": 158.99, "currentPrice": 157.76, "totalInvested": 7949, "flag": "繼續持有", "notes": "略低於成本"},
-    {"ticker": "NVDA", "market": "美股", "qty": 27, "avgCost": 173.12, "currentPrice": 210.69, "totalInvested": 4674, "flag": "繼續持有", "notes": ""},
-    {"ticker": "SPCX", "market": "美股", "qty": 15, "avgCost": 173.77, "currentPrice": 174.90, "totalInvested": 2607, "flag": "觀察中", "notes": "新上市波動大"},
-    {"ticker": "GOOGL", "market": "美股", "qty": 5, "avgCost": 363.14, "currentPrice": 363.79, "totalInvested": 1816, "flag": "繼續持有", "notes": ""},
-    {"ticker": "MSFT", "market": "美股", "qty": 4, "avgCost": 384.94, "currentPrice": 378.91, "totalInvested": 1540, "flag": "觀察中", "notes": "今年來下跌約18% 已跌破成本"},
-    {"ticker": "TSLA", "market": "美股", "qty": 4, "avgCost": 289.82, "currentPrice": 396.38, "totalInvested": 1159, "flag": "繼續持有", "notes": ""},
-    {"ticker": "ASTS", "market": "美股", "qty": 12, "avgCost": 87.36, "currentPrice": 79.64, "totalInvested": 1048, "flag": "觀察中", "notes": "股價波動大 已跌破成本"}
+    {
+      "ticker": "2330",
+      "market": "台股",
+      "qty": 621,
+      "avgCost": 1214.19,
+      "currentPrice": 2410,
+      "totalInvested": 754010,
+      "flag": "繼續持有",
+      "notes": "股東會宣布配息至少24元、營收成長逾30%，AI需求強勁"
+    },
+    {
+      "ticker": "009816",
+      "market": "台股",
+      "qty": 29314,
+      "avgCost": 14.85,
+      "currentPrice": 15.68,
+      "totalInvested": 435356,
+      "flag": "繼續持有",
+      "notes": "凱基台灣TOP50，不配息股息滾入淨值，今年人氣最旺"
+    },
+    {
+      "ticker": "006208",
+      "market": "台股",
+      "qty": 3162,
+      "avgCost": 107.27,
+      "currentPrice": 249.1,
+      "totalInvested": 339188,
+      "flag": "繼續持有",
+      "notes": "富邦台50，追蹤台灣50指數"
+    },
+    {
+      "ticker": "00981A",
+      "market": "台股",
+      "qty": 8625,
+      "avgCost": 30.48,
+      "currentPrice": 31.5,
+      "totalInvested": 262861,
+      "flag": "繼續持有",
+      "notes": "主動統一台股增長，台股規模第6大主動式ETF"
+    },
+    {
+      "ticker": "00713",
+      "market": "台股",
+      "qty": 3999,
+      "avgCost": 49.91,
+      "currentPrice": 61.05,
+      "totalInvested": 199590,
+      "flag": "繼續持有",
+      "notes": "元大台灣高息低波，近四季殖利率約6.6%"
+    },
+    {
+      "ticker": "0050",
+      "market": "台股",
+      "qty": 2177,
+      "avgCost": 77.73,
+      "currentPrice": 107.3,
+      "totalInvested": 169218,
+      "flag": "繼續持有",
+      "notes": "元大台灣50，台股核心持股"
+    },
+    {
+      "ticker": "00919",
+      "market": "台股",
+      "qty": 4956,
+      "avgCost": 22.32,
+      "currentPrice": 30.81,
+      "totalInvested": 110618,
+      "flag": "繼續持有",
+      "notes": "群益台灣精選高息，6/16第2次除息配1元"
+    },
+    {
+      "ticker": "2891",
+      "market": "台股",
+      "qty": 627,
+      "avgCost": 44.73,
+      "currentPrice": 71.9,
+      "totalInvested": 28046,
+      "flag": "繼續持有",
+      "notes": "中信金，連漲5天、金融國家隊成軍"
+    },
+    {
+      "ticker": "00403A",
+      "market": "台股",
+      "qty": 2000,
+      "avgCost": 9.82,
+      "currentPrice": 11.03,
+      "totalInvested": 19640,
+      "flag": "繼續持有",
+      "notes": "主動統一升級50，5/12掛牌、募資逾790億"
+    },
+    {
+      "ticker": "VT",
+      "market": "美股",
+      "qty": 50,
+      "avgCost": 158.99,
+      "currentPrice": 157.66,
+      "totalInvested": 7949,
+      "flag": "繼續持有",
+      "notes": "全球股票ETF，現價略低於成本"
+    },
+    {
+      "ticker": "NVDA",
+      "market": "美股",
+      "qty": 27,
+      "avgCost": 173.12,
+      "currentPrice": 210.33,
+      "totalInvested": 4674,
+      "flag": "繼續持有",
+      "notes": "市值逾5兆美元，分析師強力買進"
+    },
+    {
+      "ticker": "SPCX",
+      "market": "美股",
+      "qty": 15,
+      "avgCost": 173.77,
+      "currentPrice": 185.0,
+      "totalInvested": 2607,
+      "flag": "觀察中",
+      "notes": "SpaceX，新上市波動大（52週135-225）"
+    },
+    {
+      "ticker": "GOOGL",
+      "market": "美股",
+      "qty": 5,
+      "avgCost": 363.14,
+      "currentPrice": 368.03,
+      "totalInvested": 1816,
+      "flag": "繼續持有",
+      "notes": "雲端Q1營收增63%，大舉投入AI算力"
+    },
+    {
+      "ticker": "MSFT",
+      "market": "美股",
+      "qty": 4,
+      "avgCost": 384.94,
+      "currentPrice": 379.4,
+      "totalInvested": 1540,
+      "flag": "觀察中",
+      "notes": "近一年下跌約18%，現價已跌破成本"
+    },
+    {
+      "ticker": "TSLA",
+      "market": "美股",
+      "qty": 4,
+      "avgCost": 289.82,
+      "currentPrice": 398.5,
+      "totalInvested": 1159,
+      "flag": "繼續持有",
+      "notes": "摩根大通升評至中立、目標價475美元"
+    },
+    {
+      "ticker": "ASTS",
+      "market": "美股",
+      "qty": 12,
+      "avgCost": 87.36,
+      "currentPrice": 80.4,
+      "totalInvested": 1048,
+      "flag": "觀察中",
+      "notes": "股價波動大、已跌破成本，6/17成功發射衛星"
+    }
   ],
   "news": [
-    {"ticker": "2330", "headline": "台積電股價創高約2400元", "summary": "6/18約2400元，3月營收年增逾46%，AI晶片與先進製程需求強勁帶動營運，外資持續看好2奈米與CoWoS先進封裝產能滿載。", "sources": [
-      {"title": "鉅亨網 台積電個股總覽（含即時新聞）", "url": "https://www.cnyes.com/twstock/2330"},
-      {"title": "Yahoo 營收速報：台積電3月營收年增46.49%", "url": "https://tw.stock.yahoo.com/news/%E7%87%9F%E6%94%B6%E9%80%9F%E5%A0%B1-%E5%8F%B0%E7%A9%8D%E9%9B%BB-2330-3%E6%9C%88%E7%87%9F%E6%94%B62-859-071555674.html"}
-    ]},
-    {"ticker": "009816", "headline": "009816不配息市值型ETF", "summary": "凱基台灣TOP50收15.68元漲0.84%，首檔不配息市值型ETF，股息自動再投入複利，管理費0.07%偏低，規模逾1510億元。", "sources": [
-      {"title": "豐雲學堂：009816 與 0050、006208 終極對比", "url": "https://www.sinotrade.com.tw/richclub/aiinvest/009816-%E5%80%BC%E5%BE%97%E6%8A%95%E8%B3%87%E5%97%8E-%E9%A6%96%E6%AA%94-%E4%B8%8D%E9%85%8D%E6%81%AF-%E5%B8%82%E5%80%BC%E5%9E%8B-ETF-009816-%E6%88%90%E5%88%86%E8%82%A1-%E6%89%8B%E7%BA%8C%E8%B2%BB-%E7%B8%BE%E6%95%88%E8%A1%A8%E7%8F%BE%E8%88%87-0050-006208-%E7%B5%82%E6%A5%B5%E5%B0%8D%E6%AF%94-69a67a6bbf03804b0533ea85"},
-      {"title": "StockFeel：009816 凱基台灣TOP50 ETF 解析", "url": "https://www.stockfeel.com.tw/009816-%E5%87%B1%E5%9F%BA%E5%8F%B0%E7%81%A3top50-etf/"}
-    ]},
-    {"ticker": "006208", "headline": "富邦台50殖利率3.23%", "summary": "6/18收249.1元漲1.14%，追蹤台灣50指數，前五大持股含台積電、鴻海、聯發科、台達電，近一年報酬約21%。", "sources": [
-      {"title": "商周 ETF指南：006208 最新配息、成分股", "url": "https://www.businessweekly.com.tw/business/blog/3015250"},
-      {"title": "StockFeel：富邦台50 006208 成分股解析", "url": "https://www.stockfeel.com.tw/%E5%AF%8C%E9%82%A6%E5%8F%B050-etf-006208-%E6%88%90%E5%88%86%E8%82%A1/"}
-    ]},
-    {"ticker": "00981A", "headline": "00981A淨值居主動台股冠軍", "summary": "6/18收31.36元漲1.55%，規模約2920億、受益人逾99萬，統一投信主動式ETF，具高成長潛力。", "sources": [
-      {"title": "Yahoo：統一投信居主動式台股基金淨值冠亞軍", "url": "https://tw.stock.yahoo.com/news/%E7%B5%B1-%E6%8A%95%E4%BF%A1%E5%B1%85%E4%B8%BB%E5%8B%95%E5%BC%8F%E5%8F%B0%E8%82%A1%E5%9F%BA%E9%87%91%E6%B7%A8%E5%80%BC%E5%86%A0%E4%BA%9E%E8%BB%8D-00981a%E5%85%B7%E9%AB%98%E6%88%90%E9%95%B7%E6%BD%9B%E5%8A%9B-065611303.html"}
-    ]},
-    {"ticker": "00713", "headline": "00713連5漲收61元", "summary": "元大台灣高息低波6/17收61.05元漲0.49%，6/22第二次除息每股配1元，7/10發放，2026累計配息1.78元。", "sources": [
-      {"title": "Win投資：00713 最新配息、成分股、報酬率", "url": "https://winvest.tw/Stock/Symbol/EtfInformation/00713"},
-      {"title": "Goodinfo：00713 除權息日程", "url": "https://goodinfo.tw/tw/StockDividendSchedule.asp?STOCK_ID=00713"}
-    ]},
-    {"ticker": "0050", "headline": "0050 3月納入5檔AI概念股", "summary": "6/18收107.3元漲1.23%，3月季度調整納入金像電等5檔AI概念股，規模逼近1.2兆元、受益人逾225萬，續為台股核心持股。", "sources": [
-      {"title": "StockFeel：0050 成分股、配息、優缺點整理", "url": "https://www.stockfeel.com.tw/%E3%80%90-%E6%9C%80%E6%96%B0%E6%9B%B4%E6%96%B0-%E3%80%910050-%E6%98%AF%E4%BB%80%E9%BA%BC%EF%BC%9F%E6%88%90%E5%88%86%E8%82%A1%E6%9C%89%E5%93%AA%E4%BA%9B%EF%BC%9F/"},
-      {"title": "Win投資：0050 最新配息與成分股", "url": "https://winvest.tw/Stock/Symbol/EtfInformation/0050"}
-    ]},
-    {"ticker": "00919", "headline": "00919第2次除息配1元", "summary": "6/16第二次除息每股1元，7/13發放，殖利率3.26%，現價約30.81元，2025全年配息2.52元，屬高股息ETF。", "sources": [
-      {"title": "CMoney：00919 與 2026 台股觀點討論", "url": "https://www.cmoney.tw/forum/article/177152590"},
-      {"title": "群益投信：00919 ETF 產品頁", "url": "https://www.capitalfund.com.tw/etf/product/detail/195"}
-    ]},
-    {"ticker": "2891", "headline": "中信金配息2.5元創新高", "summary": "6/18收71.9元漲1.27%，連4漲，外資單日買超1.9萬張；2026配發每股現金股利2.5元創新高，盈餘配發率約61%。", "sources": [
-      {"title": "聯合新聞網：中信金配息2.5元創新高", "url": "https://udn.com/news/story/7252/9463168"},
-      {"title": "Roo.Cash：2026 中信金配息日、除息日資訊", "url": "https://roo.cash/blog/2891-dividend-article/"}
-    ]},
-    {"ticker": "00403A", "headline": "00403A募790億掛牌交投熱絡", "summary": "統一台股升級50主動式ETF，5/12掛牌、募資逾790億創台股ETF第2大，6/18收11.03元漲2.6%，採市值投資策略。", "sources": [
-      {"title": "商周：00403A 是什麼？與00981A、0050 差別", "url": "https://www.businessweekly.com.tw/business/blog/3021353"},
-      {"title": "StockFeel：00403A 統一台股升級50主動式ETF", "url": "https://www.stockfeel.com.tw/00403a-%E7%B5%B1%E4%B8%80%E5%8F%B0%E8%82%A1%E5%8D%87%E7%B4%9A50%E4%B8%BB%E5%8B%95%E5%BC%8F-etf/"}
-    ]},
-    {"ticker": "VT", "headline": "VT全球股票ETF約158美元", "summary": "追蹤FTSE全球全市場指數，淨資產約284億美元、費用率0.06%，YTD報酬約11%，2026全球經濟成長估2.25%-2.8%。", "sources": [
-      {"title": "Tickeron：VT 2026 全球股市趨勢分析", "url": "https://tickeron.com/blogs/vanguard-total-world-stock-etf-vt-capturing-global-equity-trends-in-2026-12352/"},
-      {"title": "Yahoo Finance：VT 報價與新聞", "url": "https://finance.yahoo.com/quote/VT/"}
-    ]},
-    {"ticker": "NVDA", "headline": "Nvidia市值突破5兆美元", "summary": "6/18收210.69美元漲2.95%，市值約5.14兆；Computex 2026 擴大AI布局，高盛重申買進目標價285美元，惟亞馬遜等競爭加劇。", "sources": [
-      {"title": "TradingKey：2026 輝達是否仍值得買入", "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/261506005-nvda-nvidia-stock-price-2026-2030-tradingkey"},
-      {"title": "富途牛牛：NVDA 新聞動態", "url": "https://www.futunn.com/hk/stock/NVDA-US/news"}
-    ]},
-    {"ticker": "SPCX", "headline": "SpaceX上市後股價波動", "summary": "6/18約174.9美元，前收191.82，6/12以135美元完成史上最大IPO募資約750億美元，首日漲19%後波動劇烈。", "sources": [
-      {"title": "StockTitan：VegaShares 推出 SpaceX & Beyond Earth ETF", "url": "https://www.stocktitan.net/news/SPCX/vega-shares-announces-launch-of-the-vega-shares-space-x-beyond-earth-jtvp7qk4t0y4.html"}
-    ]},
-    {"ticker": "GOOGL", "headline": "Alphabet史上最大發債847億", "summary": "6/17收363.79美元，6月超募完成847.5億美元發債，今年資本支出上看1900億；Q1雲端營收年增63%，分析師看好2026續領先。", "sources": [
-      {"title": "鉅亨美股雷達：分析師看好Alphabet 2026續領先", "url": "https://news.cnyes.com/news/id/6303760"},
-      {"title": "Yahoo Finance：GOOGL 最新新聞", "url": "https://finance.yahoo.com/quote/GOOGL/news/"}
-    ]},
-    {"ticker": "MSFT", "headline": "微軟今年來下跌約18%", "summary": "6/18收378.91元跌2.81%，近一年下跌約18%；傳與甲骨文30億雲端合約破局，考慮採DeepSeek降Copilot成本，7/28法說。", "sources": [
-      {"title": "Yahoo Finance：分析師對 Microsoft 的看法", "url": "https://finance.yahoo.com/news/strong-analyst-sentiment-microsoft-msft-111625829.html"},
-      {"title": "StockInvest：MSFT 動能與評等", "url": "https://stockinvest.us/stock-news/microsofts-stock-shows-upward-momentum-expected-to-see-modest-gains-on-june-23-buy-recommendation"}
-    ]},
-    {"ticker": "TSLA", "headline": "Tesla約396美元評等買進", "summary": "6/18收396.38美元，分析師評等買進、目標價約420美元；馬斯克行使選擇權增持，中國FSD推出提振漲勢。", "sources": [
-      {"title": "MEXC：特斯拉股價瞄準500美元，中國FSD提振", "url": "https://www.mexc.com/zh-TW/news/1082479"},
-      {"title": "Investing：Tesla 股市新聞", "url": "https://hk.investing.com/equities/tesla-motors-news"}
-    ]},
-    {"ticker": "ASTS", "headline": "ASTS發射3顆衛星後回檔", "summary": "6/18約79.64美元跌約9%，SpaceX以獵鷹9號成功發射BlueBird 8/9/10衛星；巴克萊調降目標價至60美元，年底目標佈署約45顆。", "sources": [
-      {"title": "sorae：SpaceX 發射 AST BlueBird Block2 三衛星", "url": "https://sorae.info/ssn/20260618-bluebird-block2.html"},
-      {"title": "Investing：AST SpaceMobile 股價急騰原因", "url": "https://jp.investing.com/news/stock-market-news/article-93CH-1565717"}
-    ]}
+    {
+      "ticker": "2330",
+      "headline": "台積電股東會配息至少24元",
+      "summary": "6/18約2410元創高。6/4股東會魏哲家宣布2026現金股利至少24元、美元營收成長逾30%，AI與2奈米需求強勁，外資喊目標價2330-2400元。",
+      "sources": [
+        {
+          "title": "豐雲學堂：台積電股東會魏哲家談配息與營收",
+          "url": "https://www.sinotrade.com.tw/richclub/hotstock/%E5%8F%B0%E7%A9%8D%E9%9B%BB-2330-%E8%82%A1%E6%9D%B1%E6%9C%83%E7%99%BB%E5%A0%B4-%E9%AD%8F%E5%93%B2%E5%AE%B6-%E8%82%A1%E5%83%B9%E5%B9%B4%E6%BC%B21-5%E5%80%8D-%E9%85%8D%E6%81%AF%E8%87%B3%E5%B0%9124%E5%85%83-2026%E5%85%A8%E5%B9%B4%E7%BE%8E%E5%85%83%E7%87%9F%E6%94%B6%E6%88%90%E9%95%B7%E4%BB%8D%E9%80%BE3%E6%88%90-%E8%82%A1%E5%B8%82%E8%A9%B1%E9%A1%8C-6a20eef7b55a18bfaf273e78"
+        },
+        {
+          "title": "口袋學堂：台積電2026股東會重點整理",
+          "url": "https://www.pocket.tw/school/report/SCHOOL/7485/"
+        }
+      ]
+    },
+    {
+      "ticker": "009816",
+      "headline": "009816今年人氣最旺ETF",
+      "summary": "凱基台灣TOP50收15.68元漲0.84%，規模由332億飆升至982億、成長近196%，為唯一不配息台股市值型ETF，股息自動滾入淨值。",
+      "sources": [
+        {
+          "title": "StockFeel：009816 凱基台灣TOP50 ETF解析",
+          "url": "https://www.stockfeel.com.tw/009816-%E5%87%B1%E5%9F%BA%E5%8F%B0%E7%81%A3top50-etf/"
+        },
+        {
+          "title": "聯合新聞網：主動型ETF與009816受矚目",
+          "url": "https://udn.com/news/story/123006/9555037"
+        }
+      ]
+    },
+    {
+      "ticker": "006208",
+      "headline": "富邦台50收249.1元漲1.14%",
+      "summary": "6/18收249.10元漲1.14%，追蹤台灣50指數，前五大持股含台積電、鴻海、聯發科、台達電，受台股多頭帶動續創高。",
+      "sources": [
+        {
+          "title": "口袋證券：富邦台50成分股、持股明細",
+          "url": "https://www.pocket.tw/etf/tw/006208/"
+        },
+        {
+          "title": "Goodinfo：006208 富邦台50股價行情",
+          "url": "https://goodinfo.tw/tw/StockDetail.asp?STOCK_ID=006208"
+        }
+      ]
+    },
+    {
+      "ticker": "00981A",
+      "headline": "00981A台股第6大ETF",
+      "summary": "6/18收31.50元漲2.01%，主動統一台股增長為掛牌以來規模最大、受益人最多的台股主動ETF，第2次季配息0.63元、年化殖利率約8%。",
+      "sources": [
+        {
+          "title": "商周：00981A 主動統一台股增長ETF介紹",
+          "url": "https://www.businessweekly.com.tw/business/blog/3021336"
+        },
+        {
+          "title": "Win投資：00981A 統一主動ETF配息與成分股",
+          "url": "https://winvest.tw/Knowledge/Article/273"
+        }
+      ]
+    },
+    {
+      "ticker": "00713",
+      "headline": "00713連漲收61元",
+      "summary": "元大台灣高息低波6/17收61.05元漲0.49%，追蹤特選高股息低波動指數、50檔成分股，近四季現金殖利率約6.64%。",
+      "sources": [
+        {
+          "title": "口袋證券：00713 成分股、持股明細",
+          "url": "https://www.pocket.tw/etf/tw/00713/"
+        },
+        {
+          "title": "Goodinfo：00713 元大台灣高息低波行情",
+          "url": "https://goodinfo.tw/tw/StockDetail/StockDetail.asp?STOCK_ID=00713"
+        }
+      ]
+    },
+    {
+      "ticker": "0050",
+      "headline": "0050收107.3元漲1.23%",
+      "summary": "元大台灣50 6/18收107.30元漲1.23%，殖利率約2.09%、近一年報酬約21%，為台股最具代表性的市值型ETF。",
+      "sources": [
+        {
+          "title": "Win投資：0050 最新配息、成分股與報酬率",
+          "url": "https://winvest.tw/Stock/Symbol/EtfInformation/0050"
+        },
+        {
+          "title": "富果：元大台灣50 即時股價與財報",
+          "url": "https://www.fugle.tw/ai/0050"
+        }
+      ]
+    },
+    {
+      "ticker": "00919",
+      "headline": "00919第2次除息配1元",
+      "summary": "6/18收30.81元漲1.52%，6/16第2次除息每股配1元、7/13發放、殖利率3.26%，2026累計配息1.78元，屬高股息ETF。",
+      "sources": [
+        {
+          "title": "Win投資：00919 最新配息、成分股與報酬率",
+          "url": "https://winvest.tw/Stock/Symbol/EtfInformation/00919"
+        },
+        {
+          "title": "群益投信：00919 台灣精選高息ETF產品頁",
+          "url": "https://www.capitalfund.com.tw/etf/product/detail/195"
+        }
+      ]
+    },
+    {
+      "ticker": "2891",
+      "headline": "中信金連漲、金融國家隊成軍",
+      "summary": "6/18收71.90元漲1.27%、連漲5天共6.52%，本益比約17。金融國家隊6月成軍，中信金與玉山、富邦金挺台廠赴美並與國發會簽MOU。",
+      "sources": [
+        {
+          "title": "Goodinfo：2891 中信金股價行情概況",
+          "url": "https://goodinfo.tw/tw/StockDetail.asp?STOCK_ID=2891"
+        },
+        {
+          "title": "財報狗：2891 中信金亮點與風險分析",
+          "url": "https://statementdog.com/analysis/2891"
+        }
+      ]
+    },
+    {
+      "ticker": "00403A",
+      "headline": "00403A募790億創掛牌紀錄",
+      "summary": "主動統一升級50於5/12掛牌、募資逾790億改寫紀錄，6/18收11.03元漲2.6%，採雙層選股、聚焦約90%科技股佈局。",
+      "sources": [
+        {
+          "title": "商周：00403A 與00981A、0050 差別一次看",
+          "url": "https://www.businessweekly.com.tw/business/blog/3021353"
+        },
+        {
+          "title": "StockFeel：00403A 統一台股升級50主動式ETF",
+          "url": "https://www.stockfeel.com.tw/00403a-%E7%B5%B1%E4%B8%80%E5%8F%B0%E8%82%A1%E5%8D%87%E7%B4%9A50%E4%B8%BB%E5%8B%95%E5%BC%8F-etf/"
+        }
+      ]
+    },
+    {
+      "ticker": "VT",
+      "headline": "VT全球股票ETF約157.66美元",
+      "summary": "6/18收157.66美元漲1.16%，追蹤全球全市場、費用率0.06%，北美約65%、歐洲約13.6%、新興市場約10%，全球分散配置。",
+      "sources": [
+        {
+          "title": "Vanguard：VT 基金概況",
+          "url": "https://investor.vanguard.com/investment-products/etfs/profile/vt"
+        },
+        {
+          "title": "Yahoo Finance：VT 報價與歷史",
+          "url": "https://finance.yahoo.com/quote/VT/"
+        }
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "headline": "Nvidia市值突破5兆美元",
+      "summary": "6/19約210美元、市值約5.17兆，38位分析師給強力買進、目標約299美元。與SK hynix記憶體合作、NAVER及SKT擴建AI基建，6/24股東會。",
+      "sources": [
+        {
+          "title": "The Motley Fool：Nvidia 6月股價展望",
+          "url": "https://www.fool.com/investing/2026/06/02/prediction-nvidias-stock-will-skyrocket-in-june/"
+        },
+        {
+          "title": "StockAnalysis：NVDA 股價與概覽",
+          "url": "https://stockanalysis.com/stocks/nvda/"
+        }
+      ]
+    },
+    {
+      "ticker": "SPCX",
+      "headline": "SpaceX上市後股價波動劇烈",
+      "summary": "6/19約185美元、前收191.82。6/12以135美元完成史上最大IPO募約750億美元、首日漲19%，現為美國第6大上市公司，52週區間135-225波動大。",
+      "sources": [
+        {
+          "title": "CNBC：SpaceX IPO 首日收161美元、漲19%",
+          "url": "https://www.cnbc.com/2026/06/12/spacex-ipo-spcx-live-updates.html"
+        },
+        {
+          "title": "Investing：SpaceX 股價與IPO詳情",
+          "url": "https://www.investing.com/equities/spacex"
+        }
+      ]
+    },
+    {
+      "ticker": "GOOGL",
+      "headline": "Alphabet宣布800億美元募資投AI",
+      "summary": "6/18收368.03美元。6/1宣布800億美元股權募資（含波克夏100億私募）投入AI算力，2026資本支出上看1900億、Q1雲端營收增63%，目標價445。",
+      "sources": [
+        {
+          "title": "The Motley Fool：Alphabet 投資人重大消息",
+          "url": "https://www.fool.com/investing/2026/06/04/massive-news-for-alphabet-stock-investors/"
+        },
+        {
+          "title": "Alphabet：2026年6月股權募資新聞稿",
+          "url": "https://s206.q4cdn.com/479360582/files/doc_news/2026/Jun/01/attachments/2026-June-Alphabet-Equity-Capital-Raise-Press-Release-PDF.pdf"
+        }
+      ]
+    },
+    {
+      "ticker": "MSFT",
+      "headline": "微軟近一年跌約18%",
+      "summary": "6/18收379.40美元，自552美元52週高回落、近一年跌約18%。Build大會推自研AI編碼模型，Ackman旗下Pershing Square建倉，分析師12個月目標約519美元。",
+      "sources": [
+        {
+          "title": "StockStory：Microsoft 股價上漲原因分析",
+          "url": "https://stockstory.org/us/stocks/nasdaq/msft/news/why-up-down/microsoft-msft-stock-trades-up-here-is-why-2"
+        },
+        {
+          "title": "Yahoo Finance：MSFT 報價與新聞",
+          "url": "https://finance.yahoo.com/quote/MSFT/"
+        }
+      ]
+    },
+    {
+      "ticker": "TSLA",
+      "headline": "Tesla約398美元、獲調升評等",
+      "summary": "6/19收398.50美元、市值1.5兆。摩根大通由減碼升至中立、目標價自145升至475美元，馬斯克持股升至19.9%並行使選擇權；FSD在歐洲面臨阻力。",
+      "sources": [
+        {
+          "title": "Capital.com：Tesla 股價展望與SpaceX上市影響",
+          "url": "https://capital.com/en-int/market-updates/tesla-stock-forecast-09-06-2026"
+        },
+        {
+          "title": "Robinhood：TSLA 股價與新聞",
+          "url": "https://robinhood.com/us/en/stocks/TSLA/"
+        }
+      ]
+    },
+    {
+      "ticker": "ASTS",
+      "headline": "ASTS成功發射衛星後回檔",
+      "summary": "6/19約80.40美元跌約5.6%。6/17以獵鷹9號自卡納維爾角成功發射BlueBird 8/9/10衛星，目標年底約45顆在軌；6月由118跌至80、波動劇烈。",
+      "sources": [
+        {
+          "title": "Business Wire：AST成功發射BlueBird 8、9、10",
+          "url": "https://www.businesswire.com/news/home/20260617420856/en/AST-SpaceMobile-Announces-Successful-Orbital-Launch-of-BlueBirds-8-9-and-10"
+        },
+        {
+          "title": "Timothy Sykes：ASTS因BlueBird發射催化上漲",
+          "url": "https://www.timothysykes.com/news/ast-spacemobile-inc-asts-news-2026_06_17/"
+        }
+      ]
+    }
   ],
   "summary": {
-    "twTotal": 2318527,
+    "twTotal": 2318526,
     "usTotal": 20793,
     "twCount": 9,
     "usCount": 7
