@@ -74,12 +74,12 @@
     {
       "ticker": "00981A",
       "market": "台股",
-      "qty": 8625,
-      "avgCost": 30.48,
+      "qty": 11625,
+      "avgCost": 30.91,
       "currentPrice": 32.23,
-      "totalInvested": 262860.75,
+      "totalInvested": 359336.75,
       "flag": "繼續持有",
-      "notes": "主動統一台股增長。主動式ETF龍頭，規模1833億、今年來報酬62.6%。"
+      "notes": "主動統一台股增長。6/22-23加碼3000股，現價高於成本；主動式ETF龍頭規模1833億、今年來報酬62.6%。"
     },
     {
       "ticker": "009816",
@@ -114,12 +114,12 @@
     {
       "ticker": "GOOGL",
       "market": "美股",
-      "qty": 5,
-      "avgCost": 363.14,
+      "qty": 10,
+      "avgCost": 353.82,
       "currentPrice": 341.5,
-      "totalInvested": 1815.7,
+      "totalInvested": 3538.18,
       "flag": "觀察中",
-      "notes": "Alphabet。現價略低於成本，AI人才出走與監管壓力拖累，惟雲端高成長。"
+      "notes": "Alphabet。6/23加碼5股@343.64，現價仍略低於成本；AI人才出走與監管壓力，惟雲端高成長。"
     },
     {
       "ticker": "TSLA",
@@ -154,12 +154,12 @@
     {
       "ticker": "SPCX",
       "market": "美股",
-      "qty": 25,
-      "avgCost": 174.59,
+      "qty": 35,
+      "avgCost": 173.17,
       "currentPrice": 165.14,
-      "totalInvested": 4364.68,
+      "totalInvested": 6061.11,
       "flag": "觀察中",
-      "notes": "SpaceX。6/12史上最大IPO新股，現價低於成本，解禁與發債恐增波動。"
+      "notes": "SpaceX。6/23加碼10股@169.22，現價低於成本；6/12史上最大IPO新股，解禁與發債恐增波動。"
     }
   ],
   "news": [
@@ -417,8 +417,8 @@
     }
   ],
   "summary": {
-    "twTotal": 2318476.48,
-    "usTotal": 24130.79,
+    "twTotal": 2414952.48,
+    "usTotal": 27549.7,
     "twCount": 9,
     "usCount": 7
   }
