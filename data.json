@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-06",
+  "lastUpdated": "2026-07-07",
   "holdings": [
     {
       "ticker": "0050",
@@ -13,49 +13,49 @@
       "unrealizedPnL": 66469.85,
       "pnlPct": 37.95,
       "flag": "繼續持有",
-      "notes": ""
+      "notes": "市值型ETF，長期核心持有"
     },
     {
       "ticker": "006208",
       "market": "台股",
       "qty": 3162,
       "avgCost": 107.27,
-      "currentPrice": 251.35,
-      "priceDate": "2026-07-03",
+      "currentPrice": 252.4,
+      "priceDate": "2026-07-07",
       "totalInvested": 339187.74,
-      "marketValue": 794768.7,
-      "unrealizedPnL": 455580.96,
-      "pnlPct": 134.32,
+      "marketValue": 798088.8,
+      "unrealizedPnL": 458901.06,
+      "pnlPct": 135.29,
       "flag": "繼續持有",
-      "notes": ""
+      "notes": "富邦台50，市值型核心，含真實漲幅未做調整"
     },
     {
       "ticker": "00631L",
       "market": "台股",
       "qty": 17000,
       "avgCost": 37.9101,
-      "currentPrice": 38.8,
-      "priceDate": "2026-07-03",
+      "currentPrice": 38.88,
+      "priceDate": "2026-07-02",
       "totalInvested": 644471.7,
-      "marketValue": 659600.0,
-      "unrealizedPnL": 15128.3,
-      "pnlPct": 2.35,
-      "flag": "繼續持有",
-      "notes": ""
+      "marketValue": 660960.0,
+      "unrealizedPnL": 16488.3,
+      "pnlPct": 2.56,
+      "flag": "觀察中",
+      "notes": "台灣50正2槓桿ETF，波動大；報價日為7/2，7/7大盤重挫恐使淨值回檔"
     },
     {
       "ticker": "00919",
       "market": "台股",
       "qty": 4956,
       "avgCost": 22.32,
-      "currentPrice": 29.8,
-      "priceDate": "2026-07-06",
+      "currentPrice": 29.66,
+      "priceDate": "2026-07-07",
       "totalInvested": 110617.92,
-      "marketValue": 147688.8,
-      "unrealizedPnL": 37070.88,
-      "pnlPct": 33.51,
+      "marketValue": 146994.96,
+      "unrealizedPnL": 36377.04,
+      "pnlPct": 32.89,
       "flag": "繼續持有",
-      "notes": ""
+      "notes": "高息ETF，7/13除息每單位1元"
     },
     {
       "ticker": "009816",
@@ -69,49 +69,49 @@
       "unrealizedPnL": 21936.09,
       "pnlPct": 3.88,
       "flag": "繼續持有",
-      "notes": ""
+      "notes": "凱基台灣TOP50，不配息市值型，持續加碼"
     },
     {
       "ticker": "00981A",
       "market": "台股",
       "qty": 12625,
       "avgCost": 30.8736,
-      "currentPrice": 31.28,
+      "currentPrice": 31.2,
       "priceDate": "2026-07-06",
       "totalInvested": 389779.2,
-      "marketValue": 394910.0,
-      "unrealizedPnL": 5130.8,
-      "pnlPct": 1.32,
+      "marketValue": 393900.0,
+      "unrealizedPnL": 4120.8,
+      "pnlPct": 1.06,
       "flag": "繼續持有",
-      "notes": ""
+      "notes": "統一台股增長主動式ETF"
     },
     {
       "ticker": "2327",
       "market": "台股",
       "qty": 30,
       "avgCost": 1031.4667,
-      "currentPrice": 1055.0,
-      "priceDate": "2026-07-01",
+      "currentPrice": 905.0,
+      "priceDate": "2026-07-06",
       "totalInvested": 30944.0,
-      "marketValue": 31650.0,
-      "unrealizedPnL": 706.0,
-      "pnlPct": 2.28,
+      "marketValue": 27150.0,
+      "unrealizedPnL": -3794.0,
+      "pnlPct": -12.26,
       "flag": "觀察中",
-      "notes": "國巨7/1單日重挫逾7%，短線波動大，惟AI需求強勁，接單出貨比達1.3"
+      "notes": "國巨7/6單日重挫9.95%，現價跌破成本，短線波動大"
     },
     {
       "ticker": "2330",
       "market": "台股",
       "qty": 641,
       "avgCost": 1252.8538,
-      "currentPrice": 2445.0,
-      "priceDate": "2026-07-03",
+      "currentPrice": 2460.0,
+      "priceDate": "2026-07-06",
       "totalInvested": 803079.29,
-      "marketValue": 1567245.0,
-      "unrealizedPnL": 764165.71,
-      "pnlPct": 95.15,
+      "marketValue": 1576860.0,
+      "unrealizedPnL": 773780.71,
+      "pnlPct": 96.35,
       "flag": "繼續持有",
-      "notes": "外資喊出2330/2400元目標價，台積電維持AI供應鏈核心"
+      "notes": "台積電，最大部位，外資喊價3000元"
     },
     {
       "ticker": "2891",
@@ -119,69 +119,69 @@
       "qty": 640,
       "avgCost": 45.27,
       "currentPrice": 71.4,
-      "priceDate": "2026-07-06",
+      "priceDate": "2026-07-07",
       "totalInvested": 28972.8,
       "marketValue": 45696.0,
       "unrealizedPnL": 16723.2,
       "pnlPct": 57.72,
       "flag": "繼續持有",
-      "notes": "外資看好，IRB法2026年實施可提升資本適足率，股價續強"
+      "notes": "中信金，金控股相對抗跌"
     },
     {
       "ticker": "ASTS",
       "market": "美股",
       "qty": 12,
       "avgCost": 87.36,
-      "currentPrice": 85.13,
-      "priceDate": "2026-07-06",
+      "currentPrice": 77.28,
+      "priceDate": "2026-07-07",
       "totalInvested": 1048.32,
-      "marketValue": 1021.56,
-      "unrealizedPnL": -26.76,
-      "pnlPct": -2.55,
+      "marketValue": 927.36,
+      "unrealizedPnL": -120.96,
+      "pnlPct": -11.54,
       "flag": "觀察中",
-      "notes": "BlueBird衛星陸續發射，2026年目標部署45顆，新興太空題材波動大"
+      "notes": "AST SpaceMobile，太空股回檔，現價跌破成本"
     },
     {
       "ticker": "GOOGL",
       "market": "美股",
       "qty": 10,
       "avgCost": 353.8175,
-      "currentPrice": 365.48,
+      "currentPrice": 366.66,
       "priceDate": "2026-07-06",
       "totalInvested": 3538.18,
-      "marketValue": 3654.8,
-      "unrealizedPnL": 116.62,
-      "pnlPct": 3.3,
+      "marketValue": 3666.6,
+      "unrealizedPnL": 128.43,
+      "pnlPct": 3.63,
       "flag": "繼續持有",
-      "notes": ""
+      "notes": "Alphabet，AI人才流失但基本面看好"
     },
     {
       "ticker": "MSFT",
       "market": "美股",
       "qty": 4,
       "avgCost": 384.94,
-      "currentPrice": 390.49,
+      "currentPrice": 386.74,
       "priceDate": "2026-07-06",
       "totalInvested": 1539.76,
-      "marketValue": 1561.96,
-      "unrealizedPnL": 22.2,
-      "pnlPct": 1.44,
+      "marketValue": 1546.96,
+      "unrealizedPnL": 7.2,
+      "pnlPct": 0.47,
       "flag": "繼續持有",
-      "notes": ""
+      "notes": "微軟，Xbox裁員重整"
     },
     {
       "ticker": "NVDA",
       "market": "美股",
       "qty": 27,
       "avgCost": 173.1219,
-      "currentPrice": 194.83,
-      "priceDate": "2026-07-02",
+      "currentPrice": 195.55,
+      "priceDate": "2026-07-06",
       "totalInvested": 4674.29,
-      "marketValue": 5260.41,
-      "unrealizedPnL": 586.12,
-      "pnlPct": 12.54,
+      "marketValue": 5279.85,
+      "unrealizedPnL": 605.56,
+      "pnlPct": 12.96,
       "flag": "繼續持有",
-      "notes": "2026年來股價幾近持平，距高點回落約17%，AI需求續強"
+      "notes": "輝達，否認Kyber延宕，估值受青睞"
     },
     {
       "ticker": "SPCX",
@@ -195,35 +195,35 @@
       "unrealizedPnL": -1429.12,
       "pnlPct": -15.45,
       "flag": "觀察中",
-      "notes": "即將納入Nasdaq-100，估值突破2兆美元，波動大"
+      "notes": "SpaceX，7/7納入Nasdaq-100，現價跌破成本波動大"
     },
     {
       "ticker": "TSLA",
       "market": "美股",
       "qty": 4,
       "avgCost": 289.82,
-      "currentPrice": 393.45,
+      "currentPrice": 398.97,
       "priceDate": "2026-07-06",
       "totalInvested": 1159.28,
-      "marketValue": 1573.8,
-      "unrealizedPnL": 414.52,
-      "pnlPct": 35.76,
+      "marketValue": 1595.88,
+      "unrealizedPnL": 436.6,
+      "pnlPct": 37.66,
       "flag": "繼續持有",
-      "notes": "Q2交車48萬輛優於預期，邁阿密Robotaxi上線"
+      "notes": "特斯拉，Q2交車創佳績"
     },
     {
       "ticker": "VT",
       "market": "美股",
       "qty": 60,
       "avgCost": 158.8127,
-      "currentPrice": 158.22,
+      "currentPrice": 158.0,
       "priceDate": "2026-07-06",
       "totalInvested": 9528.76,
-      "marketValue": 9493.2,
-      "unrealizedPnL": -35.56,
-      "pnlPct": -0.37,
+      "marketValue": 9480.0,
+      "unrealizedPnL": -48.76,
+      "pnlPct": -0.51,
       "flag": "繼續持有",
-      "notes": ""
+      "notes": "全球股市ETF，分散配置"
     }
   ],
   "realized": [
@@ -231,142 +231,207 @@
       "ticker": "00403A",
       "market": "台股",
       "realizedPnL": 1629.0,
-      "note": "6/14買入2000股@9.82，6/26全數賣出@10.66，已清倉"
+      "note": "2026/06已清倉：買進2000股@9.82、賣出@10.66"
     },
     {
       "ticker": "00713",
       "market": "台股",
       "realizedPnL": null,
-      "note": "僅有7/1賣出4097股紀錄，無對應買入紀錄，成本基礎不足，無法計算已實現損益"
+      "note": "賣出4,097股但無對應買入紀錄，成本基礎不足，已實現損益無法計算"
     }
   ],
   "news": [
     {
-      "ticker": "大盤ETF",
-      "headline": "台股7/6收黑跌224點",
-      "summary": "加權指數7月6日收46,556.39點，下跌224.23點（-0.48%）。此則為0050、006208、00631L、00919、009816、00981A等追蹤大盤/高息型ETF共用之大盤走勢。",
-      "date": "2026-07-06",
+      "ticker": "0050",
+      "headline": "台股7/7重挫逾千點",
+      "summary": "加權指數7月7日收45,479點、下跌1,077點(-2.31%)，刷史上盤中第5大跌點；市值型ETF淨值同步波動。",
+      "date": "2026-07-07",
       "sources": [
         {
-          "title": "加權指數 - Yahoo股市",
+          "title": "加權指數走勢-Yahoo股市",
           "url": "https://tw.stock.yahoo.com/quote/%5ETWII"
         }
       ]
     },
     {
-      "ticker": "2330",
-      "headline": "外資喊天價目標",
-      "summary": "台積電股價創高，兩大外資分別喊出2330元、2400元目標價，AI晶片需求續強帶動評價提升。",
-      "date": "2026-06-30",
+      "ticker": "006208",
+      "headline": "台股7/7重挫逾千點",
+      "summary": "加權指數7月7日收45,479點、下跌1,077點(-2.31%)；富邦台50追蹤台灣50指數，隨大盤回檔但年初至今仍大漲。",
+      "date": "2026-07-07",
       "sources": [
         {
-          "title": "豐雲學堂",
-          "url": "https://www.sinotrade.com.tw/richclub/hotstock/"
+          "title": "加權指數走勢-Yahoo股市",
+          "url": "https://tw.stock.yahoo.com/quote/%5ETWII"
+        }
+      ]
+    },
+    {
+      "ticker": "00631L",
+      "headline": "大盤重挫 槓桿ETF波動大",
+      "summary": "台股7/7下跌2.31%，元大台灣50正2為兩倍槓桿ETF，漲跌放大，短線波動劇烈需留意風險。",
+      "date": "2026-07-07",
+      "sources": [
+        {
+          "title": "00631L-Yahoo股市",
+          "url": "https://tw.stock.yahoo.com/quote/00631L.TW"
+        }
+      ]
+    },
+    {
+      "ticker": "009816",
+      "headline": "台股7/7重挫逾千點",
+      "summary": "加權指數7/7下跌2.31%；凱基台灣TOP50為不配息市值型ETF，內含股息再投資，隨大盤回檔。",
+      "date": "2026-07-07",
+      "sources": [
+        {
+          "title": "009816-Yahoo股市",
+          "url": "https://tw.stock.yahoo.com/quote/009816.TW"
+        }
+      ]
+    },
+    {
+      "ticker": "00981A",
+      "headline": "台股7/7重挫逾千點",
+      "summary": "加權指數7/7下跌2.31%；統一台股增長主動式ETF以大型成長股為核心，7/6曾大漲3.29%後隨大盤震盪。",
+      "date": "2026-07-07",
+      "sources": [
+        {
+          "title": "00981A-Yahoo股市",
+          "url": "https://tw.stock.yahoo.com/quote/00981A.TW"
+        }
+      ]
+    },
+    {
+      "ticker": "00919",
+      "headline": "00919將於7/13除息1元",
+      "summary": "群益台灣精選高息7/13除息、每單位配1.00元，近四季殖利率約11.4%；隨台股7/7重挫，高息ETF淨值回檔。",
+      "date": "2026-07-07",
+      "sources": [
+        {
+          "title": "00919股利政策-Yahoo股市",
+          "url": "https://tw.stock.yahoo.com/quote/00919.TW/dividend"
+        }
+      ]
+    },
+    {
+      "ticker": "2330",
+      "headline": "台積電外資喊價3000元",
+      "summary": "台積電7/6收2,460元，魏哲家表示2026全年美元營收成長逾3成、配息至少24元，美系外資喊目標價3000元，並加碼美國廠200億美元。",
+      "date": "2026-07-06",
+      "sources": [
+        {
+          "title": "台積電股東會-豐雲學堂",
+          "url": "https://www.sinotrade.com.tw/richclub/hotstock/%E5%8F%B0%E7%A9%8D%E9%9B%BB-2330-%E8%82%A1%E6%9D%B1%E6%9C%83%E7%99%BB%E5%A0%B4-6a20eef7b55a18bfaf273e78"
         }
       ]
     },
     {
       "ticker": "2327",
-      "headline": "國巨7/1重挫逾7%",
-      "summary": "國巨7月1日單日下跌85元（-7.46%）收1055元；惟股東會釋出下半年強勁信號，AI需求超預期、接單出貨比衝1.3。",
-      "date": "2026-07-01",
+      "headline": "國巨單日重挫近一成",
+      "summary": "國巨7/6收905元、跌9.95%，回吐漲價題材漲幅；公司年初啟動第三波被動元件漲價，AI需求強但股價短線劇震。",
+      "date": "2026-07-06",
       "sources": [
         {
-          "title": "豐雲學堂",
-          "url": "https://www.sinotrade.com.tw/richclub/hotstock/"
+          "title": "國巨漲價攻勢-豐雲學堂",
+          "url": "https://www.sinotrade.com.tw/richclub/hotstock/%E5%9C%8B%E5%B7%A8%E4%B8%89%E6%B3%A2%E6%BC%B2%E5%83%B9%E6%94%BB%E5%8B%A2-695767918b0ba5166610456d"
         }
       ]
     },
     {
       "ticker": "2891",
-      "headline": "外資看好中信金創高",
-      "summary": "中信金股價一路創高，外資看好其穩健財務與監理紅利，2026年IRB法實施可望提升資本適足率1-3個百分點。",
-      "date": "2026-07-03",
+      "headline": "中信金站上71元",
+      "summary": "中信金7/7報71.4元、漲逾1%，金控股相對抗跌；台灣人壽盈餘分派案調整，集團獲FinanceAsia多項大獎。",
+      "date": "2026-07-07",
       "sources": [
         {
-          "title": "聯合新聞網",
-          "url": "https://udn.com/news/story/12806/9226741"
+          "title": "中信金-鉅亨網",
+          "url": "https://www.cnyes.com/twstock/2891"
         }
       ]
     },
     {
       "ticker": "NVDA",
-      "headline": "輝達2026股價持平",
-      "summary": "Nvidia 2026年來股價幾近持平，距近期高點回落約17%，惟AI晶片需求仍強勁支撐現金流。",
-      "date": "2026-07-05",
+      "headline": "輝達否認Kyber延宕",
+      "summary": "NVDA 7/6收195.55美元，公司否認次世代Kyber AI伺服器延遲傳聞；DeepSeek自研晶片消息使盤前承壓，高盛稱21.7倍前瞻本益比具吸引力。",
+      "date": "2026-07-06",
       "sources": [
         {
-          "title": "The Motley Fool",
-          "url": "https://www.fool.com/investing/2026/07/05/the-first-half-of-2026-is-over-2-spectacular-artif/"
+          "title": "NVDA forecast-TradingKey",
+          "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262015350-nvidia-nvda-stock-forecast-july-2026-kyber-denial-goldman-tradingkey"
         }
       ]
     },
     {
       "ticker": "TSLA",
-      "headline": "特斯拉Robotaxi上線股價反彈",
-      "summary": "特斯拉Q2交車48萬輛優於預期，邁阿密Robotaxi服務上線與FSD樂觀情緒帶動股價大幅回升至約393美元。",
+      "headline": "特斯拉Q2交車創佳績",
+      "summary": "TSLA 7/6約398.97美元，Q2交車480,126輛優於預期，Robotaxi擴展至邁阿密，7/22公布財報；7/2曾因獲利了結重挫7.5%。",
       "date": "2026-07-06",
       "sources": [
         {
-          "title": "FX Leaders",
-          "url": "https://www.fxleaders.com/news/2026/07/06/tesla-stock-tsla-recovers-sharply-as-miami-robotaxi-launch-and-fsd-optimism-lift-shares/"
-        }
-      ]
-    },
-    {
-      "ticker": "SPCX",
-      "headline": "SpaceX將納Nasdaq-100",
-      "summary": "SpaceX預計7/7納入Nasdaq-100，估值逾2兆美元；總裁Shotwell宣布捐股予Trump Accounts兒童帳戶。",
-      "date": "2026-07-06",
-      "sources": [
-        {
-          "title": "CNBC",
-          "url": "https://www.cnbc.com/2026/07/06/spacex-spcx-gwynne-shotwell-stock-trump-accounts.html"
+          "title": "TSLA price-Vantage",
+          "url": "https://www.vantagemarkets.com/market-analysis/tsla-stock-price-today-tesla-share-price-july-6-2026/"
         }
       ]
     },
     {
       "ticker": "ASTS",
-      "headline": "下批BlueBird衛星8月發射",
-      "summary": "AST SpaceMobile宣布BlueBird 11、12、13號衛星預計8月上旬自卡納維爾角發射，續朝2026年底部署45顆目標邁進。",
-      "date": "2026-07-01",
+      "headline": "太空股回檔 ASTS走弱",
+      "summary": "ASTS 7/7約77.28美元、單日跌約5%，隨太空族群回檔；維持2026全年營收1.5–2億美元展望，8月BlueBird衛星發射，8/17公布財報。",
+      "date": "2026-07-07",
       "sources": [
         {
-          "title": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ast-spacemobile-announces-launch-date-161500077.html"
+          "title": "ASTS-Yahoo Finance",
+          "url": "https://finance.yahoo.com/quote/ASTS/"
+        }
+      ]
+    },
+    {
+      "ticker": "SPCX",
+      "headline": "SpaceX納入那斯達克100",
+      "summary": "SPCX 7/6收156.45美元，7/7正式納入Nasdaq-100，估帶動約43億美元被動買盤，惟公眾流通量僅3–5%，短線波動加大。",
+      "date": "2026-07-06",
+      "sources": [
+        {
+          "title": "SPCX forecast-TradingKey",
+          "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262011296-spacex-spcx-stock-forecast-july-2026-nasdaq-100-inclusion-tradingkey"
         }
       ]
     },
     {
       "ticker": "GOOGL",
-      "headline": "Alphabet評價具吸引力",
-      "summary": "分析認為Alphabet以獲利面看估值偏便宜、現金流充沛，股價約365美元。",
+      "headline": "Alphabet研究人才流失",
+      "summary": "GOOGL 7/6約366.66美元，兩名資深AI研究員John Jumper、Noam Shazeer分別轉投Anthropic與OpenAI，一週跌逾5%；市場仍看好下季EPS年增約24%。",
       "date": "2026-07-06",
       "sources": [
         {
-          "title": "Simply Wall St",
-          "url": "https://simplywall.st/stocks/us/media/nasdaq-googl/alphabet/news/"
+          "title": "GOOGL-Yahoo Finance",
+          "url": "https://finance.yahoo.com/quote/GOOGL/"
         }
       ]
     },
     {
       "ticker": "MSFT",
-      "headline": "微軟砸25億拓AI",
-      "summary": "微軟成立Frontier Company並投入25億美元強化AI工程，股價約390美元。",
+      "headline": "微軟Xbox裁員3200人",
+      "summary": "MSFT 7/6收386.74美元，Xbox將於一年內裁員約3,200人(約兩成)進行組織重整；Wolfe Research將目標價下修至525美元、維持優於大盤。",
       "date": "2026-07-06",
       "sources": [
         {
-          "title": "Pulse 2.0",
-          "url": "https://pulse2.com/microsoft-launches-frontier-company-with-2-5-billion-ai-engineering-investment/"
+          "title": "MSFT-Yahoo Finance",
+          "url": "https://finance.yahoo.com/quote/MSFT/"
         }
       ]
     },
     {
       "ticker": "VT",
-      "headline": "全球股市接近高點",
-      "summary": "VT為全球市值型ETF，追蹤全球股市，現價約158.22美元，接近52週高點，隨全球大盤波動。",
+      "headline": "全球股市ETF貼近高點",
+      "summary": "VT 7/6約158.00美元，貼近52週高點159.41；今年以來總報酬約11.4%，反映全球多頭但短線因科技股波動震盪。",
       "date": "2026-07-06",
-      "sources": []
+      "sources": [
+        {
+          "title": "VT-Yahoo Finance",
+          "url": "https://finance.yahoo.com/quote/VT/"
+        }
+      ]
     }
   ],
   "summary": {
@@ -374,11 +439,11 @@
     "usTotal": 30740.21,
     "twCount": 9,
     "usCount": 7,
-    "twMarketValue": 4470110.1,
-    "usMarketValue": 30388.23,
-    "twUnrealizedPnL": 1382911.8,
-    "usUnrealizedPnL": -351.98,
-    "twReturnPct": 44.8,
-    "usReturnPct": -1.15
+    "twMarketValue": 4478201.36,
+    "usMarketValue": 30319.15,
+    "twUnrealizedPnL": 1391003.06,
+    "usUnrealizedPnL": -421.06,
+    "twReturnPct": 45.06,
+    "usReturnPct": -1.37
   }
 }
