@@ -1,117 +1,117 @@
 {
-  "lastUpdated": "2026-07-23",
+  "lastUpdated": "2026-07-25",
   "holdings": [
     {
       "ticker": "0050",
       "market": "台股",
       "qty": 3232,
       "avgCost": 87.5146,
-      "currentPrice": 103.9,
-      "priceDate": "2026-07-23",
+      "currentPrice": 101.7,
+      "priceDate": "2026-07-24",
       "totalInvested": 282847.19,
-      "marketValue": 335804.8,
-      "unrealizedPnL": 52957.61,
-      "pnlPct": 18.72,
+      "marketValue": 328694.4,
+      "unrealizedPnL": 45847.21,
+      "pnlPct": 16.21,
       "flag": "繼續持有",
-      "notes": "市值型ETF核心；7/23收103.90(+0.05%)高檔整理續創高"
+      "notes": "市值型ETF核心；7/24收101.70(-2.12%)，隨大盤重挫回檔"
     },
     {
       "ticker": "006208",
       "market": "台股",
       "qty": 3162,
       "avgCost": 107.27,
-      "currentPrice": 237.9,
-      "priceDate": "2026-07-23",
+      "currentPrice": 232.86,
+      "priceDate": "2026-07-24",
       "totalInvested": 339187.74,
-      "marketValue": 752239.8,
-      "unrealizedPnL": 413052.06,
-      "pnlPct": 121.78,
+      "marketValue": 736303.32,
+      "unrealizedPnL": 397115.58,
+      "pnlPct": 117.08,
       "flag": "繼續持有",
-      "notes": "富邦台50，7/23收237.90(+0.21%)再創高；將創紀錄豪配4.75元，年初以來漲逾一倍"
+      "notes": "富邦台50；7/24約收232.86(以0050同日-2.12%推估)；已豪配4.75元(除息7/16、8/10發放)，年初以來仍漲逾一倍"
     },
     {
       "ticker": "00631L",
       "market": "台股",
       "qty": 17000,
       "avgCost": 37.9101,
-      "currentPrice": 35.07,
-      "priceDate": "2026-07-23",
+      "currentPrice": 33.59,
+      "priceDate": "2026-07-24",
       "totalInvested": 644471.7,
-      "marketValue": 596190.0,
-      "unrealizedPnL": -48281.7,
-      "pnlPct": -7.49,
+      "marketValue": 571030.0,
+      "unrealizedPnL": -73441.7,
+      "pnlPct": -11.4,
       "flag": "觀察中",
-      "notes": "台灣50正2槓桿ETF，7/23收35.07(+0.78%)續彈、虧損收斂至約-7.5%；兩倍槓桿大部位波動大，需嚴控風險"
+      "notes": "台灣50正2槓桿ETF；7/24隨大盤重挫、單日跌逾4%(約收33.59，2倍槓桿推估)，虧損擴大至約-11%；大部位波動大需嚴控風險"
     },
     {
       "ticker": "00919",
       "market": "台股",
       "qty": 4956,
       "avgCost": 22.32,
-      "currentPrice": 29.5,
-      "priceDate": "2026-07-23",
+      "currentPrice": 29.49,
+      "priceDate": "2026-07-24",
       "totalInvested": 110617.92,
-      "marketValue": 146202.0,
-      "unrealizedPnL": 35584.08,
-      "pnlPct": 32.17,
+      "marketValue": 146152.44,
+      "unrealizedPnL": 35534.52,
+      "pnlPct": 32.12,
       "flag": "繼續持有",
-      "notes": "高息ETF，7/23收29.50(+0.14%)；配息1元已於7/13入帳，年化配息率逾13%"
+      "notes": "高息ETF，7/24收29.49(-0.03%)抗跌；配息1元已於7/13入帳，年化配息率逾13%"
     },
     {
       "ticker": "009816",
       "market": "台股",
       "qty": 40504,
       "avgCost": 15.0619,
-      "currentPrice": 15.08,
-      "priceDate": "2026-07-23",
+      "currentPrice": 14.72,
+      "priceDate": "2026-07-24",
       "totalInvested": 610067.2,
-      "marketValue": 610800.32,
-      "unrealizedPnL": 733.12,
-      "pnlPct": 0.12,
+      "marketValue": 596218.88,
+      "unrealizedPnL": -13848.32,
+      "pnlPct": -2.27,
       "flag": "繼續持有",
-      "notes": "凱基台灣TOP50，市值型不配息，7/23收15.08(+0.27%)轉正回到成本上方；持續加碼"
+      "notes": "凱基台灣TOP50，市值型不配息；7/24收14.72(-2.39%)隨大盤回檔略跌破成本；持續定期定額加碼"
     },
     {
       "ticker": "00981A",
       "market": "台股",
       "qty": 12625,
       "avgCost": 30.8736,
-      "currentPrice": 28.69,
-      "priceDate": "2026-07-23",
+      "currentPrice": 27.54,
+      "priceDate": "2026-07-24",
       "totalInvested": 389779.2,
-      "marketValue": 362211.25,
-      "unrealizedPnL": -27567.95,
-      "pnlPct": -7.07,
+      "marketValue": 347692.5,
+      "unrealizedPnL": -42086.7,
+      "pnlPct": -10.8,
       "flag": "觀察中",
-      "notes": "統一台股增長主動式ETF，7/23收28.69(+0.67%)續彈，仍跌破成本、波動大"
+      "notes": "統一台股增長主動式ETF；7/24收27.54(-4.01%)，重壓被動元件(國巨)拖累、跌幅大於市值型，波動高"
     },
     {
       "ticker": "2327",
       "market": "台股",
       "qty": 30,
       "avgCost": 1031.4667,
-      "currentPrice": 696.0,
-      "priceDate": "2026-07-23",
+      "currentPrice": 642.0,
+      "priceDate": "2026-07-24",
       "totalInvested": 30944.0,
-      "marketValue": 20880.0,
-      "unrealizedPnL": -10064.0,
-      "pnlPct": -32.52,
+      "marketValue": 19260.0,
+      "unrealizedPnL": -11684.0,
+      "pnlPct": -37.76,
       "flag": "觀察中",
-      "notes": "國巨，7/23收696元回檔約1%，仍深跌破成本；花旗重申買進、6月營收年增38.9%"
+      "notes": "國巨，7/24重挫7.76%收642元，自高點1220元跌近四成；Rubin Ultra延後傳聞+被動元件賣壓，深跌破成本"
     },
     {
       "ticker": "2330",
       "market": "台股",
       "qty": 651,
       "avgCost": 1270.5273,
-      "currentPrice": 2405.0,
-      "priceDate": "2026-07-23",
+      "currentPrice": 2350.0,
+      "priceDate": "2026-07-24",
       "totalInvested": 827113.27,
-      "marketValue": 1565655.0,
-      "unrealizedPnL": 738541.73,
-      "pnlPct": 89.29,
+      "marketValue": 1529850.0,
+      "unrealizedPnL": 702736.73,
+      "pnlPct": 84.96,
       "flag": "繼續持有",
-      "notes": "台積電最大部位，7/23尾盤翻紅收2,405元(+5元)貢獻大盤約39點；7/16法說亮眼(Q2毛利率67.7%、全年營收上修逾40%)"
+      "notes": "台積電最大部位，7/24收2,350元(-55、-2.29%)隨大盤與美科技股回檔；7/16法說亮眼(Q2毛利率67.7%、全年營收上修逾40%)基本面不變"
     },
     {
       "ticker": "2891",
@@ -125,21 +125,21 @@
       "unrealizedPnL": 11667.2,
       "pnlPct": 40.27,
       "flag": "繼續持有",
-      "notes": "中信金，7/23收63.50(+0.78%)；上半年大賺395億創新高EPS1.96元，除息2.5元8/7發放"
+      "notes": "中信金，最近收約63.5元(7/24收盤未明沿用7/23)；已於7/10除息2.5元(創新高)、8/7發放；上半年大賺395億EPS1.96"
     },
     {
       "ticker": "AMD",
       "market": "美股",
       "qty": 3,
       "avgCost": 509.27,
-      "currentPrice": 554.0,
-      "priceDate": "2026-07-22",
+      "currentPrice": 521.6,
+      "priceDate": "2026-07-24",
       "totalInvested": 1527.81,
-      "marketValue": 1662.0,
-      "unrealizedPnL": 134.19,
-      "pnlPct": 8.78,
+      "marketValue": 1564.8,
+      "unrealizedPnL": 36.99,
+      "pnlPct": 2.42,
       "flag": "繼續持有",
-      "notes": "7/22收554.00(+0.30%)帳面賺約9%，今年來漲逾150%；7/22 Advancing AI活動、8/4公布Q2財報"
+      "notes": "7/24收521.60(-0.07%)，本週晶片股回檔自高檔拉回；蘇姿丰稱AI需求無放緩，8/4公布Q2財報"
     },
     {
       "ticker": "ASTS",
@@ -153,119 +153,119 @@
       "unrealizedPnL": -304.92,
       "pnlPct": -29.09,
       "flag": "觀察中",
-      "notes": "AST SpaceMobile，7/22收61.95較前波低點強彈、虧損收斂至約-29%；先前因10億美元可轉債募資、延後衛星商轉時程重挫"
+      "notes": "AST SpaceMobile，報價沿用7/22收61.95；先前因10億美元可轉債募資、延後衛星商轉時程重挫，虧損約-29%"
     },
     {
       "ticker": "GOOGL",
       "market": "美股",
       "qty": 10.43701,
       "avgCost": 353.3785,
-      "currentPrice": 327.14,
-      "priceDate": "2026-07-22",
+      "currentPrice": 320.04,
+      "priceDate": "2026-07-24",
       "totalInvested": 3688.21,
-      "marketValue": 3414.36,
-      "unrealizedPnL": -273.85,
-      "pnlPct": -7.43,
+      "marketValue": 3340.26,
+      "unrealizedPnL": -347.95,
+      "pnlPct": -9.43,
       "flag": "觀察中",
-      "notes": "Alphabet，7/22財報後收327.14(-4.37%)跌破成本；Q2營收1,198億美元年增24%但AI資本支出龐大、母公司層級營業虧損58億美元"
+      "notes": "Alphabet，7/24收320.04(+0.09%)止穩仍跌破成本；Q2營收年增24%但AI資本支出龐大令市場失望"
     },
     {
       "ticker": "MSFT",
       "market": "美股",
       "qty": 4,
       "avgCost": 384.94,
-      "currentPrice": 390.34,
-      "priceDate": "2026-07-22",
+      "currentPrice": 381.7,
+      "priceDate": "2026-07-24",
       "totalInvested": 1539.76,
-      "marketValue": 1561.36,
-      "unrealizedPnL": 21.6,
-      "pnlPct": 1.4,
+      "marketValue": 1526.8,
+      "unrealizedPnL": -12.96,
+      "pnlPct": -0.84,
       "flag": "繼續持有",
-      "notes": "微軟，7/22收390.34(-1.86%)回落仍站穩高檔；7/29公布Q4財報，分析師平均目標約559美元"
+      "notes": "微軟，7/24收381.70回落略低於成本；7/29公布Q4財報，分析師平均目標約559美元"
     },
     {
       "ticker": "MU",
       "market": "美股",
       "qty": 2,
       "avgCost": 910.08,
-      "currentPrice": 967.0,
+      "currentPrice": 959.48,
       "priceDate": "2026-07-22",
       "totalInvested": 1820.16,
-      "marketValue": 1934.0,
-      "unrealizedPnL": 113.84,
-      "pnlPct": 6.25,
+      "marketValue": 1918.96,
+      "unrealizedPnL": 98.8,
+      "pnlPct": 5.43,
       "flag": "繼續持有",
-      "notes": "美光，7/22收967.00(+0.78%)；AI記憶體需求強，KeyBanc目標調升至1,750，共識強力買進"
+      "notes": "美光，報價沿用7/22收959.48；AI記憶體需求強，KeyBanc目標1,750，共識強力買進，惟近月波動大"
     },
     {
       "ticker": "NVDA",
       "market": "美股",
       "qty": 27,
       "avgCost": 173.1219,
-      "currentPrice": 213.72,
-      "priceDate": "2026-07-22",
+      "currentPrice": 206.84,
+      "priceDate": "2026-07-24",
       "totalInvested": 4674.29,
-      "marketValue": 5770.44,
-      "unrealizedPnL": 1096.15,
-      "pnlPct": 23.45,
+      "marketValue": 5584.68,
+      "unrealizedPnL": 910.39,
+      "pnlPct": 19.48,
       "flag": "繼續持有",
-      "notes": "輝達，7/22漲約3%至213.72、帳面賺逾23%；新聘微軟老將接業務主管，分析師平均目標約302"
+      "notes": "輝達，7/24收206.84(-0.92%)自高檔回落，帳面仍賺約19%；分析師平均目標約302"
     },
     {
       "ticker": "SPCX",
       "market": "美股",
       "qty": 60,
       "avgCost": 181.2612,
-      "currentPrice": 115.26,
-      "priceDate": "2026-07-22",
+      "currentPrice": 115.07,
+      "priceDate": "2026-07-24",
       "totalInvested": 10875.67,
-      "marketValue": 6915.6,
-      "unrealizedPnL": -3960.07,
-      "pnlPct": -36.41,
+      "marketValue": 6904.2,
+      "unrealizedPnL": -3971.47,
+      "pnlPct": -36.52,
       "flag": "觀察中",
-      "notes": "SpaceX，7/22收115.26(-6.70%)再挫、較IPO跌約25%；8/4首份財報、8/6約9.1億股解禁，星艦進展為關鍵"
+      "notes": "SpaceX，7/24收115.07(-2.68%)，七月與TSLA同步走弱；8/4首份財報、8/6約9.1億股解禁為關鍵"
     },
     {
       "ticker": "TSLA",
       "market": "美股",
       "qty": 4,
       "avgCost": 289.82,
-      "currentPrice": 378.93,
-      "priceDate": "2026-07-21",
+      "currentPrice": 311.38,
+      "priceDate": "2026-07-24",
       "totalInvested": 1159.28,
-      "marketValue": 1515.72,
-      "unrealizedPnL": 356.44,
-      "pnlPct": 30.75,
+      "marketValue": 1245.52,
+      "unrealizedPnL": 86.24,
+      "pnlPct": 7.44,
       "flag": "繼續持有",
-      "notes": "特斯拉，7/22盤後公布Q2財報：營收282.4億美元優於預期、交車創Q2新高，但調整後EPS 0.33美元遜於預期0.51、出現兩年多來首見負自由現金流(報價沿用7/21收378.93)"
+      "notes": "特斯拉，7/23因Q2財報重挫14.5%、7/24收311.38；EPS0.33遜於預期0.51、獲利受降價與支出壓縮，7/24週五盤中一度失守1兆美元市值"
     },
     {
       "ticker": "VOO",
       "market": "美股",
       "qty": 10.16267,
       "avgCost": 571.1747,
-      "currentPrice": 687.03,
-      "priceDate": "2026-07-22",
+      "currentPrice": 678.61,
+      "priceDate": "2026-07-23",
       "totalInvested": 5804.66,
-      "marketValue": 6982.06,
-      "unrealizedPnL": 1177.4,
-      "pnlPct": 20.28,
+      "marketValue": 6896.49,
+      "unrealizedPnL": 1091.83,
+      "pnlPct": 18.81,
       "flag": "繼續持有",
-      "notes": "每月定期定額(標普500)；7/22收687.03(-0.12%)高檔小幅回落"
+      "notes": "每月定期定額(標普500)；報價沿用7/23收678.61(-1.23%)，隨美股高檔回落"
     },
     {
       "ticker": "VT",
       "market": "美股",
       "qty": 60,
       "avgCost": 158.8127,
-      "currentPrice": 156.14,
-      "priceDate": "2026-07-21",
+      "currentPrice": 154.7,
+      "priceDate": "2026-07-23",
       "totalInvested": 9528.76,
-      "marketValue": 9368.4,
-      "unrealizedPnL": -160.36,
-      "pnlPct": -1.68,
+      "marketValue": 9282.0,
+      "unrealizedPnL": -246.76,
+      "pnlPct": -2.59,
       "flag": "繼續持有",
-      "notes": "全球股市ETF，報價沿用7/21收156.14(+1.20%)；分散配置全球股票"
+      "notes": "全球股市ETF，報價沿用7/23收154.70；分散配置全球股票，隨科技股回檔略低於成本"
     }
   ],
   "realized": [
@@ -285,24 +285,24 @@
   "news": [
     {
       "ticker": "大盤",
-      "headline": "台股上下震盪 加權收44,850點漲0.06%",
-      "summary": "台股7/23早盤最高衝上45,089點後賣壓湧現，一度翻黑、全日上下震盪749點，隨台積電尾盤翻紅，加權指數終場收44,850.81點(+25.03、+0.06%)，成交值約8,925億元。台積電收2,405元貢獻大盤約39點。市值型與槓桿ETF(0050、006208、00631L、009816、00981A)同步小漲。",
-      "date": "2026-07-23",
+      "headline": "台股重挫1195點 收43,654(-2.67%)",
+      "summary": "台股7/24開低走低、終場重挫1,195.97點收43,654.84點(-2.67%)，回測季線與4萬4大關。主因美國對台10%新關稅美東時間7/24生效、美國威脅升級對伊朗打擊使布蘭特原油飆破100美元，加上近日反彈融資增溫引發殺盤；外資及陸資合計賣超約609.5億元。市值型與槓桿ETF(0050、006208、00631L、009816、00981A)同步下跌。",
+      "date": "2026-07-24",
       "sources": [
+        {
+          "title": "台股收跌1195點 老AI股強撐盤-Yahoo股市",
+          "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E6%94%B6%E8%B7%8C1195%E9%BB%9E-%E8%80%81ai%E8%82%A1%E5%BC%B7%E6%92%90%E7%9B%A4-%E9%80%99%E6%A8%A1%E7%B5%84-%E9%80%86%E5%8B%A2%E6%94%BB%E6%BC%B2%E5%81%9C-055900176.html"
+        },
         {
           "title": "加權指數(^TWII)-Yahoo股市",
           "url": "https://tw.stock.yahoo.com/quote/%5ETWII"
-        },
-        {
-          "title": "台股盤勢-Yahoo股市",
-          "url": "https://tw.stock.yahoo.com/tw-market/"
         }
       ]
     },
     {
       "ticker": "006208",
-      "headline": "富邦台50 將豪配4.75元",
-      "summary": "富邦台50追蹤台灣50指數，7/23收237.90元再創高；本次將創紀錄豪配息4.75元，最後買進日將近，年初至今仍大漲逾一倍。",
+      "headline": "富邦台50 豪配4.75元 隨大盤回檔",
+      "summary": "富邦台50追蹤台灣50指數，7/24隨大盤重挫、約收232.86元(以0050同日-2.12%推估)；本次創紀錄豪配息4.75元(除息7/16、8/10發放)，年初至今仍大漲逾一倍。",
       "date": "2026-07-17",
       "sources": [
         {
@@ -313,20 +313,20 @@
     },
     {
       "ticker": "00631L",
-      "headline": "槓桿ETF成交爆量 隨大盤續彈",
-      "summary": "元大台灣50正2為兩倍槓桿ETF，7/23收35.07元(+0.78%)續彈、帳面虧損收斂；本波回檔成交爆量、逢低承接踴躍，惟槓桿放大波動，大部位需嚴控風險。",
-      "date": "2026-07-20",
+      "headline": "槓桿ETF單日跌逾4% 隨大盤重挫",
+      "summary": "元大台灣50正2為兩倍槓桿ETF，7/24隨大盤重挫、單日跌逾4%(約收33.59元)，帳面虧損擴大至約-11%；本波回檔成交爆量、逢低承接踴躍，惟槓桿放大波動，大部位需嚴控風險。",
+      "date": "2026-07-24",
       "sources": [
         {
-          "title": "0050正2爆量53萬張登成交王-Yahoo股市",
-          "url": "https://tw.stock.yahoo.com/news/%E8%B6%81%E7%94%9C%E7%94%9C%E5%83%B9%E7%8B%82%E6%92%BF-0050%E6%AD%A32-%E7%88%86%E9%87%8F53%E8%90%AC%E5%BC%B5%E7%99%BB%E6%88%90%E4%BA%A4%E7%8E%8B-2%E6%AA%94%E4%B8%BB%E5%8B%95%E5%BC%8Fetf%E4%B9%9F%E9%80%B2%E6%A6%9C-031000511.html"
+          "title": "0050正二跌逾4%！散戶1小時狂掃逾16萬張-Yahoo股市",
+          "url": "https://tw.stock.yahoo.com/news/0050%E6%AD%A3%E4%BA%8C%E8%B7%8C%E9%80%BE4%EF%BC%81%E6%95%A3%E6%88%B61%E5%B0%8F%E6%99%82%E7%8B%82%E6%8E%83%E9%80%BE16%E8%90%AC%E5%BC%B5-%E3%80%8C%E4%B8%80%E7%9B%B4%E6%92%BF%E5%B0%8D%E5%97%8E%E3%80%8D%E5%B0%88%E5%AE%B6%E8%A7%A3%E6%83%91-022355345.html"
         }
       ]
     },
     {
       "ticker": "00981A",
-      "headline": "主動ETF續彈收28.69",
-      "summary": "統一台股增長主動式ETF 7/23收28.69元(+0.67%)，仍低於成本；以大型成長股為核心，本波回檔幅度大於市值型，波動較高。",
+      "headline": "主動ETF重壓被動元件 7/24跌4%",
+      "summary": "統一台股增長主動式ETF 7/24收27.54元(-4.01%)，仍低於成本；因加碼被動元件、ABF載板(如國巨)，本波回檔幅度大於市值型，波動較高。",
       "date": "2026-07-20",
       "sources": [
         {
@@ -337,8 +337,8 @@
     },
     {
       "ticker": "00919",
-      "headline": "00919配息1元已入帳",
-      "summary": "群益台灣精選高息第13次配息每單位1元，除息日6/16、已於7/13發放入帳(持有4,956單位共4,956元)；7/23收29.50元，年化配息率逾13%。",
+      "headline": "00919配息1元已入帳 抗跌",
+      "summary": "群益台灣精選高息第13次配息每單位1元，除息日6/16、已於7/13發放入帳(持有4,956單位共4,956元)；7/24收29.49元(-0.03%)相對抗跌，年化配息率逾13%。",
       "date": "2026-07-17",
       "sources": [
         {
@@ -349,49 +349,49 @@
     },
     {
       "ticker": "2330",
-      "headline": "台積電尾盤翻紅收2,405 法說亮眼",
-      "summary": "台積電7/23尾盤股價由黑翻紅、終場收2,405元(+5元)，推升電子類股翻紅。7/16法說會Q2毛利率67.7%、稅後純益7,065億元(年增77.4%)，全年美元營收成長上修至逾40%、資本支出調升至600–640億美元，外資最高喊3,100元。",
+      "headline": "台積電收2,350元 隨大盤回檔",
+      "summary": "台積電7/24收2,350元(-55元、-2.29%)，隨大盤與美科技股賣壓回檔。7/16法說會Q2毛利率67.7%、稅後純益7,065億元(年增77.4%)，全年美元營收成長上修至逾40%、資本支出調升至600–640億美元，基本面題材不變。",
       "date": "2026-07-23",
       "sources": [
         {
-          "title": "台積電尾盤翻紅收2405元-Yahoo股市",
+          "title": "台積電(2330.TW) 相關新聞-Yahoo股市",
           "url": "https://tw.stock.yahoo.com/quote/2330.TW/news"
-        },
-        {
-          "title": "台積電法說會聚焦成長與資本支出-Yahoo股市",
-          "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%B3%95%E8%AA%AA%E6%9C%837-16%E7%99%BB%E5%A0%B4-%E8%81%9A%E7%84%A6%E5%85%A8%E5%B9%B4%E6%88%90%E9%95%B7%E7%9B%AE%E6%A8%99%E5%92%8C%E8%B3%87%E6%9C%AC%E6%94%AF%E5%87%BA-040859542.html"
         }
       ]
     },
     {
       "ticker": "2327",
-      "headline": "國巨高檔震盪 花旗重申喊買",
-      "summary": "國巨自高點1,220元一度腰斬，7/23回檔約1%收696元、仍深跌破成本；花旗重申買進、看潛在獲利近7成，6月營收153.59億年增38.9%基本面仍強。",
-      "date": "2026-07-20",
+      "headline": "國巨重挫7.76% 收642元 跌近四成",
+      "summary": "國巨7/24重挫7.76%收642元，自7/1高點1,220元以來跌近四成、市值大幅蒸發；市場傳輝達下一代Rubin Ultra恐延至2028年出貨，亞洲被動元件族群成殺盤重心。分析師認基本面良好但要站穩仍需時間、介入宜再等。",
+      "date": "2026-07-24",
       "sources": [
         {
-          "title": "花旗重申喊買國巨 潛在獲利近7成-Yahoo股市",
-          "url": "https://tw.stock.yahoo.com/news/%E7%9C%9F%E5%BF%83%E4%B8%8D%E9%A8%99-%E8%8A%B1%E6%97%97%E9%87%8D%E7%94%B3%E5%96%8A%E8%B2%B7%E5%9C%8B%E5%B7%A8-%E6%BD%9B%E5%9C%A8%E7%8D%B2%E5%88%A9%E8%BF%917%E6%88%90-020200451.html"
+          "title": "高點來跌近四成 國巨5.6萬散戶上周抄底又GG-Yahoo股市",
+          "url": "https://tw.stock.yahoo.com/news/%E9%AB%98%E9%BB%9E%E4%BE%86%E8%B7%8C%E8%BF%91%E5%9B%9B%E6%88%90-%E5%9C%8B%E5%B7%A856%E8%90%AC%E6%95%A3%E6%88%B6%E4%B8%8A%E5%91%A8%E6%8A%84%E5%BA%95%E5%8F%88gg-%E4%B8%80%E5%BC%B5%E8%B3%A0%E9%80%BE15%E8%90%AC%E5%85%83-022837283.html"
+        },
+        {
+          "title": "被動元件股殺聲隆隆！國巨股價跳水-Yahoo股市",
+          "url": "https://tw.stock.yahoo.com/news/%E8%A2%AB%E5%8B%95%E5%85%83%E4%BB%B6%E8%82%A1%E6%AE%BA%E8%81%B2%E9%9A%86%E9%9A%86%EF%BC%81%E5%9C%8B%E5%B7%A8%E8%82%A1%E5%83%B9%E8%B7%B3%E6%B0%B4-%E8%91%A3%E5%BA%A7%E9%99%B3%E6%B3%B0%E9%8A%98%E8%B2%A1%E5%AF%8C%E7%B8%AE%E6%B0%B45856%E5%84%84-152500034.html"
         }
       ]
     },
     {
       "ticker": "2891",
-      "headline": "中信金上半年大賺395億創高",
-      "summary": "中信金上半年合併稅後盈餘395.37億元創同期新高、EPS 1.96元；7/10除息(現金股利每股約2.5元、8/7發放)，7/23收63.50元，金控股仍具股利題材。",
-      "date": "2026-07-17",
+      "headline": "中信金除息2.5元創高 8/7發放",
+      "summary": "中信金已於7/10除息、每股配發現金股利約2.5元創歷史新高、8/7發放，現金殖利率約3.5%；上半年合併稅後盈餘395.37億元創同期新高、EPS 1.96元。近期收約63.5元，金控高息題材續受青睞。",
+      "date": "2026-07-24",
       "sources": [
         {
-          "title": "中信金上半年大賺395億-Yahoo股市",
-          "url": "https://tw.stock.yahoo.com/news/57%E8%90%AC%E8%82%A1%E6%B0%91%E7%AC%91%E9%86%92-%E9%80%99%E6%AA%94%E9%87%91%E8%9E%8D-%E4%B8%8A%E5%8D%8A%E5%B9%B4%E5%A4%A7%E8%B3%BA395-37%E5%84%84%E5%85%83%E5%89%B5%E6%96%B0%E9%AB%98-eps%E9%81%941-041500596.html"
+          "title": "中信金訂7/10為普通股除息交易日 8/7發放-Yahoo股市",
+          "url": "https://tw.stock.yahoo.com/news/%E4%B8%AD%E4%BF%A1%E9%87%91%E8%A8%827-10%E7%82%BA%E6%99%AE%E9%80%9A%E8%82%A1%E9%99%A4%E6%81%AF%E4%BA%A4%E6%98%93%E6%97%A5-%E7%8F%BE%E9%87%91%E8%82%A1%E5%88%A9%E7%99%BC%E6%94%BE%E6%97%A58-7-104700035.html"
         }
       ]
     },
     {
       "ticker": "AMD",
-      "headline": "AMD收554美元 7/22 Advancing AI",
-      "summary": "AMD 7/22收554.00美元(+0.30%)、帳面賺約9%，今年來漲逾150%；7/22舉行Advancing AI 2026活動、8/4公布Q2財報，分析師強力買進、平均目標約541美元。",
-      "date": "2026-07-17",
+      "headline": "AMD收521.60 8/4公布Q2財報",
+      "summary": "AMD 7/24收521.60美元(-0.07%)，本週晶片股自高檔回檔、MU與AMD同步走低；執行長蘇姿丰稱未見AI需求放緩。8/4公布Q2財報，分析師共識強力買進、平均目標約525美元。",
+      "date": "2026-07-24",
       "sources": [
         {
           "title": "AMD-stockanalysis",
@@ -401,8 +401,8 @@
     },
     {
       "ticker": "ASTS",
-      "headline": "ASTS低檔強彈收61.95",
-      "summary": "AST SpaceMobile 7/22收61.95美元較前波低點回升；先前因發行10億美元可轉債、延後商用衛星時程重挫，惟6月BlueBird衛星已成功入軌，分析師目標83.32美元。",
+      "headline": "ASTS報價沿用7/22收61.95",
+      "summary": "AST SpaceMobile報價沿用7/22收61.95美元；先前因發行10億美元可轉債、延後商用衛星時程重挫，惟6月BlueBird衛星已成功入軌，帳面虧損約-29%。",
       "date": "2026-07-20",
       "sources": [
         {
@@ -413,24 +413,20 @@
     },
     {
       "ticker": "GOOGL",
-      "headline": "Alphabet財報後跌4.4% 資本支出高",
-      "summary": "GOOGL 7/22財報後收327.14美元(-4.37%)；Q2營收1,198億美元年增24%、連12季雙位數成長，但AI資本支出龐大、母公司層級營業虧損58億美元，市場失望。分析師仍多維持強力買進、平均目標約433美元。",
+      "headline": "Alphabet財報後止穩收320.04",
+      "summary": "GOOGL 7/24收320.04美元(+0.09%)止穩、仍低於成本；Q2營收1,198億美元年增24%、連12季雙位數成長，但AI資本支出龐大令市場失望。分析師多維持強力買進、平均目標約433美元。",
       "date": "2026-07-22",
       "sources": [
         {
           "title": "GOOGL-stockanalysis",
           "url": "https://stockanalysis.com/stocks/googl/"
-        },
-        {
-          "title": "Alphabet Q2 2026 Earnings Call Transcript-stockanalysis",
-          "url": "https://stockanalysis.com/stocks/googl/transcripts/657320-q2-2026/"
         }
       ]
     },
     {
       "ticker": "MSFT",
-      "headline": "微軟守住高檔 7/29財報",
-      "summary": "MSFT 7/22收390.34美元(-1.86%)回落仍站穩高檔；先前擬再裁約4,800人重整，7/29公布Q4財報，分析師平均強力買進、目標價約559美元。",
+      "headline": "微軟回落收381.70 7/29財報",
+      "summary": "MSFT 7/24收381.70美元回落、略低於成本；先前擬再裁約4,800人重整，7/29公布Q4財報，分析師平均強力買進、目標價約559美元。",
       "date": "2026-07-20",
       "sources": [
         {
@@ -441,8 +437,8 @@
     },
     {
       "ticker": "MU",
-      "headline": "美光AI記憶體強勢 收967美元",
-      "summary": "美光7/22收967.00美元(+0.78%)延續AI記憶體買盤，近日一度單日大漲逾12%；KeyBanc將目標價調升至1,750美元，共識強力買進、平均目標約1,492美元，惟近月波動大。",
+      "headline": "美光AI記憶體強勢 沿用967",
+      "summary": "美光報價沿用7/22收959.48美元；AI記憶體買盤延續，KeyBanc將目標價調升至1,750美元，共識強力買進、平均目標約1,492美元，惟近月波動大。",
       "date": "2026-07-21",
       "sources": [
         {
@@ -453,8 +449,8 @@
     },
     {
       "ticker": "NVDA",
-      "headline": "輝達漲逾3% 收213.72美元",
-      "summary": "NVDA 7/22漲約3.1%至213.72美元、帳面賺逾23%；新聘微軟老將Nick Parker接業務主管、推Cosmos 3 Edge AI模型，逾60位分析師強力買進、平均目標約302美元。",
+      "headline": "輝達收206.84 自高檔回落",
+      "summary": "NVDA 7/24收206.84美元(-0.92%)自高檔回落、帳面仍賺約19%；新聘微軟老將接業務主管、推Cosmos 3 Edge AI模型，逾60位分析師強力買進、平均目標約302美元。",
       "date": "2026-07-20",
       "sources": [
         {
@@ -465,8 +461,8 @@
     },
     {
       "ticker": "SPCX",
-      "headline": "SpaceX重挫6.7% 8/4首份財報",
-      "summary": "SPCX 7/22收115.26美元(-6.70%)，較6/12 IPO跌約25%；8/4將公布上市後首份財報、8/6約9.1億股(值約1,160億美元)解禁，星艦進展被視為解鎖AI/Starlink關鍵，分析師均價目標240美元。",
+      "headline": "SpaceX收115.07 8/4首份財報",
+      "summary": "SPCX 7/24收115.07美元(-2.68%)，七月與TSLA同步走弱、較6/12 IPO跌約25%；8/4將公布上市後首份財報、8/6約9.1億股解禁，星艦進展被視為關鍵，分析師均價目標240美元。",
       "date": "2026-07-22",
       "sources": [
         {
@@ -477,9 +473,9 @@
     },
     {
       "ticker": "TSLA",
-      "headline": "特斯拉Q2財報 交車創高EPS遜色",
-      "summary": "TSLA 7/22盤後公布Q2財報：營收282.4億美元(年增26%)優於預期26.36億、Q2交車創新高並在佛州三城推出Robotaxi、Cybercab投產，但調整後EPS 0.33美元遜於預期0.51，且因加碼AI/電池/機器人支出出現兩年多來首見負自由現金流(報價沿用7/21收378.93)。",
-      "date": "2026-07-22",
+      "headline": "特斯拉財報後重挫 一度失守1兆市值",
+      "summary": "TSLA 7/22盤後公布Q2財報，7/23重挫14.5%、7/24收311.38美元，週五盤中一度失守1兆美元市值。調整後EPS 0.33美元遜於預期0.51，交車雖創高但獲利受降價與支出壓縮；全年CapEx逾250億美元擴充Robotaxi/Optimus/AI。分析師仍多維持買進、平均目標約402美元。",
+      "date": "2026-07-24",
       "sources": [
         {
           "title": "TSLA-stockanalysis",
@@ -489,8 +485,8 @@
     },
     {
       "ticker": "VT",
-      "headline": "全球股市ETF高檔整理",
-      "summary": "VT(全球股市ETF)報價沿用7/21收156.14美元(+1.20%)，隨全球股市波動；分散配置全球股票，短線隨科技股走勢。",
+      "headline": "全球股市ETF高檔回落",
+      "summary": "VT(全球股市ETF)報價沿用7/23收154.70美元，隨全球股市與科技股回檔略低於成本；分散配置全球股票。",
       "date": "2026-07-16",
       "sources": [
         {
@@ -505,11 +501,11 @@
     "usTotal": 41666.93,
     "twCount": 9,
     "usCount": 10,
-    "twMarketValue": 4430623.17,
-    "usMarketValue": 39867.34,
-    "twUnrealizedPnL": 1166622.15,
-    "usUnrealizedPnL": -1799.59,
-    "twReturnPct": 35.74,
-    "usReturnPct": -4.32
+    "twMarketValue": 4315841.54,
+    "usMarketValue": 39007.11,
+    "twUnrealizedPnL": 1051840.52,
+    "usUnrealizedPnL": -2659.82,
+    "twReturnPct": 32.23,
+    "usReturnPct": -6.38
   }
 }
