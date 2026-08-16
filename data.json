@@ -1,24 +1,24 @@
 {
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-16",
   "holdings": [
     {
       "ticker": "0050",
       "market": "台股",
-      "qty": 3240.0,
-      "avgCost": 87.5663,
-      "currentPrice": 106.65,
-      "priceDate": "2026-08-13",
-      "totalInvested": 283714.81,
-      "marketValue": 345546.0,
-      "unrealizedPnL": 61831.19,
-      "pnlPct": 21.79,
+      "qty": 3297,
+      "avgCost": 87.8545,
+      "currentPrice": 106.4,
+      "priceDate": "2026-08-14",
+      "totalInvested": 289656.16,
+      "marketValue": 350800.8,
+      "unrealizedPnL": 61144.64,
+      "pnlPct": 21.11,
       "flag": "繼續持有",
-      "notes": "市值型ETF核心；8/13收106.65(+1.38%)連3漲創波段高，帳面約+22%；每月定期定額12,000元"
+      "notes": "市值型ETF核心；8/14收106.40(+0.28%)，帳面約+21%；每月定期定額12,000元、8/15再定額加碼57股"
     },
     {
       "ticker": "006208",
       "market": "台股",
-      "qty": 3162.0,
+      "qty": 3162,
       "avgCost": 107.27,
       "currentPrice": 240.55,
       "priceDate": "2026-08-12",
@@ -27,12 +27,12 @@
       "unrealizedPnL": 421431.36,
       "pnlPct": 124.25,
       "flag": "繼續持有",
-      "notes": "富邦台50；最近可得收盤240.55(8/12)，帳面大賺約+124%；8/16將除息4.75元(掛牌新高)、股息8/10已入帳"
+      "notes": "富邦台50；最近可得收盤240.55(8/12)，帳面大賺約+124%；除息4.75元(掛牌新高)、股息已入帳"
     },
     {
       "ticker": "00631L",
       "market": "台股",
-      "qty": 19000.0,
+      "qty": 19000,
       "avgCost": 37.1789,
       "currentPrice": 36.29,
       "priceDate": "2026-08-14",
@@ -46,7 +46,7 @@
     {
       "ticker": "00919",
       "market": "台股",
-      "qty": 4956.0,
+      "qty": 4956,
       "avgCost": 22.32,
       "currentPrice": 30.37,
       "priceDate": "2026-08-13",
@@ -60,21 +60,21 @@
     {
       "ticker": "009816",
       "market": "台股",
-      "qty": 44705.0,
-      "avgCost": 14.9763,
+      "qty": 44903,
+      "avgCost": 14.9775,
       "currentPrice": 15.26,
       "priceDate": "2026-08-12",
-      "totalInvested": 669516.64,
-      "marketValue": 682198.3,
-      "unrealizedPnL": 12681.66,
+      "totalInvested": 672536.44,
+      "marketValue": 685219.78,
+      "unrealizedPnL": 12683.34,
       "pnlPct": 1.89,
       "flag": "繼續持有",
-      "notes": "凱基台灣TOP50不配息；最近可得收盤15.26(8/12)、於成本上方約+2%；定期定額每月6,000元續加碼"
+      "notes": "凱基台灣TOP50不配息；最近可得收盤15.26(8/12)、於成本上方約+2%；定期定額每月6,000元、8/15再加碼198股"
     },
     {
       "ticker": "00981A",
       "market": "台股",
-      "qty": 12625.0,
+      "qty": 12625,
       "avgCost": 30.8736,
       "currentPrice": 30.29,
       "priceDate": "2026-08-14",
@@ -88,7 +88,7 @@
     {
       "ticker": "2327",
       "market": "台股",
-      "qty": 30.0,
+      "qty": 30,
       "avgCost": 1031.4667,
       "currentPrice": 622.0,
       "priceDate": "2026-08-14",
@@ -102,13 +102,13 @@
     {
       "ticker": "2330",
       "market": "台股",
-      "qty": 661.0,
-      "avgCost": 1286.0746,
+      "qty": 661,
+      "avgCost": 1286.014,
       "currentPrice": 2395.0,
       "priceDate": "2026-08-14",
-      "totalInvested": 850095.28,
+      "totalInvested": 850055.28,
       "marketValue": 1583095.0,
-      "unrealizedPnL": 732999.72,
+      "unrealizedPnL": 733039.72,
       "pnlPct": 86.23,
       "flag": "繼續持有",
       "notes": "台積電最大部位；8/14收2,395(+1.64%)連5漲後小整理，帳面大賺約+86%；7月營收4,675.8億年增逾四成創單月新高"
@@ -116,7 +116,7 @@
     {
       "ticker": "2891",
       "market": "台股",
-      "qty": 640.0,
+      "qty": 640,
       "avgCost": 45.27,
       "currentPrice": 65.8,
       "priceDate": "2026-08-14",
@@ -130,7 +130,7 @@
     {
       "ticker": "AMD",
       "market": "美股",
-      "qty": 3.0,
+      "qty": 3,
       "avgCost": 509.27,
       "currentPrice": 514.39,
       "priceDate": "2026-08-14",
@@ -144,7 +144,7 @@
     {
       "ticker": "ASTS",
       "market": "美股",
-      "qty": 12.0,
+      "qty": 12,
       "avgCost": 87.36,
       "currentPrice": 71.52,
       "priceDate": "2026-08-13",
@@ -159,12 +159,12 @@
       "ticker": "GOOGL",
       "market": "美股",
       "qty": 10.43701,
-      "avgCost": 353.3785,
+      "avgCost": 353.3809,
       "currentPrice": 345.6,
       "priceDate": "2026-08-14",
-      "totalInvested": 3688.22,
+      "totalInvested": 3688.24,
       "marketValue": 3607.03,
-      "unrealizedPnL": -81.19,
+      "unrealizedPnL": -81.21,
       "pnlPct": -2.2,
       "flag": "繼續持有",
       "notes": "Alphabet；8/14約345.60略破成本約-2%；8/13發表Gemini 3.7 Flash(限時降價5成)、Pixel 11系列上市；早期投資SpaceX股權估值約940億美元(逾百倍)；共識強力買進、均目標約428。每月定期定額5,000元"
@@ -172,7 +172,7 @@
     {
       "ticker": "MSFT",
       "market": "美股",
-      "qty": 4.0,
+      "qty": 4,
       "avgCost": 384.94,
       "currentPrice": 495.4,
       "priceDate": "2026-08-14",
@@ -186,7 +186,7 @@
     {
       "ticker": "MU",
       "market": "美股",
-      "qty": 2.0,
+      "qty": 2,
       "avgCost": 910.08,
       "currentPrice": 971.66,
       "priceDate": "2026-08-14",
@@ -200,7 +200,7 @@
     {
       "ticker": "NVDA",
       "market": "美股",
-      "qty": 27.0,
+      "qty": 27,
       "avgCost": 173.1219,
       "currentPrice": 225.16,
       "priceDate": "2026-08-14",
@@ -214,7 +214,7 @@
     {
       "ticker": "SPCX",
       "market": "美股",
-      "qty": 60.0,
+      "qty": 60,
       "avgCost": 181.2612,
       "currentPrice": 140.0,
       "priceDate": "2026-08-14",
@@ -228,7 +228,7 @@
     {
       "ticker": "TSLA",
       "market": "美股",
-      "qty": 4.0,
+      "qty": 4,
       "avgCost": 289.82,
       "currentPrice": 342.27,
       "priceDate": "2026-08-14",
@@ -256,7 +256,7 @@
     {
       "ticker": "VT",
       "market": "美股",
-      "qty": 60.0,
+      "qty": 60,
       "avgCost": 158.8127,
       "currentPrice": 162.25,
       "priceDate": "2026-08-14",
@@ -286,7 +286,7 @@
     {
       "ticker": "大盤",
       "headline": "台股8/14收45,811 小跌210點",
-      "summary": "加權指數8/14收45,811.01點、下跌210.47點(-0.46%)，成交約10,665億元，於前一交易日改寫波段高(46,021點)後小幅回檔整理，權值王台積電收2,395元(+1.64%)撐盤。指數仍位居萬五之上高檔區。(0050、006208、009816、00631L、00981A、00919等追蹤大盤標的共用此則大盤新聞)",
+      "summary": "加權指數8/14收45,811.01點、下跌210.47點(-0.46%)，成交約10,665億元，於前一交易日改寫波段高(46,021點)後小幅回檔整理，權值王台積電收2,395元(+1.64%)撐盤。指數仍位居萬五之上高檔區。8/15、8/16為週末休市，此為最近一個交易日收盤。(0050、006208、009816、00631L、00981A、00919等追蹤大盤標的共用此則大盤新聞)",
       "date": "2026-08-14",
       "sources": [
         {
@@ -449,15 +449,15 @@
     }
   ],
   "summary": {
-    "twTotal": 3409228.94,
-    "usTotal": 41666.93,
+    "twTotal": 3418150.09,
+    "usTotal": 41666.95,
     "twCount": 9,
     "usCount": 10,
-    "twMarketValue": 4654665.37,
+    "twMarketValue": 4662941.65,
     "usMarketValue": 42768.94,
-    "twUnrealizedPnL": 1245436.43,
-    "usUnrealizedPnL": 1102.01,
-    "twReturnPct": 36.53,
+    "twUnrealizedPnL": 1244791.56,
+    "usUnrealizedPnL": 1101.99,
+    "twReturnPct": 36.42,
     "usReturnPct": 2.64
   }
 }
