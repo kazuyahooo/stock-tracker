@@ -1,47 +1,47 @@
 {
-  "lastUpdated": "2026-08-26",
+  "lastUpdated": "2026-08-27",
   "holdings": [
     {
       "ticker": "0050",
       "market": "台股",
       "qty": 3355,
-      "avgCost": 88.1149,
-      "currentPrice": 104.4,
-      "priceDate": "2026-08-25",
-      "totalInvested": 295625.49,
-      "marketValue": 350262.0,
-      "unrealizedPnL": 54636.51,
-      "pnlPct": 18.48,
+      "avgCost": 88.11,
+      "currentPrice": 105.9,
+      "priceDate": "2026-08-26",
+      "totalInvested": 295625.46,
+      "marketValue": 355294.5,
+      "unrealizedPnL": 59669.04,
+      "pnlPct": 20.18,
       "flag": "繼續持有",
-      "notes": "市值型ETF核心；8/25收104.40(+0.58%)、帳面約+18%；每月定期定額、8/25再加碼58股"
+      "notes": "市值型ETF核心；最近可得收盤105.90(8/26)、帳面約+20%；每月定期定額、8/25再加碼58股"
     },
     {
       "ticker": "006208",
       "market": "台股",
       "qty": 3162,
       "avgCost": 107.27,
-      "currentPrice": 240.55,
-      "priceDate": "2026-08-12",
+      "currentPrice": 242.85,
+      "priceDate": "2026-08-26",
       "totalInvested": 339187.74,
-      "marketValue": 760619.1,
-      "unrealizedPnL": 421431.36,
-      "pnlPct": 124.25,
+      "marketValue": 767891.7,
+      "unrealizedPnL": 428703.96,
+      "pnlPct": 126.39,
       "flag": "繼續持有",
-      "notes": "富邦台50；最近可得收盤240.55(8/12，資料源延遲)、帳面約+124%；除息4.75元已入帳"
+      "notes": "富邦台50；最近可得收盤242.85(8/26)、帳面約+126%；除息4.75元已入帳"
     },
     {
       "ticker": "00631L",
       "market": "台股",
       "qty": 19000,
-      "avgCost": 37.1789,
+      "avgCost": 37.18,
       "currentPrice": 34.18,
       "priceDate": "2026-08-25",
-      "totalInvested": 706399.1,
+      "totalInvested": 706400.0,
       "marketValue": 649420.0,
-      "unrealizedPnL": -56979.1,
+      "unrealizedPnL": -56980.0,
       "pnlPct": -8.07,
       "flag": "觀察中",
-      "notes": "台灣50正2槓桿ETF；8/25收34.18(+0.21%)、仍虧約-8%；2倍槓桿波動大、大部位需嚴控風險"
+      "notes": "台灣50正2槓桿ETF；最近可得收盤34.18(8/25，資料源延遲)、仍虧約-8%；2倍槓桿波動大、大部位需嚴控風險"
     },
     {
       "ticker": "00919",
@@ -55,32 +55,32 @@
       "unrealizedPnL": 41580.84,
       "pnlPct": 37.59,
       "flag": "繼續持有",
-      "notes": "高息ETF；8/25收30.71(+0.20%)、帳面約+38%；配息創新高、年化配息率逾13%"
+      "notes": "高息ETF；最近可得收盤30.71(8/25)、帳面約+38%；配息創新高、年化配息率逾13%"
     },
     {
       "ticker": "009816",
       "market": "台股",
       "qty": 45102,
-      "avgCost": 14.9771,
+      "avgCost": 14.98,
       "currentPrice": 15.21,
       "priceDate": "2026-08-25",
-      "totalInvested": 675497.16,
+      "totalInvested": 675499.4,
       "marketValue": 686001.42,
-      "unrealizedPnL": 10504.26,
-      "pnlPct": 1.56,
+      "unrealizedPnL": 10502.02,
+      "pnlPct": 1.55,
       "flag": "繼續持有",
-      "notes": "凱基台灣TOP50不配息；8/25收15.21(+0.60%)、約+1.6%；定期定額、8/25加碼199股"
+      "notes": "凱基台灣TOP50不配息；最近可得收盤15.21(8/25)、約+1.6%；定期定額、8/25加碼199股"
     },
     {
       "ticker": "00981A",
       "market": "台股",
       "qty": 12625,
-      "avgCost": 30.8736,
+      "avgCost": 30.87,
       "currentPrice": 28.72,
       "priceDate": "2026-08-21",
-      "totalInvested": 389779.2,
+      "totalInvested": 389779.75,
       "marketValue": 362590.0,
-      "unrealizedPnL": -27189.2,
+      "unrealizedPnL": -27189.75,
       "pnlPct": -6.98,
       "flag": "觀察中",
       "notes": "統一台股增長主動式ETF；最近可得收盤28.72(8/21，資料源延遲)、跌破成本約-7%；受益人破百萬、重壓被動元件、波動加大"
@@ -89,7 +89,7 @@
       "ticker": "2327",
       "market": "台股",
       "qty": 30,
-      "avgCost": 1031.4667,
+      "avgCost": 1031.47,
       "currentPrice": 560.0,
       "priceDate": "2026-08-24",
       "totalInvested": 30944.0,
@@ -103,15 +103,15 @@
       "ticker": "2330",
       "market": "台股",
       "qty": 661,
-      "avgCost": 1286.0746,
-      "currentPrice": 2420.0,
-      "priceDate": "2026-08-26",
-      "totalInvested": 850095.31,
-      "marketValue": 1599620.0,
-      "unrealizedPnL": 749524.69,
-      "pnlPct": 88.17,
+      "avgCost": 1286.07,
+      "currentPrice": 2410.0,
+      "priceDate": "2026-08-27",
+      "totalInvested": 850095.28,
+      "marketValue": 1593010.0,
+      "unrealizedPnL": 742914.72,
+      "pnlPct": 87.39,
       "flag": "繼續持有",
-      "notes": "台積電最大部位；8/26盤中2,420(+0.83%)、帳面約+88%；8/19法說亮眼、外資齊升目標價最高上看3,800元；7月營收年增逾四成創新高"
+      "notes": "台積電最大部位；8/27收2,410(+0.21%)、帳面約+87%；8/19法說亮眼、外資齊升目標價最高上看3,800元；亞利桑那廠Q2營收占比首破4%"
     },
     {
       "ticker": "2891",
@@ -132,14 +132,14 @@
       "market": "美股",
       "qty": 3,
       "avgCost": 509.27,
-      "currentPrice": 479.18,
-      "priceDate": "2026-08-25",
+      "currentPrice": 480.93,
+      "priceDate": "2026-08-26",
       "totalInvested": 1527.81,
-      "marketValue": 1437.54,
-      "unrealizedPnL": -90.27,
-      "pnlPct": -5.91,
+      "marketValue": 1442.79,
+      "unrealizedPnL": -85.02,
+      "pnlPct": -5.56,
       "flag": "觀察中",
-      "notes": "超微；8/25收479.18(+4.91%)反彈、仍略低於成本約-6%；分析師共識強力買進、均目標約613"
+      "notes": "超微；8/26收480.93(+0.37%)、仍略低於成本約-6%；分析師共識強力買進、均目標約613"
     },
     {
       "ticker": "ASTS",
@@ -153,119 +153,119 @@
       "unrealizedPnL": -304.2,
       "pnlPct": -29.02,
       "flag": "觀察中",
-      "notes": "AST SpaceMobile；8/25收62.01(-0.55%)、帳面約-29%；前波因5億美元募資稀釋重挫；BlueBird衛星陸續發射、拓展歐洲測試"
+      "notes": "AST SpaceMobile；最近可得收盤62.01(8/25)、帳面約-29%；前波因5億美元募資稀釋重挫；BlueBird衛星陸續發射、拓展歐洲測試"
     },
     {
       "ticker": "GOOGL",
       "market": "美股",
       "qty": 10.43701,
-      "avgCost": 353.3785,
-      "currentPrice": 349.9,
-      "priceDate": "2026-08-25",
-      "totalInvested": 3688.21,
-      "marketValue": 3651.91,
-      "unrealizedPnL": -36.31,
-      "pnlPct": -0.98,
+      "avgCost": 353.38,
+      "currentPrice": 342.0,
+      "priceDate": "2026-08-26",
+      "totalInvested": 3688.22,
+      "marketValue": 3569.46,
+      "unrealizedPnL": -118.76,
+      "pnlPct": -3.22,
       "flag": "繼續持有",
-      "notes": "Alphabet；8/25收349.90(+0.53%)、約-1%；每月定期定額5,000元；共識強力買進、均目標約428"
+      "notes": "Alphabet；8/26收342.00(-1.43%)、略破成本約-3%；每月定期定額5,000元；AI責任部門改組、Waymo拓歐洲；共識強力買進、均目標約428"
     },
     {
       "ticker": "MSFT",
       "market": "美股",
       "qty": 4,
       "avgCost": 384.94,
-      "currentPrice": 491.71,
-      "priceDate": "2026-08-25",
+      "currentPrice": 496.37,
+      "priceDate": "2026-08-26",
       "totalInvested": 1539.76,
-      "marketValue": 1966.84,
-      "unrealizedPnL": 427.08,
-      "pnlPct": 27.74,
+      "marketValue": 1985.48,
+      "unrealizedPnL": 445.72,
+      "pnlPct": 28.95,
       "flag": "繼續持有",
-      "notes": "微軟；8/25收491.71(+0.90%)、帳面約+28%；AI合作案續增(Humain、Moonshot)、Meta為Azure大客戶；惟WSJ質疑AI業務透明度"
+      "notes": "微軟；8/26收496.37(+0.95%)、帳面約+29%；AI合作案續增(Humain、Moonshot)、Meta為Azure大客戶；惟WSJ質疑AI業務透明度"
     },
     {
       "ticker": "MU",
       "market": "美股",
       "qty": 2,
       "avgCost": 910.08,
-      "currentPrice": 932.97,
-      "priceDate": "2026-08-25",
+      "currentPrice": 938.4,
+      "priceDate": "2026-08-26",
       "totalInvested": 1820.16,
-      "marketValue": 1865.94,
-      "unrealizedPnL": 45.78,
-      "pnlPct": 2.52,
+      "marketValue": 1876.8,
+      "unrealizedPnL": 56.64,
+      "pnlPct": 3.11,
       "flag": "繼續持有",
-      "notes": "美光；8/25收932.97(+2.48%)反彈、帳面約+3%；AI記憶體長線看好、2026產出已售罄"
+      "notes": "美光；8/26收938.40(+0.58%)、帳面約+3%；AI記憶體長線看好、2026產出已售罄"
     },
     {
       "ticker": "NVDA",
       "market": "美股",
       "qty": 27,
-      "avgCost": 173.1219,
-      "currentPrice": 213.05,
-      "priceDate": "2026-08-25",
+      "avgCost": 173.12,
+      "currentPrice": 209.66,
+      "priceDate": "2026-08-26",
       "totalInvested": 4674.29,
-      "marketValue": 5752.35,
-      "unrealizedPnL": 1078.06,
-      "pnlPct": 23.06,
+      "marketValue": 5660.82,
+      "unrealizedPnL": 986.53,
+      "pnlPct": 21.11,
       "flag": "繼續持有",
-      "notes": "輝達；8/25收213.05(+2.19%)止跌(終止7連跌)、帳面約+23%；財報8/26盤後登場為近期最關鍵；OpenAI新晶片添競爭"
+      "notes": "輝達；8/26正常盤收209.66(-1.59%)、帳面約+21%；8/26盤後財報營收962億美元年增106%、Q3財測優預期，8/27盤前一度飆逾7%；宣布129億美元收購Hugging Face"
     },
     {
       "ticker": "SPCX",
       "market": "美股",
       "qty": 60,
-      "avgCost": 181.2612,
-      "currentPrice": 137.95,
-      "priceDate": "2026-08-25",
+      "avgCost": 181.26,
+      "currentPrice": 139.63,
+      "priceDate": "2026-08-26",
       "totalInvested": 10875.67,
-      "marketValue": 8277.0,
-      "unrealizedPnL": -2598.67,
-      "pnlPct": -23.89,
+      "marketValue": 8377.8,
+      "unrealizedPnL": -2497.87,
+      "pnlPct": -22.97,
       "flag": "觀察中",
-      "notes": "SpaceX；8/25收137.95(+2.19%)、帳面約-24%；宣布1,000億美元路易斯安那新發射場、與Nvidia合作AI衛星；解禁賣壓仍需留意"
+      "notes": "SpaceX；8/26收139.63(+1.22%)、帳面約-23%；宣布1,000億美元路易斯安那新發射場、與Nvidia合作AI衛星；解禁賣壓仍需留意"
     },
     {
       "ticker": "TSLA",
       "market": "美股",
       "qty": 4,
       "avgCost": 289.82,
-      "currentPrice": 350.25,
-      "priceDate": "2026-08-25",
+      "currentPrice": 345.82,
+      "priceDate": "2026-08-26",
       "totalInvested": 1159.28,
-      "marketValue": 1401.0,
-      "unrealizedPnL": 241.72,
-      "pnlPct": 20.85,
+      "marketValue": 1383.28,
+      "unrealizedPnL": 224.0,
+      "pnlPct": 19.32,
       "flag": "繼續持有",
-      "notes": "特斯拉；8/25收350.25(+0.37%)、帳面約+21%；Robotaxi與自駕題材為主軸；共識買進、均目標約397"
+      "notes": "特斯拉；8/26收345.82(-1.26%)、帳面約+19%；Robotaxi與自駕題材為主軸；內華達准5000輛Robotaxi；共識買進、均目標約397"
     },
     {
       "ticker": "VOO",
       "market": "美股",
       "qty": 10.16267,
-      "avgCost": 571.1747,
-      "currentPrice": 704.02,
-      "priceDate": "2026-08-25",
+      "avgCost": 571.17,
+      "currentPrice": 704.2,
+      "priceDate": "2026-08-26",
       "totalInvested": 5804.66,
-      "marketValue": 7154.72,
-      "unrealizedPnL": 1350.06,
-      "pnlPct": 23.26,
+      "marketValue": 7156.55,
+      "unrealizedPnL": 1351.89,
+      "pnlPct": 23.29,
       "flag": "繼續持有",
-      "notes": "標普500 ETF；8/25收704.02(+0.31%)、帳面約+23%；每月定期定額8,000元核心配置"
+      "notes": "標普500 ETF；8/26收704.20(+0.03%)、帳面約+23%；每月定期定額8,000元核心配置"
     },
     {
       "ticker": "VT",
       "market": "美股",
       "qty": 60,
-      "avgCost": 158.8127,
-      "currentPrice": 160.99,
-      "priceDate": "2026-08-25",
+      "avgCost": 158.81,
+      "currentPrice": 160.87,
+      "priceDate": "2026-08-26",
       "totalInvested": 9528.76,
-      "marketValue": 9659.4,
-      "unrealizedPnL": 130.64,
-      "pnlPct": 1.37,
+      "marketValue": 9652.2,
+      "unrealizedPnL": 123.44,
+      "pnlPct": 1.3,
       "flag": "繼續持有",
-      "notes": "全球股市ETF；8/25收160.99(+0.56%)、約+1.4%；分散全球逾萬檔、費用率僅0.06%，長期核心配置"
+      "notes": "全球股市ETF；8/26收160.87(-0.07%)、約+1.3%；分散全球逾萬檔、費用率僅0.06%，長期核心配置"
     }
   ],
   "realized": [
@@ -285,9 +285,9 @@
   "news": [
     {
       "ticker": "大盤",
-      "headline": "台股8/25收45,169 反彈407點重返45000",
-      "summary": "加權指數最近可得收盤為8/25終場45,169.46點、上漲407.14點(+0.91%)、重返45,000點之上(8/26盤中指數資料源尚未更新)。權值與電子股回穩帶動反彈；市場焦點轉向輝達(NVDA)台北時間8/27清晨(美時8/26盤後)的財報，買氣審慎。(0050、006208、009816、00631L、00981A、00919等追蹤大盤標的共用此則)",
-      "date": "2026-08-25",
+      "headline": "台股8/27收45,975 續創高逼近46000",
+      "summary": "加權指數8/27收45,975.22點、漲142.60點(+0.31%)、續於歷史高檔區逼近46,000點。美股輝達(NVDA)8/26盤後財報營收年增逾一倍、Q3財測優於預期，激勵AI供應鏈與台積電等權值股走高。(0050、006208、009816、00631L、00981A、00919等追蹤大盤標的共用此則)",
+      "date": "2026-08-27",
       "sources": [
         {
           "title": "加權指數(^TWII)-Yahoo股市",
@@ -296,30 +296,18 @@
       ]
     },
     {
-      "ticker": "2327",
-      "headline": "國巨絕地反攻連2燈 守穩兆元市值",
-      "summary": "國巨隨被動元件族群回穩、8/24收560元(+1.08%)連2紅、絕地反攻守穩兆元市值、重回台股市值前十。此前隨族群8月大幅回檔、外資調低目標價、營收創歷史第三高仍難拉抬股價；分析師點出3利多、認為可適當介入。惟仍跌破持有成本約-46%，屬高波動個股宜嚴控風險。",
-      "date": "2026-08-24",
-      "sources": [
-        {
-          "title": "從台股第6大到差點跌出20強...國巨絕地反攻連2燈 守穩兆元市值-Yahoo股市",
-          "url": "https://tw.stock.yahoo.com/news/%E5%BE%9E%E5%8F%B0%E8%82%A1%E7%AC%AC6%E5%A4%A7%E5%88%B0%E5%B7%AE%E9%BB%9E%E8%B7%8C%E5%87%BA20%E5%BC%B7%E5%9C%8B%E5%B7%A8%E7%B5%95%E5%9C%B0%E5%8F%8D%E6%94%BB%E9%80%A32%E7%87%88-%E5%AE%88%E7%A9%A9%E5%85%86%E5%85%83%E5%B8%82%E5%80%BC-020343472.html"
-        },
-        {
-          "title": "國巨一度漲半根！領軍被動元件族群閃2紅燈 分析師揭3利多：可適當介入-Yahoo股市",
-          "url": "https://tw.stock.yahoo.com/news/%E5%9C%8B%E5%B7%A8%E4%B8%80%E5%BA%A6%E6%BC%B2%E5%8D%8A%E6%A0%B9%EF%BC%81%E9%A0%98%E8%BB%8D%E8%A2%AB%E5%8B%95%E5%85%83%E4%BB%B6%E6%97%8F%E7%BE%A4%E9%96%832%E7%B4%85%E7%87%88-%E5%88%86%E6%9E%90%E5%B8%AB%E6%8F%AD3%E5%88%A9%E5%A4%9A%EF%BC%9A%E5%8F%AF%E9%81%A9%E7%95%B6%E4%BB%8B%E5%85%A5-024933435.html"
-        }
-      ]
-    },
-    {
       "ticker": "2330",
-      "headline": "台積電法說亮眼外資升目標價 8/26站上2420",
-      "summary": "台積電8/26盤中2,420元(+0.83%)、續於高檔；8/19法說會數字優於預期、被譽『打了4分全壘打』，外資法說後齊升目標價、最高上看3,800元、EPS估上看198元。7月合併營收年增逾四成續創單月新高；2奈米、AI與漲價題材延續，帳面大賺約+88%，為最大部位。",
+      "headline": "台積電8/27收2410 法說亮眼外資升目標價",
+      "summary": "台積電8/27收2,410元(+0.21%)、續於歷史高檔區。8/19法說會數字優於預期，外資法說後齊升目標價、最高上看3,800元、EPS估上看198元；亞利桑那廠今年Q2營收占比首度突破4%、單季破新台幣400億元創高。2奈米、AI與漲價題材延續，帳面約+87%為最大部位。",
       "date": "2026-08-20",
       "sources": [
         {
-          "title": "台積電法說會倒數！外資齊升目標價『最高喊到3800元』EPS上看198.42元-Yahoo股市",
+          "title": "台積電法說會倒數！外資齊升目標價『最高喊到3800元』-Yahoo股市",
           "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%B3%95%E8%AA%AA%E6%9C%83%E5%80%92%E6%95%B8-%E5%A4%96%E8%B3%87%E9%BD%8A%E5%8D%87%E7%9B%AE%E6%A8%99%E5%83%B9-%E6%9C%80%E9%AB%98%E5%96%8A%E5%88%B03800%E5%85%83-eps%E4%B8%8A%E7%9C%8B198-42%E5%85%83-005000550.html"
+        },
+        {
+          "title": "台積電(2330.TW) 相關新聞-Yahoo股市",
+          "url": "https://tw.stock.yahoo.com/quote/2330.TW/news"
         }
       ]
     },
@@ -337,8 +325,8 @@
     },
     {
       "ticker": "AMD",
-      "headline": "超微8/25收479反彈近5% 仍略低於成本",
-      "summary": "AMD 8/25收479.18美元(+4.91%)、隨晶片股反彈、惟仍略低於持有成本約-6%。此前美銀上調伺服器CPU長線展望、公司擬發債強化資金並收購AI推論晶片新星Taalas。分析師共識強力買進、均目標約613美元。",
+      "headline": "超微8/26收481 隨晶片股高檔整理",
+      "summary": "AMD 8/26收480.93美元(+0.37%)、仍略低於持有成本約-6%。此前美銀上調伺服器CPU長線展望、公司擬發債強化資金並收購AI推論晶片新星Taalas。分析師共識強力買進、均目標約613美元。",
       "date": "2026-08-25",
       "sources": [
         {
@@ -350,7 +338,7 @@
     {
       "ticker": "ASTS",
       "headline": "ASTS收62 前波募資稀釋後低檔震盪",
-      "summary": "AST SpaceMobile 8/25收62.01美元(-0.55%)、帳面約-29%。前波因宣布5億美元新募資計畫、市場憂增資稀釋而重挫。8/5成功發射BlueBird 11、12、13三顆下一代衛星、拓展歐洲電信商測試；Q2在手訂單約13億美元、現金逾37億美元。高估值使評價爭論加劇。",
+      "summary": "AST SpaceMobile最近可得收盤62.01美元(8/25，-0.55%)、帳面約-29%。前波因宣布5億美元新募資計畫、市場憂增資稀釋而重挫。8/5成功發射BlueBird 11、12、13三顆下一代衛星、拓展歐洲電信商測試；Q2在手訂單約13億美元、現金逾37億美元。高估值使評價爭論加劇。",
       "date": "2026-08-24",
       "sources": [
         {
@@ -365,9 +353,9 @@
     },
     {
       "ticker": "GOOGL",
-      "headline": "Alphabet收350 續扣定期定額",
-      "summary": "GOOGL 8/25收349.90美元(+0.53%)、略破成本約-1%。近期發表Gemini新版編碼模型、Pixel 11系列上市；早期投資SpaceX股權估值續增。共識強力買進、均目標約428。每月定期定額5,000元續扣。",
-      "date": "2026-08-20",
+      "headline": "Alphabet收342 AI責任部門改組、Waymo拓歐洲",
+      "summary": "GOOGL 8/26收342.00美元(-1.43%)、略破成本約-3%。近期將『AI責任』部門自DeepMind移至全球事務部門、引發獨立性疑慮；Waymo宣布2027在德國慕尼黑推出Robotaxi、首入歐盟；推出法律與金融業專用Gemini Enterprise工具；Meta和解案再引YouTube兒少保護監管關注。共識強力買進、均目標約428。每月定期定額5,000元續扣。",
+      "date": "2026-08-26",
       "sources": [
         {
           "title": "Alphabet(GOOGL)-stockanalysis",
@@ -377,8 +365,8 @@
     },
     {
       "ticker": "MSFT",
-      "headline": "微軟8/25收492 AI合作續增惟透明度受質疑",
-      "summary": "MSFT 8/25收491.71美元(+0.90%)、帳面賺約+28%。近期與Humain(Allam模型)簽長期合作、傳與陸企Moonshot洽談代管Kimi K3模型、Meta成為Azure最大AI客戶之一；惟《華爾街日報》質疑其AI業務(Azure與資本支出)揭露不足。共識強力買進、均目標約563。",
+      "headline": "微軟8/26收496 AI合作續增惟透明度受質疑",
+      "summary": "MSFT 8/26收496.37美元(+0.95%)、帳面賺約+29%。近期與Humain(Allam模型)簽長期合作、傳與陸企Moonshot洽談代管Kimi K3模型、Meta成為Azure最大AI客戶之一；惟《華爾街日報》質疑其AI業務(Azure與資本支出)揭露不足。共識強力買進、均目標約563。",
       "date": "2026-08-25",
       "sources": [
         {
@@ -389,8 +377,8 @@
     },
     {
       "ticker": "MU",
-      "headline": "美光8/25收933反彈2.5% 記憶體回穩",
-      "summary": "美光8/25收932.97美元(+2.48%)反彈，記憶體與AI晶片族群在輝達財報(8/26)前回穩。此前因三星意外配息、Netlist專利戰升溫一度承壓；公司2026年產出已售罄、AI記憶體長線受看好，帳面約+3%。分析師強力買進。",
+      "headline": "美光8/26收938 記憶體族群回穩",
+      "summary": "美光8/26收938.40美元(+0.58%)、記憶體與AI晶片族群回穩。此前因三星意外配息、Netlist專利戰升溫一度承壓；公司2026年產出已售罄、AI記憶體長線受看好，帳面約+3%。分析師強力買進。",
       "date": "2026-08-24",
       "sources": [
         {
@@ -401,20 +389,24 @@
     },
     {
       "ticker": "NVDA",
-      "headline": "輝達8/26盤後財報登場 8/25止跌收213",
-      "summary": "NVDA 8/25收213.05美元(+2.19%)、終止7連跌，帳面賺約+23%。市場焦點為美東8/26盤後(台北8/27清晨)財報，分析師估單季營收上看約978億美元、有望創高；選擇權市場預期反應可能是近年最平淡。惟OpenAI發表新款『Jalapeño』晶片、宣稱效能勝輝達，競爭疑慮升溫，為近期最關鍵觀察點。",
-      "date": "2026-08-25",
+      "headline": "輝達Q2營收破962億+106% Q3財測優預期",
+      "summary": "輝達8/26盤後公布上季(FY27 Q2)營收962億美元、年增106%，EPS 7.91美元；Q3財測約1,080億美元優於市場預估(約1,040億)，明年營收估增約七成、毛利率重設至72-73%；並宣布以129億美元收購Hugging Face。財報後8/27盤前一度飆逾7%至約224.75美元(8/26正常盤收209.66、-1.59%)；高盛、花旗調升目標價。",
+      "date": "2026-08-26",
       "sources": [
         {
-          "title": "NVDA-stockanalysis",
+          "title": "NVIDIA (NVDA) Stock Price & Overview-stockanalysis",
           "url": "https://stockanalysis.com/stocks/nvda/"
+        },
+        {
+          "title": "NVIDIA (NVDA) Financials Overview-stockanalysis",
+          "url": "https://stockanalysis.com/stocks/nvda/financials/"
         }
       ]
     },
     {
       "ticker": "SPCX",
       "headline": "SpaceX砸1000億美元建路州最大發射場",
-      "summary": "SpaceX 8/25收137.95美元(+2.19%)、帳面約-24%。宣布投資1,000億美元於路易斯安那Vermilion Parish興建全球最大發射場、2027年動工；並與Nvidia合作、規劃2027年底部署AI衛星與軌道資料中心。此前完成收購AI程式公司Cursor；解禁賣壓仍需留意。",
+      "summary": "SpaceX 8/26收139.63美元(+1.22%)、帳面約-23%。宣布投資1,000億美元於路易斯安那Vermilion Parish興建全球最大發射場、2027年動工；並與Nvidia合作、規劃2027年底部署AI衛星與軌道資料中心。此前完成收購AI程式公司Cursor；解禁賣壓仍需留意。",
       "date": "2026-08-25",
       "sources": [
         {
@@ -425,8 +417,8 @@
     },
     {
       "ticker": "TSLA",
-      "headline": "特斯拉收350 內華達准5000輛Robotaxi",
-      "summary": "TSLA 8/25收350.25美元(+0.37%)、帳面賺約+21%。內華達州核准最多5,000輛Robotaxi營運、Austin Cybercab試乘開放、Semi電動卡車量產在即，Robotaxi與自駕題材仍為主軸。共識買進、均目標約397。",
+      "headline": "特斯拉收346 內華達准5000輛Robotaxi",
+      "summary": "TSLA 8/26收345.82美元(-1.26%)、帳面賺約+19%。內華達州核准最多5,000輛Robotaxi營運、Austin Cybercab試乘開放、Semi電動卡車量產在即，Robotaxi與自駕題材仍為主軸。共識買進、均目標約397。",
       "date": "2026-08-21",
       "sources": [
         {
@@ -438,8 +430,8 @@
     {
       "ticker": "VOO",
       "headline": "標普500 ETF收704 定期定額續扣",
-      "summary": "VOO(Vanguard標普500 ETF)8/25收704.02美元(+0.31%)、於成本上方約+23%。追蹤美股標普500指數、費用率極低，為每月定期定額(8,000元)核心配置；輝達財報(8/26)為近期市場觀察點。",
-      "date": "2026-08-25",
+      "summary": "VOO(Vanguard標普500 ETF)8/26收704.20美元(+0.03%)、於成本上方約+23%。追蹤美股標普500指數、費用率極低，為每月定期定額(8,000元)核心配置。",
+      "date": "2026-08-26",
       "sources": [
         {
           "title": "VOO-stockanalysis",
@@ -449,9 +441,9 @@
     },
     {
       "ticker": "VT",
-      "headline": "全球股市ETF報161 隨全球小幅走高",
-      "summary": "VT(全球股市ETF)8/25收160.99美元(+0.56%)、於成本上方約+1.4%；分散配置全球逾萬檔股票、費用率僅0.06%，屬長期核心配置。",
-      "date": "2026-08-25",
+      "headline": "全球股市ETF報161 隨全球持平",
+      "summary": "VT(全球股市ETF)8/26收160.87美元(-0.07%)、於成本上方約+1.3%；分散配置全球逾萬檔股票、費用率僅0.06%，屬長期核心配置。",
+      "date": "2026-08-26",
       "sources": [
         {
           "title": "VT-stockanalysis",
@@ -461,15 +453,15 @@
     }
   ],
   "summary": {
-    "twTotal": 3427118.73,
+    "twTotal": 3427122.35,
     "usTotal": 41666.93,
     "twCount": 9,
     "usCount": 10,
-    "twMarketValue": 4619623.28,
-    "usMarketValue": 41910.82,
-    "twUnrealizedPnL": 1192504.55,
-    "usUnrealizedPnL": 243.89,
-    "twReturnPct": 34.8,
-    "usReturnPct": 0.59
+    "twMarketValue": 4625318.38,
+    "usMarketValue": 41849.3,
+    "twUnrealizedPnL": 1198196.03,
+    "usUnrealizedPnL": 182.37,
+    "twReturnPct": 34.96,
+    "usReturnPct": 0.44
   }
 }
