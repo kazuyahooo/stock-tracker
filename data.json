@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-08-29",
+  "lastUpdated": "2026-08-30",
   "holdings": [
     {
       "ticker": "0050",
       "market": "台股",
       "qty": 3355,
       "avgCost": 88.1149,
-      "currentPrice": 105.9,
-      "priceDate": "2026-08-27",
+      "currentPrice": 106.95,
+      "priceDate": "2026-08-28",
       "totalInvested": 295625.49,
-      "marketValue": 355294.5,
-      "unrealizedPnL": 59669.01,
-      "pnlPct": 20.18,
+      "marketValue": 358817.25,
+      "unrealizedPnL": 63191.76,
+      "pnlPct": 21.38,
       "flag": "繼續持有",
-      "notes": "市值型ETF核心；昨收105.90(資料源延遲)、帳面約+20%；每月定期定額，追蹤大盤共用大盤新聞"
+      "notes": "市值型ETF核心；8/28收106.95(+0.85%)、帳面約+21%；每月定期定額，追蹤大盤共用大盤新聞"
     },
     {
       "ticker": "006208",
@@ -27,7 +27,7 @@
       "unrealizedPnL": 428703.96,
       "pnlPct": 126.39,
       "flag": "繼續持有",
-      "notes": "富邦台50；昨收242.85(資料源延遲)、帳面約+126%；除息4.75元已入帳"
+      "notes": "富邦台50；最近可得收盤242.85(資料源延遲)、帳面約+126%；除息4.75元已入帳"
     },
     {
       "ticker": "00631L",
@@ -55,7 +55,7 @@
       "unrealizedPnL": 41580.84,
       "pnlPct": 37.59,
       "flag": "繼續持有",
-      "notes": "高息ETF；最近可得收盤30.71(8/25)、帳面約+38%；配息創高、年化配息率逾13%"
+      "notes": "高息ETF；最近可得收盤30.71(8/25，資料源延遲)、帳面約+38%；配息創高、年化配息率逾13%"
     },
     {
       "ticker": "009816",
@@ -69,7 +69,7 @@
       "unrealizedPnL": 27643.02,
       "pnlPct": 4.09,
       "flag": "繼續持有",
-      "notes": "凱基台灣TOP50不配息；8/28收15.59、約+4.1%；定期定額續扣，較上版15.21回升"
+      "notes": "凱基台灣TOP50不配息；8/28收15.59(+0.84%)、約+4.1%；定期定額續扣、連4漲"
     },
     {
       "ticker": "00981A",
@@ -83,21 +83,21 @@
       "unrealizedPnL": -17089.2,
       "pnlPct": -4.38,
       "flag": "觀察中",
-      "notes": "統一台股增長主動式ETF；昨收約29.52(資料源延遲)、跌破成本約-4%；重壓被動元件、波動加大"
+      "notes": "統一台股增長主動式ETF；最近可得收盤約29.52(資料源延遲)、跌破成本約-4%；重壓被動元件、波動加大"
     },
     {
       "ticker": "2327",
       "market": "台股",
       "qty": 30,
       "avgCost": 1031.4667,
-      "currentPrice": 560.0,
-      "priceDate": "2026-08-24",
+      "currentPrice": 597.0,
+      "priceDate": "2026-08-28",
       "totalInvested": 30944.0,
-      "marketValue": 16800.0,
-      "unrealizedPnL": -14144.0,
-      "pnlPct": -45.71,
+      "marketValue": 17910.0,
+      "unrealizedPnL": -13034.0,
+      "pnlPct": -42.12,
       "flag": "觀察中",
-      "notes": "國巨；最近可得收盤560(8/24，Yahoo報價源嚴重延遲，技術頁回舊值不採用)、外資連9賣跌破500元關卡、曾列處置股，仍虧約-46%；高波動宜嚴控風險"
+      "notes": "國巨；8/28收597(+7.57%)、連2漲停重返6字頭、自跌破500元絕地反攻，帳面約-42%；高波動宜嚴控風險"
     },
     {
       "ticker": "2330",
@@ -139,7 +139,7 @@
       "unrealizedPnL": -131.07,
       "pnlPct": -8.58,
       "flag": "觀察中",
-      "notes": "超微；8/28收465.58(-2.33%)、隨晶片股回檔、低於持有成本約-9%；分析師共識強力買進、均目標約613"
+      "notes": "超微;8/28收465.58(-2.33%)、隨晶片股回檔、低於持有成本約-9%；分析師共識強力買進、均目標約613"
     },
     {
       "ticker": "ASTS",
@@ -324,26 +324,22 @@
         {
           "title": "中信金營運聚焦四大策略；尋求證券併購機會-Yahoo股市",
           "url": "https://tw.stock.yahoo.com/news/%E4%B8%AD%E4%BF%A1%E9%87%91%E7%87%9F%E9%81%8B%E8%81%9A%E7%84%A6%E5%9B%9B%E5%A4%A7%E7%AD%96%E7%95%A5-%E5%B0%8B%E6%B1%82%E8%AD%89%E5%88%B8%E4%BD%B5%E8%B3%BC%E6%A9%9F%E6%9C%83-035000832.html"
-        },
-        {
-          "title": "13金控1表看》8家殖利率逾4% 中信金在列-Yahoo股市",
-          "url": "https://tw.stock.yahoo.com/news/13%E9%87%91%E6%8E%A71%E8%A1%A8%E7%9C%8B-%E4%B8%AD%E4%BF%A1%E9%87%91-%E5%AF%8C%E9%82%A6%E9%87%91-%E7%8E%89%E5%B1%B1%E9%87%91-8%E5%AE%B6%E6%AE%96%E5%88%A9%E7%8E%87%E9%80%BE4-085709713.html"
         }
       ]
     },
     {
       "ticker": "2327",
-      "headline": "國巨跌破500元 外資連9賣、遭列處置股",
-      "summary": "國巨近日被動元件族群殺盤重挫、股價跌破500元關卡，外資連9賣、單日倒貨近8千張，並因波動過大遭列處置股。雖Q3出貨量增、營收創歷史第三高，惟外資調低目標價；持有成本約1,031元、帳面約-46%，屬高波動觀察標的。",
-      "date": "2026-08-27",
+      "headline": "國巨絕地反攻 連2漲停重返6字頭",
+      "summary": "國巨8/28收597元(+7.57%)、連2交易日亮漲停、重返6字頭，1.8萬股東抄底翻身、守穩兆元市值。此前遭外資連9賣、跌破500元並列處置股，如今絕地反攻；Q3出貨量增、價格調整效益顯現、營運續揚，惟法人先前大砍目標價。持有成本約1,031元、帳面約-42%。",
+      "date": "2026-08-28",
       "sources": [
         {
-          "title": "營收創歷史第三高也拉不回！被動元件大廠股價跌破5字頭 外資調低目標價-Yahoo股市",
-          "url": "https://tw.stock.yahoo.com/news/%E7%87%9F%E6%94%B6%E5%89%B5%E6%AD%B7%E5%8F%B2%E7%AC%AC%E4%B8%89%E9%AB%98%E4%B9%9F%E6%8B%89%E4%B8%8D%E5%9B%9E-%E8%A2%AB%E5%8B%95%E5%85%83%E4%BB%B6%E5%A4%A7%E5%BB%A0-%E8%82%A1%E5%83%B9%E8%B7%8C%E7%A0%B45%E5%AD%97%E9%A0%AD-%E5%A4%96%E8%B3%87%E4%B9%9F%E8%AA%BF%E4%BD%8E%E7%9B%AE%E6%A8%99%E5%83%B9-050500244.html"
+          "title": "國巨大復活！股價連亮漲停燈 1.8萬股東抄底翻身-Yahoo股市",
+          "url": "https://tw.stock.yahoo.com/news/%E5%9C%8B%E5%B7%A8%E5%A4%A7%E5%BE%A9%E6%B4%BB-%E8%82%A1%E5%83%B9%E9%80%A3%E4%BA%AE%E6%BC%B2%E5%81%9C%E7%87%88-1-8%E8%90%AC%E8%82%A1%E6%9D%B1%E6%8A%84%E5%BA%95%E7%BF%BB%E8%BA%AB-%E5%8D%83%E5%BC%B5%E5%A4%A7%E6%88%B6-035500962.html"
         },
         {
-          "title": "國巨衝上台股市值第九 飆太兇遭列處置股-Yahoo股市",
-          "url": "https://tw.stock.yahoo.com/news/%E5%9C%8B%E5%B7%A8%E8%A1%9D%E4%B8%8A%E5%8F%B0%E8%82%A1%E5%B8%82%E5%80%BC%E7%AC%AC%E4%B9%9D-%E9%A3%86%E5%A4%AA%E5%85%87%E9%81%AD%E5%88%97%E8%99%95%E7%BD%AE%E8%82%A1%E6%98%8E%E8%B5%B7-%E8%A2%AB%E9%97%9C%E7%A6%81%E9%96%89-104427289.html"
+          "title": "從台股第6大到差點跌出20強…國巨絕地反攻連2燈 守穩兆元市值-Yahoo股市",
+          "url": "https://tw.stock.yahoo.com/news/%E5%BE%9E%E5%8F%B0%E8%82%A1%E7%AC%AC6%E5%A4%A7%E5%88%B0%E5%B7%AE%E9%BB%9E%E8%B7%8C%E5%87%BA20%E5%BC%B7%E5%9C%8B%E5%B7%A8%E7%B5%95%E5%9C%B0%E5%8F%8D%E6%94%BB%E9%80%A32%E7%87%88-%E5%AE%88%E7%A9%A9%E5%85%86%E5%85%83%E5%B8%82%E5%80%BC-020343472.html"
         }
       ]
     },
@@ -373,7 +369,7 @@
     },
     {
       "ticker": "GOOGL",
-      "headline": "Alphabet收342 AI責任部門改組、Waymo拓歐洲",
+      "headline": "Alphabet收347 AI責任部門改組、Waymo拓歐洲",
       "summary": "GOOGL 8/28收346.59美元(+1.74%)、略破成本約-2%。近期將『AI責任』部門自DeepMind移至全球事務部門、引發獨立性疑慮；Waymo宣布2027在德國慕尼黑推出Robotaxi、首入歐盟。共識強力買進、均目標約428。每月定期定額5,000元續扣。",
       "date": "2026-08-26",
       "sources": [
@@ -473,15 +469,15 @@
     }
   ],
   "summary": {
-    "twTotal": 3427118.72,
-    "usTotal": 41666.92,
+    "twTotal": 3427118.73,
+    "usTotal": 41666.93,
     "twCount": 9,
     "usCount": 10,
-    "twMarketValue": 4659167.14,
+    "twMarketValue": 4663799.89,
     "usMarketValue": 42237.44,
-    "twUnrealizedPnL": 1232048.42,
-    "usUnrealizedPnL": 570.52,
-    "twReturnPct": 35.95,
+    "twUnrealizedPnL": 1236681.16,
+    "usUnrealizedPnL": 570.51,
+    "twReturnPct": 36.09,
     "usReturnPct": 1.37
   }
 }
