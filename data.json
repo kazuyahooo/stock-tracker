@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-06",
+  "lastUpdated": "2026-09-07",
   "holdings": [
     {
       "ticker": "0050",
@@ -8,9 +8,9 @@
       "avgCost": 88.1149,
       "currentPrice": 108.45,
       "priceDate": "2026-09-01",
-      "totalInvested": 295625.46,
+      "totalInvested": 295625.49,
       "marketValue": 363849.75,
-      "unrealizedPnL": 68224.29,
+      "unrealizedPnL": 68224.26,
       "pnlPct": 23.08,
       "flag": "繼續持有",
       "notes": "市值型ETF核心；最近可得收盤108.45(9/1，Yahoo個股頁資料延遲)、帳面約+23%；每月定期定額，追蹤大盤共用大盤新聞"
@@ -48,14 +48,14 @@
       "market": "台股",
       "qty": 4956.0,
       "avgCost": 22.32,
-      "currentPrice": 30.65,
-      "priceDate": "2026-08-25",
+      "currentPrice": 32.91,
+      "priceDate": "2026-09-07",
       "totalInvested": 110617.92,
-      "marketValue": 151901.4,
-      "unrealizedPnL": 41283.48,
-      "pnlPct": 37.32,
+      "marketValue": 163101.96,
+      "unrealizedPnL": 52484.04,
+      "pnlPct": 47.45,
       "flag": "繼續持有",
-      "notes": "高息ETF；最近可得收盤約30.65(8/25，資料源延遲)、帳面約+37%；擬9/16除息每股1.1元連3季創高、年化配息率逾13%"
+      "notes": "高息ETF；9/7收32.91(+0.33%)、帳面約+47%；擬9/16除息每股1.1元連3季創高、年化配息率逾13%"
     },
     {
       "ticker": "009816",
@@ -64,9 +64,9 @@
       "avgCost": 14.9771,
       "currentPrice": 15.59,
       "priceDate": "2026-08-28",
-      "totalInvested": 675499.4,
+      "totalInvested": 675497.16,
       "marketValue": 703140.18,
-      "unrealizedPnL": 27640.78,
+      "unrealizedPnL": 27643.02,
       "pnlPct": 4.09,
       "flag": "繼續持有",
       "notes": "凱基台灣TOP50不配息；最近可得收盤15.59(8/28，延遲)、約+4.1%；定期定額續扣，追蹤大盤"
@@ -76,14 +76,14 @@
       "market": "台股",
       "qty": 12625.0,
       "avgCost": 30.8736,
-      "currentPrice": 29.52,
-      "priceDate": "2026-08-28",
-      "totalInvested": 389779.75,
-      "marketValue": 372690.0,
-      "unrealizedPnL": -17089.75,
-      "pnlPct": -4.38,
+      "currentPrice": 30.12,
+      "priceDate": "2026-09-07",
+      "totalInvested": 389779.2,
+      "marketValue": 380265.0,
+      "unrealizedPnL": -9514.2,
+      "pnlPct": -2.44,
       "flag": "觀察中",
-      "notes": "統一台股增長主動式ETF；頁面僅顯示昨收29.52(延遲)、跌破成本約-4%；重壓被動元件、波動加大"
+      "notes": "統一台股增長主動式ETF；9/7收30.12(+1.18%)反彈、惟仍略低於成本約-2.4%；重壓被動元件、波動加大"
     },
     {
       "ticker": "2327",
@@ -106,9 +106,9 @@
       "avgCost": 1286.0746,
       "currentPrice": 2410.0,
       "priceDate": "2026-09-04",
-      "totalInvested": 850095.28,
+      "totalInvested": 850095.31,
       "marketValue": 1593010.0,
-      "unrealizedPnL": 742914.72,
+      "unrealizedPnL": 742914.69,
       "pnlPct": 87.39,
       "flag": "繼續持有",
       "notes": "台積電最大部位；9/4收2,410元(+0.84%)守季線、帳面約+87%；2奈米與AI題材延續；為最大單一部位"
@@ -120,9 +120,9 @@
       "avgCost": 47.6328,
       "currentPrice": 68.4,
       "priceDate": "2026-09-04",
-      "totalInvested": 34581.4,
+      "totalInvested": 34581.41,
       "marketValue": 49658.4,
-      "unrealizedPnL": 15077.0,
+      "unrealizedPnL": 15076.99,
       "pnlPct": 43.6,
       "flag": "繼續持有",
       "notes": "中信金；9/5加碼86股(均價約64.8)後持726股、均價47.63；9/4收68.40(+1.33%)、帳面約+44%；明年現金股利再創高可期"
@@ -139,7 +139,7 @@
       "unrealizedPnL": -95.1,
       "pnlPct": -6.22,
       "flag": "觀察中",
-      "notes": "超微；9/4收477.57(+4.69%)、低於成本約-6%；沙國HUMAIN/Cisco AI基建上線(MI355X)；共識強力買進、均目標約613"
+      "notes": "超微；9/4收477.57(+4.69%)、低於成本約-6%；IFA 2026發表Strix Halo/Gorgon Halo新AI晶片、沙國HUMAIN攜Cisco上線MI355X基建；ARK約減碼7,280萬美元轉進輝達；共識強力買進、均目標約614"
     },
     {
       "ticker": "ASTS",
@@ -162,7 +162,7 @@
       "avgCost": 353.3785,
       "currentPrice": 338.46,
       "priceDate": "2026-09-04",
-      "totalInvested": 3688.22,
+      "totalInvested": 3688.21,
       "marketValue": 3532.51,
       "unrealizedPnL": -155.7,
       "pnlPct": -4.22,
@@ -285,8 +285,8 @@
   "news": [
     {
       "ticker": "大盤",
-      "headline": "台股9/4大漲693點收46551 連2週紅",
-      "summary": "加權指數9/4收46,551.13點、上漲693.47點(+1.51%)，成交約8,557億元量縮價漲、收復5日均線連2週收紅。聯準會官員鴿派談話激勵美股反彈帶動台股走強，電子權值與被動元件領軍、台積電聯發科走強、富邦金創高。(0050、006208、00631L、009816、00981A、00919等追蹤大盤標的共用此則；9/5、9/6為週末無交易，沿用9/4最新收盤資訊；Yahoo個股頁資料延遲，多檔個股頁仍顯示8月下旬至9/3收盤)",
+      "headline": "台股最新收盤46551 連2週紅(9/4)",
+      "summary": "最新可得收盤為加權指數9/4收46,551.13點、上漲693.47點(+1.51%)，成交約8,557億元量縮價漲、外資轉買超562億元掃電子與被動元件。9/5、9/6為週末，9/7雖為交易日惟Yahoo大盤與多檔個股頁資料延遲、尚未更新至9/7，故沿用9/4最新收盤；個股頁00919、00981A已更新至9/7(小漲)。0050、006208、00631L、009816、00981A、00919等追蹤大盤標的共用此則。",
       "date": "2026-09-04",
       "sources": [
         {
@@ -341,13 +341,17 @@
     },
     {
       "ticker": "AMD",
-      "headline": "超微沙國AI基建上線 收477",
-      "summary": "AMD 9/4收477.57美元(+4.69%)、低於持有成本約-6%。沙烏地HUMAIN攜手AMD、Cisco在沙國上線生產級AI運算(採AMD Instinct MI355X GPU)；此前美銀上調伺服器CPU長線展望。分析師共識強力買進、均目標約613美元。",
-      "date": "2026-08-31",
+      "headline": "超微IFA發表新AI晶片 ARK減碼",
+      "summary": "AMD 9/4收477.57美元(+4.69%)、低於持有成本約-6%。IFA 2026發表Strix Halo/Gorgon Halo新晶片主打個人與代理式AI；沙烏地HUMAIN攜Cisco在沙國上線生產級AI運算(採AMD Instinct MI355X GPU)。Cathie Wood/ARK約減碼7,280萬美元、轉進輝達。今年來股價約+115%，分析師共識強力買進、均目標約614美元。",
+      "date": "2026-09-05",
       "sources": [
         {
           "title": "Advanced Micro Devices (AMD) Stock Price & Overview-stockanalysis",
           "url": "https://stockanalysis.com/stocks/amd/"
+        },
+        {
+          "title": "Advanced Micro Devices (AMD) Stock Forecast & Price Targets-stockanalysis",
+          "url": "https://stockanalysis.com/stocks/amd/forecast/"
         }
       ]
     },
@@ -481,15 +485,15 @@
     }
   ],
   "summary": {
-    "twTotal": 3478976.95,
+    "twTotal": 3478974.24,
     "usTotal": 41666.93,
     "twCount": 9,
     "usCount": 10,
-    "twMarketValue": 4710283.35,
+    "twMarketValue": 4729058.91,
     "usMarketValue": 43157.03,
-    "twUnrealizedPnL": 1231306.4,
-    "usUnrealizedPnL": 1490.11,
-    "twReturnPct": 35.39,
+    "twUnrealizedPnL": 1250084.67,
+    "usUnrealizedPnL": 1490.1,
+    "twReturnPct": 35.93,
     "usReturnPct": 3.58
   }
 }
