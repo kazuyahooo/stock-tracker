@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-14",
+  "lastUpdated": "2026-09-15",
   "holdings": [
     {
       "ticker": "0050",
@@ -13,7 +13,7 @@
       "unrealizedPnL": 72470.34,
       "pnlPct": 24.03,
       "flag": "繼續持有",
-      "notes": "元大台灣50市值型ETF核心；均價88.45(含9/13定期定額加碼55股)；Yahoo報價頁延遲、最近確認收盤109.70(9/9)、帳面約+24%；追蹤大盤共用大盤新聞"
+      "notes": "元大台灣50市值型ETF核心；均價88.45(含9/13定期定額加碼55股)；Yahoo報價頁延遲、最近可得收盤109.70(9/9)、帳面約+24%；追蹤大盤共用大盤新聞"
     },
     {
       "ticker": "006208",
@@ -41,7 +41,7 @@
       "unrealizedPnL": 10070.0,
       "pnlPct": 1.36,
       "flag": "繼續持有",
-      "notes": "台灣50正2槓桿ETF；持20000股均價37.13；Yahoo頁延遲、最近確認收盤37.63(9/9)、翻正約+1.4%；2倍槓桿波動大、大部位需嚴控風險"
+      "notes": "台灣50正2槓桿ETF；持20000股均價37.13；Yahoo頁延遲、最近可得收盤37.63(9/9)、翻正約+1.4%；2倍槓桿波動大、大部位需嚴控風險"
     },
     {
       "ticker": "00919",
@@ -55,7 +55,7 @@
       "unrealizedPnL": 50848.56,
       "pnlPct": 45.97,
       "flag": "繼續持有",
-      "notes": "群益台灣精選高息ETF；Yahoo頁延遲、最近確認收盤32.58(9/9)、帳面約+46%；9/16除息每股1.1元連3季創高、年化配息率逾13%"
+      "notes": "群益台灣精選高息ETF；Yahoo頁延遲、最近可得收盤32.58(9/9)、帳面約+46%；9/16除息每股1.1元、年化配息率逾13%"
     },
     {
       "ticker": "009816",
@@ -97,21 +97,21 @@
       "unrealizedPnL": -14934.56,
       "pnlPct": -36.37,
       "flag": "觀察中",
-      "notes": "國巨*；最近可得收盤544.28(9/11)、帳面約-36%；8月營收163.32億創單月新高、年增51.8%、AI需求推升產能利用率逾90%、部分法人上調目標價至950元；僅48股影響甚微、宜嚴控風險"
+      "notes": "國巨*；最近可得收盤544.28(9/11)、帳面約-36%；日商村田停產部分MLCC、國巨等台廠有轉單契機，惟9/11大盤崩跌被動元件遭血洗、9/14再跌，僅48股影響甚微、宜嚴控風險"
     },
     {
       "ticker": "2330",
       "market": "台股",
       "qty": 661,
       "avgCost": 1286.0746,
-      "currentPrice": 2410.0,
-      "priceDate": "2026-09-11",
+      "currentPrice": 2380.0,
+      "priceDate": "2026-09-14",
       "totalInvested": 850095.31,
-      "marketValue": 1593010.0,
-      "unrealizedPnL": 742914.69,
-      "pnlPct": 87.39,
+      "marketValue": 1573180.0,
+      "unrealizedPnL": 723084.69,
+      "pnlPct": 85.06,
       "flag": "繼續持有",
-      "notes": "台積電最大部位；最近可得收盤2,410元(9/11、連3跌)、帳面約+87%；8月營收5,148億史上單月新高(+53.3%)；2奈米與AI題材延續、法說會倒數，為最大單一部位"
+      "notes": "台積電最大部位；9/14收2,380元(較9/11之2,410續跌)、帳面約+85%；8月營收5,148億史上單月新高；2奈米與AI題材延續、法說會倒數，為最大單一部位"
     },
     {
       "ticker": "2891",
@@ -132,140 +132,140 @@
       "market": "美股",
       "qty": 3,
       "avgCost": 509.27,
-      "currentPrice": 516.13,
-      "priceDate": "2026-09-11",
+      "currentPrice": 493.41,
+      "priceDate": "2026-09-14",
       "totalInvested": 1527.81,
-      "marketValue": 1548.39,
-      "unrealizedPnL": 20.58,
-      "pnlPct": 1.35,
+      "marketValue": 1480.23,
+      "unrealizedPnL": -47.58,
+      "pnlPct": -3.11,
       "flag": "繼續持有",
-      "notes": "超微；9/11收516.13(+2.49%)、帳面約+1.3%；上調2030年AI TAM至3兆美元、花旗維持買進"
+      "notes": "超微；9/14收493.41(-4.40%)、AI安全疑慮引發晶片股賣壓略跌破成本約-3.1%；Stifel重申買進、看好EPYC放量"
     },
     {
       "ticker": "ASTS",
       "market": "美股",
       "qty": 12,
       "avgCost": 87.36,
-      "currentPrice": 59.86,
-      "priceDate": "2026-09-11",
+      "currentPrice": 60.0,
+      "priceDate": "2026-09-14",
       "totalInvested": 1048.32,
-      "marketValue": 718.32,
-      "unrealizedPnL": -330.0,
-      "pnlPct": -31.48,
+      "marketValue": 720.0,
+      "unrealizedPnL": -328.32,
+      "pnlPct": -31.32,
       "flag": "觀察中",
-      "notes": "AST SpaceMobile；9/11收59.86(-0.08%)、帳面約-31%；14位分析師共識Hold、均目標79.61；BlueBird衛星續發射、波動極大"
+      "notes": "AST SpaceMobile；9/14收60.00(+0.23%)、帳面約-31%；14位分析師共識Hold、均目標79.61；BlueBird衛星續發射、波動極大"
     },
     {
       "ticker": "GOOGL",
       "market": "美股",
       "qty": 10.43701,
       "avgCost": 353.3785,
-      "currentPrice": 338.5,
-      "priceDate": "2026-09-11",
+      "currentPrice": 349.39,
+      "priceDate": "2026-09-14",
       "totalInvested": 3688.21,
-      "marketValue": 3532.93,
-      "unrealizedPnL": -155.29,
-      "pnlPct": -4.21,
+      "marketValue": 3646.59,
+      "unrealizedPnL": -41.63,
+      "pnlPct": -1.13,
       "flag": "繼續持有",
-      "notes": "Alphabet；9/11收338.50(+1.77%)、略破成本約-4.2%；砸151億美元擴芬蘭AI資料中心；每月定期定額5,000元"
+      "notes": "Alphabet；9/14收349.39(+3.22%)、略破成本約-1.1%；砸151億美元擴芬蘭AI資料中心；每月定期定額5,000元"
     },
     {
       "ticker": "MSFT",
       "market": "美股",
       "qty": 4,
       "avgCost": 384.94,
-      "currentPrice": 495.63,
-      "priceDate": "2026-09-11",
+      "currentPrice": 505.41,
+      "priceDate": "2026-09-14",
       "totalInvested": 1539.76,
-      "marketValue": 1982.52,
-      "unrealizedPnL": 442.76,
-      "pnlPct": 28.76,
+      "marketValue": 2021.64,
+      "unrealizedPnL": 481.88,
+      "pnlPct": 31.3,
       "flag": "繼續持有",
-      "notes": "微軟；9/11收495.63(+0.65%)、帳面約+29%；將按季揭露Azure營收、推Project Zenith/Helix；共識強力買進、均目標約571"
+      "notes": "微軟；9/14收505.41(+1.97%)、帳面約+31%；9/14發布37頁AI行為準則、強調人類可控；共識強力買進、均目標約571"
     },
     {
       "ticker": "MU",
       "market": "美股",
       "qty": 2,
       "avgCost": 910.08,
-      "currentPrice": 975.26,
-      "priceDate": "2026-09-11",
+      "currentPrice": 924.03,
+      "priceDate": "2026-09-14",
       "totalInvested": 1820.16,
-      "marketValue": 1950.52,
-      "unrealizedPnL": 130.36,
-      "pnlPct": 7.16,
+      "marketValue": 1848.06,
+      "unrealizedPnL": 27.9,
+      "pnlPct": 1.53,
       "flag": "繼續持有",
-      "notes": "美光；9/11收975.26(-0.22%)、帳面約+7.2%；AI HBM需求強、傳記憶體價漲60%；9/30公布Q4財報"
+      "notes": "美光；9/14收924.03(-5.25%)、AI安全疑慮拖累記憶體股、帳面約+1.5%；AI HBM/漲價題材仍在、9/30公布Q4財報"
     },
     {
       "ticker": "NVDA",
       "market": "美股",
       "qty": 27,
       "avgCost": 173.1219,
-      "currentPrice": 218.29,
-      "priceDate": "2026-09-11",
+      "currentPrice": 210.96,
+      "priceDate": "2026-09-14",
       "totalInvested": 4674.29,
-      "marketValue": 5893.83,
-      "unrealizedPnL": 1219.54,
-      "pnlPct": 26.09,
+      "marketValue": 5695.92,
+      "unrealizedPnL": 1021.63,
+      "pnlPct": 21.86,
       "flag": "繼續持有",
-      "notes": "輝達；9/11收218.29(-0.03%)、帳面約+26%；BMO目標340、傳收購Hugging Face"
+      "notes": "輝達；9/14收210.96(-3.36%)、AI放緩論引發賣壓、帳面約+22%；BMO目標340、傳收購Hugging Face"
     },
     {
       "ticker": "SPCX",
       "market": "美股",
       "qty": 60,
       "avgCost": 181.2612,
-      "currentPrice": 151.21,
-      "priceDate": "2026-09-11",
+      "currentPrice": 148.15,
+      "priceDate": "2026-09-14",
       "totalInvested": 10875.67,
-      "marketValue": 9072.6,
-      "unrealizedPnL": -1803.07,
-      "pnlPct": -16.58,
+      "marketValue": 8889.0,
+      "unrealizedPnL": -1986.67,
+      "pnlPct": -18.27,
       "flag": "觀察中",
-      "notes": "SpaceX；9/11收151.21(+2.04%)、帳面約-17%；第三批解禁約3.19億股9/9啟動、賣壓續存；高波動需留意"
+      "notes": "SpaceX；9/14收148.15(-2.02%)、帳面約-18%；第三批解禁約3.19億股9/9啟動、賣壓續存；高波動需留意"
     },
     {
       "ticker": "TSLA",
       "market": "美股",
       "qty": 4,
       "avgCost": 289.82,
-      "currentPrice": 365.44,
-      "priceDate": "2026-09-11",
+      "currentPrice": 358.97,
+      "priceDate": "2026-09-14",
       "totalInvested": 1159.28,
-      "marketValue": 1461.76,
-      "unrealizedPnL": 302.48,
-      "pnlPct": 26.09,
+      "marketValue": 1435.88,
+      "unrealizedPnL": 276.6,
+      "pnlPct": 23.86,
       "flag": "繼續持有",
-      "notes": "特斯拉；9/11收365.44(+0.52%)、帳面約+26%；Cybercab Robotaxi遭NHTSA審查；中國推Model Y Performance；共識買進、均目標約390"
+      "notes": "特斯拉；9/14收358.97(-1.77%)、帳面約+24%；Cybercab Robotaxi遭NHTSA審查；中國推Model Y Performance；共識買進、均目標約390"
     },
     {
       "ticker": "VOO",
       "market": "美股",
       "qty": 10.16267,
       "avgCost": 571.1747,
-      "currentPrice": 702.56,
-      "priceDate": "2026-09-11",
+      "currentPrice": 699.3,
+      "priceDate": "2026-09-14",
       "totalInvested": 5804.66,
-      "marketValue": 7139.89,
-      "unrealizedPnL": 1335.23,
-      "pnlPct": 23.0,
+      "marketValue": 7106.76,
+      "unrealizedPnL": 1302.1,
+      "pnlPct": 22.43,
       "flag": "繼續持有",
-      "notes": "標普500 ETF；9/11收702.56(+0.85%)、帳面約+23%；每月定期定額8,000元核心配置"
+      "notes": "標普500 ETF；9/14收699.30(-0.46%)、帳面約+22%；每月定期定額8,000元核心配置"
     },
     {
       "ticker": "VT",
       "market": "美股",
       "qty": 60,
       "avgCost": 158.8127,
-      "currentPrice": 159.94,
-      "priceDate": "2026-09-11",
+      "currentPrice": 158.73,
+      "priceDate": "2026-09-14",
       "totalInvested": 9528.76,
-      "marketValue": 9596.4,
-      "unrealizedPnL": 67.64,
-      "pnlPct": 0.71,
+      "marketValue": 9523.8,
+      "unrealizedPnL": -4.96,
+      "pnlPct": -0.05,
       "flag": "繼續持有",
-      "notes": "全球股市ETF；9/11收159.94(+0.89%)、貼近成本約+0.7%；分散全球逾萬檔、費用率0.06%，長期核心配置"
+      "notes": "全球股市ETF；9/14收158.73(-0.76%)、貼近成本約-0.1%；分散全球逾萬檔、費用率0.06%，長期核心配置"
     }
   ],
   "realized": [
@@ -285,9 +285,9 @@
   "news": [
     {
       "ticker": "大盤",
-      "headline": "台股9/14收45,862點 未如預期反彈跌0.7%",
-      "summary": "加權指數9/14收45,862.52點、下跌322.33點(-0.70%)，未如市場預期反彈；AI權值走弱、台積電維持2,410元附近整理，資金保守觀望、成交量續縮。0050、006208、00631L、009816、00981A、00919等追蹤大盤標的共用此則。",
-      "date": "2026-09-14",
+      "headline": "台股9/15收45,511點 反彈0.77%",
+      "summary": "加權指數9/15收45,511.49點、上漲351.03點(+0.77%)，止跌反彈。此前受Anthropic、OpenAI等AI業者呼籲放緩AI發展影響，晶片股9/13-9/14全球承壓，台積電、被動元件同步走弱；9/15買盤回補推升大盤翻紅。0050、006208、00631L、009816、00981A、00919等追蹤大盤標的共用此則。",
+      "date": "2026-09-15",
       "sources": [
         {
           "title": "加權指數(^TWII)走勢圖-Yahoo股市",
@@ -298,7 +298,7 @@
     {
       "ticker": "2330",
       "headline": "台積電8月營收5,148億 史上單月新高",
-      "summary": "台積電8月營收5,148.06億元、月增10.1%、年增53.3%，創歷年最強8月與史上單月新高；前8月累計3兆3,868.7億元、年增39.3%。最近可得收盤2,410元(9/11、連3跌)、帳面約+87%。法說會倒數，外資齊升目標價、最高上看3,800元、EPS上看198.42元；2奈米與AI題材延續，為最大單一部位。",
+      "summary": "台積電8月營收5,148.06億元、月增10.1%、年增53.3%，創歷年最強8月與史上單月新高；前8月累計3兆3,868.7億元、年增39.3%。9/14收2,380元(較9/11之2,410續跌)、帳面約+85%。法說會倒數，外資齊升目標價、最高上看3,800元、EPS上看198.42元；2奈米與AI題材延續，為最大單一部位。",
       "date": "2026-09-10",
       "sources": [
         {
@@ -314,7 +314,7 @@
     {
       "ticker": "2891",
       "headline": "中信金9/11標得漢測IPO競拍股 股利看增",
-      "summary": "中信金9/11公告，代子公司中國信託商業銀行於漢民測試(漢測)IPO競拍取得23,000股、每股4,174.13元、交易金額約9,601萬元；近日另有授信資產轉讓等動作。法人續看好明年現金股利再創高、銀行與壽險獲利超標。9/14收68.11(+1.49%)、帳面約+43%；具存股殖利率吸引力。",
+      "summary": "中信金9/11公告，代子公司中國信託商業銀行於漢民測試(漢測)IPO競拍取得23,000股、每股4,174.13元、交易金額約9,601萬元。法人續看好明年現金股利再創高、銀行與壽險獲利超標。9/14收68.11(+1.49%)、帳面約+43%；具存股殖利率吸引力。",
       "date": "2026-09-11",
       "sources": [
         {
@@ -329,25 +329,25 @@
     },
     {
       "ticker": "2327",
-      "headline": "國巨8月營收163億創新高 產能利用率逾90%",
-      "summary": "國巨*公布8月自結合併營收163.32億元、年增51.8%，再寫單月新高；累計前8月1,150.85億元、年增34.9%。AI相關應用與亞洲需求強勁，標準品/特殊品產能利用率升至90%以上、客戶庫存健康，部分法人上調目標價至950元、EPS估23.71元。惟被動元件族群震盪劇烈，最近可得收盤544.28(9/11)、帳面約-36%；持48股均價855屬高波動小部位、宜嚴控風險。",
-      "date": "2026-09-08",
+      "headline": "村田停產部分MLCC 國巨迎轉單但股價續弱",
+      "summary": "日商村田(Murata)宣布停產部分MLCC產品(2029/3為最後出貨)，為國巨、華新科等台廠帶來轉單契機；惟受美債殖利率走高、地緣風險與AI步調疑慮拖累，9/11台股崩跌755點被動元件遭血洗、9/14再跌約2%。最近可得收盤544.28(9/11)、帳面約-36%；持48股均價855屬高波動小部位、宜嚴控風險。",
+      "date": "2026-09-14",
       "sources": [
         {
-          "title": "再寫最強單月！國巨8月營收衝163億元 年增51%-Yahoo股市",
+          "title": "國巨*(2327)相關新聞-Yahoo股市",
           "url": "https://tw.stock.yahoo.com/quote/2327/news"
         },
         {
-          "title": "被動元件行情大爆發！龍頭廠目標價直衝950元 EPS估達23.71元-Yahoo股市",
-          "url": "https://tw.stock.yahoo.com/news/%E8%A2%AB%E5%8B%95%E5%85%83%E4%BB%B6%E8%A1%8C%E6%83%85%E5%A4%A7%E7%88%86%E7%99%BC-%E9%BE%8D%E9%A0%AD%E5%BB%A0-%E7%9B%AE%E6%A8%99%E5%83%B9%E7%9B%B4%E8%A1%9D950%E5%85%83-eps%E4%BC%B0%E9%81%9423-71%E5%85%83-091500307.html"
+          "title": "村田停產部分MLCC！國巨、華新科急拉黑翻紅-Yahoo股市",
+          "url": "https://tw.stock.yahoo.com/quote/2327.TW"
         }
       ]
     },
     {
       "ticker": "AMD",
-      "headline": "超微上調AI市場規模至3兆 股價回升",
-      "summary": "AMD將2030年AI潛在市場(TAM)由2兆上修至3兆美元激勵買氣；花旗維持買進；此前IFA 2026發表Strix Halo/Gorgon Halo新AI晶片。9/11收516.13(+2.49%)、重回成本上方約+1.3%。",
-      "date": "2026-09-08",
+      "headline": "AI安全疑慮引晶片股賣壓 超微跌破成本",
+      "summary": "Anthropic、OpenAI等AI領袖9/13-9/14呼籲放緩AI發展，市場憂科技巨頭削減AI資本支出，晶片股(AMD、Nvidia、Intel等)領跌。AMD 9/14收493.41(-4.40%)、略跌破成本約-3.1%。惟Stifel重申買進、看好EPYC處理器放量的持續性，基本面仍受青睞。",
+      "date": "2026-09-14",
       "sources": [
         {
           "title": "Advanced Micro Devices (AMD) Stock Price & Overview-stockanalysis",
@@ -362,7 +362,7 @@
     {
       "ticker": "GOOGL",
       "headline": "Alphabet砸151億美元擴芬蘭AI資料中心",
-      "summary": "GOOGL宣布未來兩年在芬蘭投資至少約131億歐元(151億美元)建AI資料中心(歐洲最大單筆投資)、採核能供電；Google Cloud攜Accenture成立新事業推廣AI；為配合歐盟反壟斷調整歐洲搜尋結果。9/11收338.50(+1.77%)、略破成本約-4%。每月定期定額5,000元續扣。",
+      "summary": "GOOGL宣布未來兩年在芬蘭投資約131億歐元(151億美元)建AI資料中心(歐洲最大單筆投資)、採核能供電；Google Cloud攜Accenture推廣AI。9/14收349.39(+3.22%)、略破成本約-1.1%。每月定期定額5,000元續扣。",
       "date": "2026-09-09",
       "sources": [
         {
@@ -373,9 +373,9 @@
     },
     {
       "ticker": "MSFT",
-      "headline": "微軟將按季揭露Azure營收 多項AI新品推進",
-      "summary": "MSFT將重整業務分部、按季揭露Azure雲端營收以利與AWS/Google比較；推進Project Zenith、Project Helix硬體與MAI-Transcribe-2語音辨識；多家新聞機構就AI訓練資料控告微軟與OpenAI。9/11收495.63(+0.65%)、帳面約+29%。共識強力買進、均目標約571美元。",
-      "date": "2026-09-08",
+      "headline": "微軟發布37頁AI行為準則 強調人類可控",
+      "summary": "微軟9/14發表37頁「人本AI行為準則」，限制AI模型抗拒關機或隱藏推理、確保人類對超智慧發展保有實質控制；執行長Nadella內部示警AI安全、倡議「刻意放緩」以做好對齊。此前規劃2032年前建置38GW資料中心。9/14收505.41(+1.97%)、帳面約+31%；共識強力買進、均目標約571。",
+      "date": "2026-09-14",
       "sources": [
         {
           "title": "Microsoft (MSFT) Stock Price & Overview-stockanalysis",
@@ -389,9 +389,9 @@
     },
     {
       "ticker": "MU",
-      "headline": "美光977 記憶體漲價題材延燒 9/30財報",
-      "summary": "美光續受AI記憶體需求推升，市場傳記憶體合約價上看漲60%、公司加大高頻寬記憶體(HBM)產能。9/11收975.26(-0.22%)、帳面約+7.2%。共識強力買進、均目標約1,513美元；9/30公布會計年度Q4財報。",
-      "date": "2026-09-11",
+      "headline": "AI安全疑慮拖累記憶體股 美光單日跌5.25%",
+      "summary": "受Anthropic、OpenAI呼籲放緩AI發展、市場憂AI基建支出縮手影響，記憶體股領跌，美光9/14收924.03(-5.25%、跌51.23美元)、帳面約+1.5%。另台灣廠工會爭取永久性分紅制度、備妥罷工籌碼(近期發放最高達68個月薪資獎金)。AI HBM需求與漲價題材仍在，9/30公布會計年度Q4財報。",
+      "date": "2026-09-14",
       "sources": [
         {
           "title": "Micron (MU) Stock Price & Overview-stockanalysis",
@@ -405,8 +405,8 @@
     },
     {
       "ticker": "NVDA",
-      "headline": "輝達收218 高檔整理",
-      "summary": "輝達9/11收218.29(-0.03%)、帳面約+26%。此前黃仁勳參加高盛爐邊談話為催化劑；BMO重申買進目標340美元、Cantor看多AI基建需求。另傳以低於130億美元收購Hugging Face強化軟體、Firmus與OpenAI簽算力合約。",
+      "headline": "輝達收211 AI放緩論引賣壓",
+      "summary": "AI領袖呼籲放緩AI發展引發晶片股賣壓，輝達9/14收210.96(-3.36%)、帳面約+22%。此前BMO重申買進目標340美元、Cantor看多AI基建需求；另傳以低於130億美元收購Hugging Face強化軟體。",
       "date": "2026-09-09",
       "sources": [
         {
@@ -422,7 +422,7 @@
     {
       "ticker": "SPCX",
       "headline": "SpaceX第三批解禁啟動 賣壓續存",
-      "summary": "SPCX第三批鎖倉解禁約3.19億股Class A股9/9起可交易、賣壓湧現；此前重返2兆美元俱樂部、與Tesla合併題材。9/11收151.21(+2.04%)、帳面約-17%。解禁賣壓仍需留意，屬高波動標的。",
+      "summary": "SPCX第三批鎖倉解禁約3.19億股Class A股9/9起可交易、賣壓湧現。9/14收148.15(-2.02%)、帳面約-18%。解禁賣壓仍需留意，屬高波動標的。",
       "date": "2026-09-09",
       "sources": [
         {
@@ -438,7 +438,7 @@
     {
       "ticker": "TSLA",
       "headline": "特斯拉Cybercab遭NHTSA審查 安全疑慮升溫",
-      "summary": "Cybercab無方向盤Robotaxi發表後NHTSA展開聯邦安全審查、奧斯汀消防隊與眾議院民主黨人接連關切FSD/Autopilot安全；斯洛維尼亞成第六個核准FSD(監督版)的歐洲國家、中國推出Model Y Performance迎戰競爭。9/11收365.44(+0.52%)、帳面約+26%。共識買進、均目標約390美元。",
+      "summary": "Cybercab無方向盤Robotaxi發表後NHTSA展開聯邦安全審查；斯洛維尼亞成第六個核准FSD(監督版)的歐洲國家、中國推出Model Y Performance迎戰競爭。9/14收358.97(-1.77%)、帳面約+24%。共識買進、均目標約390美元。",
       "date": "2026-09-11",
       "sources": [
         {
@@ -453,9 +453,9 @@
     },
     {
       "ticker": "VOO",
-      "headline": "標普500 ETF收703 定期定額續扣",
-      "summary": "VOO(Vanguard標普500 ETF)9/11收702.56美元(+0.85%)、於成本上方約+23%。追蹤美股標普500指數、費用率極低，為每月定期定額(8,000元)核心配置。",
-      "date": "2026-09-11",
+      "headline": "標普500 ETF收699 定期定額續扣",
+      "summary": "VOO(Vanguard標普500 ETF)9/14收699.30美元(-0.46%)、於成本上方約+22%。追蹤美股標普500指數、費用率極低，為每月定期定額(8,000元)核心配置。",
+      "date": "2026-09-14",
       "sources": [
         {
           "title": "VOO-stockanalysis",
@@ -465,9 +465,9 @@
     },
     {
       "ticker": "VT",
-      "headline": "全球股市ETF收160 隨全球走勢",
-      "summary": "VT(全球股市ETF)9/11收159.94美元(+0.89%)、貼近成本約+0.7%；分散配置全球逾萬檔、費用率僅0.06%，屬長期核心配置。",
-      "date": "2026-09-11",
+      "headline": "全球股市ETF收159 隨全球走勢",
+      "summary": "VT(全球股市ETF)9/14收158.73美元(-0.76%)、貼近成本約-0.1%；分散配置全球逾萬檔、費用率僅0.06%，屬長期核心配置。",
+      "date": "2026-09-14",
       "sources": [
         {
           "title": "VT-stockanalysis",
@@ -478,7 +478,7 @@
     {
       "ticker": "ASTS",
       "headline": "AST SpaceMobile 共識Hold 均目標79.6美元",
-      "summary": "AST SpaceMobile 9/11收59.86美元(-0.08%)、帳面約-31%。14位分析師共識為Hold、平均目標價79.61美元(較現價約+33%)；Berenberg 9/2以買進初評、目標92美元，William Blair 9/8維持Hold。BlueBird衛星續發射推進直連手機服務；屬高波動標的。",
+      "summary": "AST SpaceMobile 9/14收60.00美元(+0.23%)、帳面約-31%。14位分析師共識為Hold、平均目標價79.61美元；BlueBird衛星續發射推進直連手機服務；屬高波動標的。",
       "date": "2026-09-11",
       "sources": [
         {
@@ -494,14 +494,14 @@
   ],
   "summary": {
     "twTotal": 3490929.5,
-    "usTotal": 41666.92,
+    "usTotal": 41666.93,
     "twCount": 9,
     "usCount": 10,
-    "twMarketValue": 4814679.84,
-    "usMarketValue": 42897.16,
-    "twUnrealizedPnL": 1323750.34,
-    "usUnrealizedPnL": 1230.23,
-    "twReturnPct": 37.92,
-    "usReturnPct": 2.95
+    "twMarketValue": 4794849.84,
+    "usMarketValue": 42367.87,
+    "twUnrealizedPnL": 1303920.34,
+    "usUnrealizedPnL": 700.94,
+    "twReturnPct": 37.35,
+    "usReturnPct": 1.68
   }
 }
