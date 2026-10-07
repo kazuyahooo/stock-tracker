@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-06",
+  "lastUpdated": "2026-10-07",
   "holdings": [
     {
       "ticker": "0050",
@@ -8,12 +8,12 @@
       "avgCost": 89.1281,
       "currentPrice": 112.05,
       "priceDate": "2026-09-30",
-      "totalInvested": 313463.53,
+      "totalInvested": 313463.41,
       "marketValue": 394079.85,
-      "unrealizedPnL": 80616.32,
+      "unrealizedPnL": 80616.44,
       "pnlPct": 25.72,
       "flag": "繼續持有",
-      "notes": "元大台灣50市值型ETF核心；累計3517股均價89.13(含9/19交易庫誤記為「元大台灣50/美股」54股@109.25、實為0050台股已併入)；10/6執行時Yahoo報價頁仍回9/30收112.05(+0.67%、昨收111.30)舊快照未更新、現價沿用最近可得收盤、帳面約+26%；追蹤大盤共用大盤新聞"
+      "notes": "元大台灣50市值型ETF核心；3517股均價89.13；10/7執行時Yahoo報價頁仍回9/30收112.05(+0.67%、昨收111.30)舊快照未更新、現價沿用最近可得收盤、帳面約+26%；追蹤大盤共用大盤新聞"
     },
     {
       "ticker": "006208",
@@ -27,7 +27,7 @@
       "unrealizedPnL": 469335.66,
       "pnlPct": 138.37,
       "flag": "繼續持有",
-      "notes": "富邦台50；Yahoo報價頁仍回9/22收255.70舊快照未更新、沿用最近可得收盤、帳面約+138%；追蹤大盤共用大盤新聞"
+      "notes": "富邦台50；3162股均價107.27；Yahoo報價頁仍回9/22收255.70舊快照、沿用最近可得收盤、帳面約+138%；追蹤大盤共用大盤新聞"
     },
     {
       "ticker": "00631L",
@@ -41,7 +41,7 @@
       "unrealizedPnL": 95270.0,
       "pnlPct": 12.83,
       "flag": "繼續持有",
-      "notes": "元大台灣50正2槓桿ETF；20000股均價37.13；Yahoo頁10/6收41.89(+0.84%、連2漲)已更新、帳面約+12.8%；9/5定期定額交易庫數量/均價欄位對調(實為1000股@36.13)已更正；2倍槓桿波動大、大部位需嚴控風險"
+      "notes": "元大台灣50正2槓桿ETF；20000股均價37.13；Yahoo頁10/6收41.89(+0.84%、連2漲)、帳面約+12.8%；2倍槓桿波動大、大部位需嚴控風險"
     },
     {
       "ticker": "00919",
@@ -55,7 +55,7 @@
       "unrealizedPnL": 47726.28,
       "pnlPct": 43.15,
       "flag": "繼續持有",
-      "notes": "群益台灣精選高息ETF；Yahoo頁仍回9/29收31.95(+0.38%、昨收31.83)舊快照、帳面約+43%；高息型、無特別事件沿用大盤新聞"
+      "notes": "群益台灣精選高息ETF；4956股均價22.32；Yahoo頁仍回9/29收31.95舊快照、帳面約+43%；高息型、無特別事件沿用大盤新聞"
     },
     {
       "ticker": "009816",
@@ -64,12 +64,12 @@
       "avgCost": 14.9815,
       "currentPrice": 16.49,
       "priceDate": "2026-09-30",
-      "totalInvested": 678497.15,
+      "totalInvested": 678495.14,
       "marketValue": 746815.61,
-      "unrealizedPnL": 68318.46,
+      "unrealizedPnL": 68320.47,
       "pnlPct": 10.07,
       "flag": "繼續持有",
-      "notes": "凱基台灣TOP50不配息；均價14.98；Yahoo頁仍回9/30收16.49(+0.55%、昨收16.40)舊快照、約+10%；定期定額續扣、追蹤大盤"
+      "notes": "凱基台灣TOP50不配息；45289股均價14.98；Yahoo頁仍回9/30收16.49舊快照、約+10%；定期定額續扣、追蹤大盤"
     },
     {
       "ticker": "00981A",
@@ -78,9 +78,9 @@
       "avgCost": 30.7413,
       "currentPrice": 29.07,
       "priceDate": "2026-09-18",
-      "totalInvested": 421924.34,
+      "totalInvested": 421923.75,
       "marketValue": 398985.75,
-      "unrealizedPnL": -22938.59,
+      "unrealizedPnL": -22938.0,
       "pnlPct": -5.44,
       "flag": "觀察中",
       "notes": "統一台股增長主動式ETF；13725股均價30.74；Yahoo頁仍回9/18收29.07舊快照、仍低於成本約-5.4%；重壓被動元件、波動加大、續觀察"
@@ -97,7 +97,7 @@
       "unrealizedPnL": null,
       "pnlPct": null,
       "flag": "觀察中",
-      "notes": "國巨*；48股均價855.42；Yahoo報價頁10/6回5,807元、與成本基礎(855)差距過大疑為減資/除權前後未調整、無法可靠對應、currentPrice續設null(不計入台股市值與損益彙總)；僅48股影響甚微、建議人工核對"
+      "notes": "國巨*；48股均價855.42；Yahoo報價頁10/7仍回5,807元且昨收欄顯示573元(明顯10倍不一致)、疑減資/除權未調整、無法可靠對應、currentPrice續設null(不計入台股彙總)；僅48股影響甚微、建議人工核對"
     },
     {
       "ticker": "2330",
@@ -106,12 +106,12 @@
       "avgCost": 1286.0746,
       "currentPrice": 2580.0,
       "priceDate": "2026-10-06",
-      "totalInvested": 850095.31,
+      "totalInvested": 850095.28,
       "marketValue": 1705380.0,
-      "unrealizedPnL": 855284.69,
+      "unrealizedPnL": 855284.72,
       "pnlPct": 100.61,
       "flag": "繼續持有",
-      "notes": "台積電最大部位；Yahoo頁10/6盤中2,580元(+0.19%、昨收2,575)、再創新高、帳面約+100.6%；8月營收5,148億(月增10.1%、年增53.3%)史上新高、9/16除息7元已填息、股利10月入帳；2奈米與AI題材延續"
+      "notes": "台積電最大部位；Yahoo頁10/6盤中2,580元(+0.19%、昨收2,575)、未再更新、帳面約+100.6%；8月營收5,148億史上新高、9/16除息7元已填息、股利10月入帳；2奈米與AI題材延續"
     },
     {
       "ticker": "2891",
@@ -120,152 +120,152 @@
       "avgCost": 47.6328,
       "currentPrice": 67.3,
       "priceDate": "2026-10-02",
-      "totalInvested": 34581.41,
+      "totalInvested": 34581.4,
       "marketValue": 48859.8,
-      "unrealizedPnL": 14278.39,
+      "unrealizedPnL": 14278.4,
       "pnlPct": 41.29,
       "flag": "繼續持有",
-      "notes": "中信金；726股均價47.63；Yahoo頁仍回10/2收67.30(-0.88%、昨收67.9)舊快照、帳面約+41%；近期多授信資產轉讓等例行公告、前八月獲利已超越去年全年"
+      "notes": "中信金；726股均價47.63；Yahoo頁仍回10/2收67.30舊快照、帳面約+41%；近期多例行公告、前八月獲利已超越去年全年"
     },
     {
       "ticker": "AMD",
       "market": "美股",
       "qty": 3,
       "avgCost": 509.27,
-      "currentPrice": 631.75,
-      "priceDate": "2026-10-05",
+      "currentPrice": 649.42,
+      "priceDate": "2026-10-06",
       "totalInvested": 1527.81,
-      "marketValue": 1895.25,
-      "unrealizedPnL": 367.44,
-      "pnlPct": 24.05,
+      "marketValue": 1948.26,
+      "unrealizedPnL": 420.45,
+      "pnlPct": 27.52,
       "flag": "繼續持有",
-      "notes": "超微；10/5收631.75(-0.34%、昨收633.91)、帳面約+24%；美銀近期升目標價至720美元、看好agentic AI帶動全系統運算需求"
+      "notes": "超微；10/6收649.42(+2.80%)、帳面約+27.5%；美銀目標價720美元、看好agentic AI帶動全系統運算需求"
     },
     {
       "ticker": "ASTS",
       "market": "美股",
       "qty": 12,
       "avgCost": 87.36,
-      "currentPrice": 58.44,
-      "priceDate": "2026-10-05",
+      "currentPrice": 63.12,
+      "priceDate": "2026-10-06",
       "totalInvested": 1048.32,
-      "marketValue": 701.28,
-      "unrealizedPnL": -347.04,
-      "pnlPct": -33.1,
+      "marketValue": 757.44,
+      "unrealizedPnL": -290.88,
+      "pnlPct": -27.75,
       "flag": "觀察中",
-      "notes": "AST SpaceMobile；10/5收58.44(-0.02%)、帳面約-33%；8月成功發射3枚BlueBird衛星、2026營收展望上修至1.5-2億美元、現金約37億美元；惟多起股東集體訴訟持續進行、波動極大、宜嚴控風險"
+      "notes": "AST SpaceMobile；10/6收63.12(+8.01%反彈)、帳面約-27.7%；B.Riley 10/2降評至中性(目標65美元)、多起股東集體訴訟持續(11/13主原告截止)、波動極大宜嚴控風險"
     },
     {
       "ticker": "GOOGL",
       "market": "美股",
       "qty": 10.43701,
       "avgCost": 353.3785,
-      "currentPrice": 346.47,
-      "priceDate": "2026-10-05",
-      "totalInvested": 3688.21,
-      "marketValue": 3616.11,
-      "unrealizedPnL": -72.1,
-      "pnlPct": -1.95,
+      "currentPrice": 347.68,
+      "priceDate": "2026-10-06",
+      "totalInvested": 3688.22,
+      "marketValue": 3628.74,
+      "unrealizedPnL": -59.48,
+      "pnlPct": -1.61,
       "flag": "繼續持有",
-      "notes": "Alphabet；10/5收346.47(+0.86%)、略低於成本約-2%；歐盟監管新爭議(挑戰Android與資料分享相關命令)使股價承壓；每月定期定額5,000元續扣；共識Strong Buy"
+      "notes": "Alphabet；10/6收347.68(+0.35%)、略低於成本約-1.6%；每月定期定額5,000元續扣；共識Strong Buy"
     },
     {
       "ticker": "MSFT",
       "market": "美股",
       "qty": 4,
       "avgCost": 384.94,
-      "currentPrice": 525.18,
-      "priceDate": "2026-10-05",
+      "currentPrice": 529.3,
+      "priceDate": "2026-10-06",
       "totalInvested": 1539.76,
-      "marketValue": 2100.72,
-      "unrealizedPnL": 560.96,
-      "pnlPct": 36.43,
+      "marketValue": 2117.2,
+      "unrealizedPnL": 577.44,
+      "pnlPct": 37.5,
       "flag": "繼續持有",
-      "notes": "微軟；10/5收525.18(+1.48%)、帳面約+36%；近期發表Copilot新編碼工具與常駐AI代理、強化企業AI競爭力；共識強力買進"
+      "notes": "微軟；10/6收529.30(+0.78%)、帳面約+37.5%；Copilot編碼工具與常駐AI代理強化企業AI競爭力；共識強力買進"
     },
     {
       "ticker": "MU",
       "market": "美股",
       "qty": 2,
       "avgCost": 910.08,
-      "currentPrice": 1063.96,
-      "priceDate": "2026-10-05",
+      "currentPrice": 1045.56,
+      "priceDate": "2026-10-06",
       "totalInvested": 1820.16,
-      "marketValue": 2127.92,
-      "unrealizedPnL": 307.76,
-      "pnlPct": 16.91,
+      "marketValue": 2091.12,
+      "unrealizedPnL": 270.96,
+      "pnlPct": 14.89,
       "flag": "繼續持有",
-      "notes": "美光；10/5收1,063.96(-1.02%、昨收1,074.89)、帳面約+17%；9/30盤後公布會計年度Q4財報、營收與HBM出貨創高、對FY2027展望樂觀；共識Strong Buy、均目標約1,515"
+      "notes": "美光；10/6收1,045.56(-1.73%)、帳面約+14.9%；FY Q4營收與HBM出貨創高、對FY2027展望樂觀；共識Strong Buy、均目標約1,515"
     },
     {
       "ticker": "NVDA",
       "market": "美股",
       "qty": 27,
       "avgCost": 173.1219,
-      "currentPrice": 238.9,
-      "priceDate": "2026-10-05",
+      "currentPrice": 239.24,
+      "priceDate": "2026-10-06",
       "totalInvested": 4674.29,
-      "marketValue": 6450.3,
-      "unrealizedPnL": 1776.01,
-      "pnlPct": 38.0,
+      "marketValue": 6459.48,
+      "unrealizedPnL": 1785.19,
+      "pnlPct": 38.19,
       "flag": "繼續持有",
-      "notes": "輝達；10/5收238.90(+2.12%)、帳面約+38%、再創高；近期宣布1,500億美元庫藏股與開源AI代理安全平台、SpaceX資料中心擴大採用；共識Strong Buy、目標約327"
+      "notes": "輝達；10/6收239.24(+0.14%)、帳面約+38.2%、仍於高檔；1,500億美元庫藏股與AI基建需求延續；共識Strong Buy、目標約327"
     },
     {
       "ticker": "SPCX",
       "market": "美股",
       "qty": 60,
       "avgCost": 181.2612,
-      "currentPrice": 171.09,
-      "priceDate": "2026-10-05",
+      "currentPrice": 171.92,
+      "priceDate": "2026-10-06",
       "totalInvested": 10875.67,
-      "marketValue": 10265.4,
-      "unrealizedPnL": -610.27,
-      "pnlPct": -5.61,
+      "marketValue": 10315.2,
+      "unrealizedPnL": -560.47,
+      "pnlPct": -5.15,
       "flag": "觀察中",
-      "notes": "SpaceX；10/5大漲+7.63%收171.09(昨收158.96)、帳面縮至約-5.6%；摩根士丹利重申overweight稱股價「便宜且更便宜」、9/28星艦14號入軌部署26枚Starlink V3、10/4擬更名SpaceXSI;共識Buy、高波動宜控風險"
+      "notes": "SpaceX；10/6收171.92(+0.49%)、帳面約-5.2%；大摩重申overweight、星艦14號入軌部署26枚Starlink V3；共識Buy、高波動宜控風險"
     },
     {
       "ticker": "TSLA",
       "market": "美股",
       "qty": 4,
       "avgCost": 289.82,
-      "currentPrice": 378.73,
-      "priceDate": "2026-10-05",
+      "currentPrice": 380.68,
+      "priceDate": "2026-10-06",
       "totalInvested": 1159.28,
-      "marketValue": 1514.92,
-      "unrealizedPnL": 355.64,
-      "pnlPct": 30.68,
+      "marketValue": 1522.72,
+      "unrealizedPnL": 363.44,
+      "pnlPct": 31.35,
       "flag": "繼續持有",
-      "notes": "特斯拉；10/5收378.73(+2.20%)、帳面約+31%；電動Semi聯結車已開始交車、跨入商用卡車市場；共識買進、均目標約397"
+      "notes": "特斯拉；10/6收380.68(+0.51%)、帳面約+31.4%；電動Semi聯結車開始交車跨入商用卡車市場；共識買進、均目標約397"
     },
     {
       "ticker": "VOO",
       "market": "美股",
       "qty": 10.16267,
       "avgCost": 571.1747,
-      "currentPrice": 712.32,
-      "priceDate": "2026-10-05",
+      "currentPrice": 716.2,
+      "priceDate": "2026-10-06",
       "totalInvested": 5804.66,
-      "marketValue": 7239.07,
-      "unrealizedPnL": 1434.41,
-      "pnlPct": 24.71,
+      "marketValue": 7278.5,
+      "unrealizedPnL": 1473.84,
+      "pnlPct": 25.39,
       "flag": "繼續持有",
-      "notes": "標普500 ETF；10/5收712.32(+0.68%)、於成本上方約+25%；每月定期定額8,000元核心配置、費用率0.03%"
+      "notes": "標普500 ETF；10/6收716.20(+0.54%)、成本上方約+25%；每月定期定額8,000元核心配置、費用率0.03%"
     },
     {
       "ticker": "VT",
       "market": "美股",
       "qty": 60,
       "avgCost": 158.8127,
-      "currentPrice": 160.11,
-      "priceDate": "2026-10-05",
+      "currentPrice": 160.7,
+      "priceDate": "2026-10-06",
       "totalInvested": 9528.76,
-      "marketValue": 9606.6,
-      "unrealizedPnL": 77.84,
-      "pnlPct": 0.82,
+      "marketValue": 9642.0,
+      "unrealizedPnL": 113.24,
+      "pnlPct": 1.19,
       "flag": "繼續持有",
-      "notes": "全球股市ETF；10/5收160.11(+0.62%)、略高於成本約+0.8%；分散全球逾萬檔、費用率0.06%長期核心配置"
+      "notes": "全球股市ETF；10/6收160.70(+0.37%)、略高於成本約+1.2%；分散全球逾萬檔、費用率0.06%長期核心配置"
     }
   ],
   "realized": [
@@ -285,24 +285,24 @@
   "news": [
     {
       "ticker": "大盤",
-      "headline": "台積電10/6盤中2,580再創高 台股位高檔",
-      "summary": "本次為10/6(週二)台灣時間晚間執行。最大權值台積電Yahoo報價頁10/6盤中更新報2,580元(+0.19%、昨收2,575)、再創新高。惟加權指數及多數台股ETF的Yahoo報價頁仍回較舊快照未更新(加權指數停在10/2約48,279點、0050/009816為9/30、00919為9/29、006208為9/22、00981A為9/18、2891為10/2)、該些標的現價沿用最近可得收盤;00631L已更新至10/6(41.89)。美股最新完整收盤為10/5(週一)、當日科技股普遍收高(NVDA+2.1%、TSLA+2.2%、SPCX+7.6%)。0050、006208、00631L、009816、00981A、00919等追蹤大盤標的共用此則。",
-      "date": "2026-10-06",
+      "headline": "台股10/7早盤近4.99萬 美股10/6收高",
+      "summary": "本次為10/7(週三)台灣時間晚間執行。加權指數Yahoo報價頁10/7早盤(09:37)報49,953.99點(+0.26%、+131.44)、逼近5萬點、位於歷史高檔。惟多數台股ETF的Yahoo報價頁仍回較舊快照未更新(0050/009816為9/30、00919為9/29、006208為9/22、00981A為9/18、2891為10/2、2330停在10/6盤中2,580)、該些標的現價沿用最近可得收盤;00631L已更新至10/6(41.89)。美股最新完整收盤為10/6(週一)、當日科技股多收高(AMD+2.8%、ASTS+8.0%、TSLA+0.5%、NVDA+0.1%、MSFT+0.8%、MU-1.7%)。0050、006208、00631L、009816、00981A、00919等追蹤大盤標的共用此則。",
+      "date": "2026-10-07",
       "sources": [
-        {
-          "title": "台積電(2330.TW)走勢圖-Yahoo股市",
-          "url": "https://tw.stock.yahoo.com/quote/2330.TW"
-        },
         {
           "title": "加權指數(^TWII)走勢圖-Yahoo股市",
           "url": "https://tw.stock.yahoo.com/quote/%5ETWII"
+        },
+        {
+          "title": "台積電(2330.TW)走勢圖-Yahoo股市",
+          "url": "https://tw.stock.yahoo.com/quote/2330.TW"
         }
       ]
     },
     {
       "ticker": "2327",
       "headline": "國巨報價頁與成本基礎落差過大 現價無法確認",
-      "summary": "國巨*近期波動大、被動元件轉單題材持續;Yahoo報價頁10/6回5,807元，與交易庫成本基礎(均價約855)差距過大、疑為減資/除權前後未調整、無法可靠對應，currentPrice續設null(不計入台股彙總)。持48股小部位、建議人工核對股價。",
+      "summary": "國巨*近期波動大、被動元件與低軌衛星題材持續、惟外資近期連賣;Yahoo報價頁10/7仍回5,807元、且昨收欄顯示573元(明顯10倍不一致)、與交易庫成本基礎(均價約855)無法可靠對應、疑減資/除權前後未調整，currentPrice續設null(不計入台股彙總)。持48股小部位、建議人工核對股價。",
       "date": null,
       "sources": [
         {
@@ -361,9 +361,9 @@
     },
     {
       "ticker": "ASTS",
-      "headline": "AST SpaceMobile訴訟纏身 帳面約-33%",
-      "summary": "AST SpaceMobile 10/5收58.44美元(-0.02%)、帳面約-33%。8月成功發射3枚BlueBird衛星、2026營收展望上修至1.5-2億美元、現金約37億美元、在手訂單約13億;惟多家律所就公司在衛星D2C市場競爭地位陳述誤導投資人之指控持續展開股東集體訴訟、股價承壓。屬高波動衛星通訊標的、宜嚴控風險。",
-      "date": "2026-10-01",
+      "headline": "AST SpaceMobile 10/6反彈+8% 訴訟與降評未解",
+      "summary": "AST SpaceMobile 10/6收63.12美元(+8.01%大漲反彈)、惟帳面仍約-27.7%。B.Riley於10/2將評等由買進降至中性、目標價自85美元降至65美元、稱當前股價風險報酬平衡;另多家律所就公司在衛星D2C市場競爭地位陳述誤導投資人之指控持續展開股東集體訴訟(主原告截止11/13)。基本面:8月已上修2026營收展望至1.5-2億美元、現金約37億、在手訂單約13億。屬高波動衛星通訊標的、宜嚴控風險。",
+      "date": "2026-10-06",
       "sources": [
         {
           "title": "AST SpaceMobile (ASTS) Stock Price & Overview-stockanalysis",
@@ -497,15 +497,15 @@
     }
   ],
   "summary": {
-    "twTotal": 3531957.41,
+    "twTotal": 3531954.64,
     "usTotal": 41666.93,
     "twCount": 9,
     "usCount": 10,
     "twMarketValue": 5098788.61,
-    "usMarketValue": 45517.57,
-    "twUnrealizedPnL": 1607891.2,
-    "usUnrealizedPnL": 3850.64,
+    "usMarketValue": 45760.66,
+    "twUnrealizedPnL": 1607893.97,
+    "usUnrealizedPnL": 4093.73,
     "twReturnPct": 46.06,
-    "usReturnPct": 9.24
+    "usReturnPct": 9.82
   }
 }
