@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-17",
+  "lastUpdated": "2026-10-18",
   "holdings": [
     {
       "ticker": "0050",
@@ -41,7 +41,7 @@
       "unrealizedPnL": 97315.0,
       "pnlPct": 12.78,
       "flag": "繼續持有",
-      "notes": "元大台灣50正2槓桿ETF;10/15定額加碼500股後共20500股均價37.14;Yahoo報價頁仍回10/6收41.89舊快照、帳面約+12.8%;2倍槓桿波動大、大部位需嚴控風險"
+      "notes": "元大台灣50正2槓桿ETF;共20500股均價37.14;Yahoo報價頁仍回10/6收41.89舊快照、帳面約+12.8%;2倍槓桿波動大、大部位需嚴控風險"
     },
     {
       "ticker": "00919",
@@ -69,7 +69,7 @@
       "unrealizedPnL": 68253.21,
       "pnlPct": 10.02,
       "flag": "繼續持有",
-      "notes": "凱基台灣TOP50不配息;10/13定額加碼177股後共45466股均價14.99;Yahoo報價頁仍回9/30收16.49舊快照、約+10%;追蹤大盤"
+      "notes": "凱基台灣TOP50不配息;共45466股均價14.99;Yahoo報價頁仍回9/30收16.49舊快照、約+10%;追蹤大盤"
     },
     {
       "ticker": "00981A",
@@ -83,7 +83,7 @@
       "unrealizedPnL": -23206.77,
       "pnlPct": -5.46,
       "flag": "觀察中",
-      "notes": "統一台股增長主動式ETF;10/13加碼93股後共13818股均價30.75;Yahoo主報價頁仍回9/18收29.07舊快照、仍低於成本約-5.5%;重壓被動元件、波動加大、續觀察"
+      "notes": "統一台股增長主動式ETF;共13818股均價30.75;Yahoo主報價頁仍回9/18收29.07舊快照、仍低於成本約-5.5%;重壓被動元件、波動加大、續觀察"
     },
     {
       "ticker": "2327",
@@ -97,7 +97,7 @@
       "unrealizedPnL": -13220.0,
       "pnlPct": -32.2,
       "flag": "觀察中",
-      "notes": "國巨*;48股均價855.42;Yahoo報價頁仍回9/24收580舊快照(頁首5807為小數點顯示錯誤、實為580)、帳面約-32%;被動元件回檔、惟9月營收年增46%基本面轉強;僅48股小部位、建議人工核對"
+      "notes": "國巨*;48股均價855.42;Yahoo報價頁仍回9/24收580舊快照、帳面約-32%;被動元件回檔、惟9月營收年增46%基本面轉強;僅48股小部位、建議人工核對"
     },
     {
       "ticker": "2330",
@@ -111,7 +111,7 @@
       "unrealizedPnL": 749524.72,
       "pnlPct": 88.17,
       "flag": "繼續持有",
-      "notes": "台積電最大部位;661股均價1286.07;10/16收2,420元(-0.82%、昨收2,440)、法說(10/15)後震盪;帳面約+88.2%;法說前後外資齊升目標價(3,300~4,410元)、2026 EPS上看178~198元;AI、2奈米與漲價題材延續"
+      "notes": "台積電最大部位;661股均價1286.07;10/16(週五)收2,420元(-0.82%、昨收2,440)、法說(10/15)後震盪;帳面約+88.2%;法說前後外資齊升目標價(3,300~4,410元)、2026 EPS上看178~198元;AI、2奈米與漲價題材延續"
     },
     {
       "ticker": "2891",
@@ -285,8 +285,8 @@
   "news": [
     {
       "ticker": "大盤",
-      "headline": "台股週五收47,111 美股AI晶片連6日重挫",
-      "summary": "台股10/16(週五)加權收47,111.26點、漲141.39點(+0.30%)、量縮反彈守住月/季線;台積電收2,420元(-0.82%)尾盤遭調節。10/17為週六、台股休市、現價沿用10/16收盤。美股10/16風險趨避、那斯達克跌逾2%、費半挫逾3%、AI晶片連6個交易日下殺(六日市值蒸發約1.64兆美元):記憶體受中國CXMT DRAM進展衝擊領跌(MU -5.63%、SK海力士 -3%+)、AMD -5.95%、NVDA -1.43%、ASTS -8.55%;本組合美股現價採10/16收盤。追蹤大盤之ETF(0050/006208/00631L/009816/00981A/00919)共用此則。",
+      "headline": "週日休市 沿用10/16收47,111 美股連6日殺AI晶片",
+      "summary": "10/18為週日、台股與美股皆休市、無新交易;本次更新現價沿用最近完成交易日(10/16週五)收盤。台股10/16加權收47,111.26點、漲141.39點(+0.30%)、量縮反彈守住月/季線、周K中止連四紅;台積電收2,420元(-0.82%)尾盤遭調節。美股10/16風險趨避、那斯達克跌逾2%、費半挫逾3%、AI晶片連6個交易日下殺(六日市值蒸發約1.64兆美元):記憶體受中國CXMT DRAM進展衝擊領跌(MU -5.63%)、AMD -5.95%、NVDA -1.43%、ASTS -8.55%。追蹤大盤之ETF(0050/006208/00631L/009816/00981A/00919)共用此則。下週一(10/20)台股與美股恢復交易。",
       "date": "2026-10-16",
       "sources": [
         {
@@ -294,15 +294,15 @@
           "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E7%9B%A4%E5%BE%8C-%E9%87%8F%E7%B8%AE%E5%8F%8D%E5%BD%88141%E9%BB%9E-%E5%91%A8k%E4%B8%AD%E6%AD%A2%E9%80%A3%E5%9B%9B%E7%B4%85-073000808.html"
         },
         {
-          "title": "US Stocks Close: Nasdaq Drops Over 2%, Chip Stocks Fall Broadly, Micron Falls Over 5%-TradingKey",
-          "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262221811-us-stock-market-close-nasdaq-drop-chip-stocks-fall-coreweave-micron-tradingkey"
+          "title": "【台北股市】漲141.39點-Yahoo股市",
+          "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E5%8C%97%E8%82%A1%E5%B8%82-%E6%BC%B2141-39%E9%BB%9E-055045204.html"
         }
       ]
     },
     {
       "ticker": "2330",
       "headline": "台積電10/16收2,420 法說後震盪 外資升目標",
-      "summary": "台積電為最大單一部位、帳面約+88.2%。10/16收2,420元(-0.82%、昨收2,440)、第三季法說會(10/15)後震盪、尾盤遭調節。法說前後外資全面調高目標價、美系升至3,300元、另有喊3,800~4,410元、2026 EPS上看178~198元;AI、2奈米、CoWoS與漲價題材續為焦點。8月營收創新高、9/16除息7元已填息。",
+      "summary": "台積電為最大單一部位、帳面約+88.2%。10/16(週五)收2,420元(-0.82%、昨收2,440)、第三季法說會(10/15)後震盪、尾盤遭調節。法說前後外資全面調高目標價、美系升至3,300元、另有喊3,800~4,410元、2026 EPS上看178~198元;AI、2奈米、CoWoS與漲價題材續為焦點。週末休市、價格沿用10/16收盤。",
       "date": "2026-10-16",
       "sources": [
         {
@@ -346,7 +346,7 @@
     {
       "ticker": "AMD",
       "headline": "AMD 10/16重挫5.95% 隨AI晶片連6日下殺",
-      "summary": "超微10/16收528.75美元(-5.95%)、隨AI/晶片族群連6個交易日修正重挫(六日全產業市值蒸發約1.64兆美元)、帳面仍約+3.8%。美銀目標價720美元、看好agentic AI需橫跨整個系統的運算能力;本波屬類股評價修正與獲利了結、非個別重大利空。",
+      "summary": "超微10/16收528.75美元(-5.95%)、隨AI/晶片族群連6個交易日修正重挫(六日全產業市值蒸發約1.64兆美元)、帳面仍約+3.8%。美銀目標價720美元、看好agentic AI需橫跨整個系統的運算能力;本波屬類股評價修正與獲利了結、非個別重大利空。週末休市、價格沿用10/16收盤。",
       "date": "2026-10-16",
       "sources": [
         {
@@ -354,7 +354,7 @@
           "url": "https://stockanalysis.com/stocks/amd/"
         },
         {
-          "title": "AI Chip Stocks Lose $1.64 Trillion in Six Sessions as Nvidia, AMD and Micron Face Renewed Selling Pressure",
+          "title": "AI Chip Stocks Lose $1.64 Trillion in Six Sessions-coinpaper",
           "url": "https://coinpaper.com/37354/ai-chip-stocks-lose-164-trillion-in-six-sessions-as-nvidia-amd-and-micron-face-renewed-selling-pressure"
         }
       ]
@@ -402,7 +402,7 @@
     {
       "ticker": "MU",
       "headline": "美光10/16重挫5.63% 記憶體股領跌",
-      "summary": "美光10/16收878.84美元(-5.63%)、記憶體股全面領跌、市場憂中國CXMT DRAM技術突破與AI晶片估值過高、SK海力士同步挫逾3%、帳面轉為約-3.4%。惟基本面未變:FY Q4營收與HBM出貨續創高、對FY2027展望樂觀。共識Strong Buy、均目標約1,515美元。",
+      "summary": "美光10/16收878.84美元(-5.63%)、記憶體股全面領跌、市場憂中國CXMT DRAM技術突破與AI晶片估值過高、SK海力士同步挫逾3%、帳面轉為約-3.4%。惟基本面未變:FY Q4營收與HBM出貨續創高、對FY2027展望樂觀。共識Strong Buy。",
       "date": "2026-10-16",
       "sources": [
         {
@@ -410,7 +410,7 @@
           "url": "https://stockanalysis.com/stocks/mu/"
         },
         {
-          "title": "Nasdaq Tech Selloff Hits Micron Technology (MU) with 5.63% Drop Amid Sector Weakness-GuruFocus",
+          "title": "Nasdaq Tech Selloff Hits Micron Technology (MU) with 5.63% Drop-GuruFocus",
           "url": "https://www.gurufocus.com/news/9128272/nasdaq-tech-selloff-hits-micron-technology-mu-with-563-drop-amid-sector-weakness"
         }
       ]
