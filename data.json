@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-26",
-  "note": "11/26(週四)台股反彈956.38點(+2.50%、收39151.81),收復前一日(11/25崩1926點)部分跌幅、5日線失而復得;權值股多反彈(台達電+6.16%、聯發科+1.65%、PCB/記憶體多檔漲停),惟台積電逆勢小跌5元收2145(外資提款約392億)。本次確定更新:大盤(11/26收39151.81)、2330(11/26收2145,-5)、NVDA(11/25美股逆轉收紅但輝達仍跌近4%,沿用11/24的155.38)、SPCX(11/25 FCC核准Starmind百萬衛星計畫)。受環境限制(WebFetch僅回傳過時快取、WebSearch不含報價),多數台股ETF與美股僅能沿用各自最近確定收盤並於notes註記、未臆造;台股ETF市值多以崩跌前水準計、與11/26實際略有落差。DB交易全數重算無異動:0050股數3927(含元大台灣50併入109股)。",
+  "lastUpdated": "2026-11-27",
+  "note": "11/27(週五、投票日前一天)台股收漲156.27點(+0.40%、收39,308.08)、尾盤翻紅,本週累計飆漲約9%;台積電尾盤爆萬張急拉、漲35元收2,180(+1.63%)助攻,惟三大法人賣超213億(外資連10賣)。本次確定更新:大盤(11/27收39,308.08)、台積電2330(11/27收2,180)、國巨2327(11/26漲停約339、外資目標1000)、中信金2891(11/30召開Q3法說);美股以stockanalysis歷史頁取得11/25確定收盤(11/26美股感恩節休市):NVDA 149.30、AMD 406.03、MU 601.25、GOOGL 273.10、TSLA 380.14、SPCX 127.44、VOO 658.87;MSFT僅回傳至11/24收496.13;ASTS、VT快取僅至11/20、續沿用。台股各ETF(0050/006208/00631L/009816/00981A/00919/2891)因環境無法取得11/27確定收盤,沿用各自最近確定收盤、與11/27實際略有落差。DB交易全數重算無異動:0050股數3927(含元大台灣50併入109股)、00631L已修正9/5數量/均價欄位對調(1000股@36.13);00403A已實現約1,650元(依均價公式)。",
   "holdings": [
     {
       "ticker": "0050",
@@ -9,12 +9,12 @@
       "avgCost": 90.3553,
       "currentPrice": 95.7,
       "priceDate": "2026-11-24",
-      "totalInvested": 354825.26,
+      "totalInvested": 354825.36,
       "marketValue": 375813.9,
-      "unrealizedPnL": 20988.64,
+      "unrealizedPnL": 20988.54,
       "pnlPct": 5.92,
       "flag": "繼續持有",
-      "notes": "元大台灣50核心;3927股均價90.36(含「元大台灣50」109股:9/19的54股+10/26的55股)。大盤11/25崩4.80%、11/26反彈+2.50%(收39151.81),ETF淨值約回-2.4%;環境無法取得0050更新確定收盤,沿用11/24漲停收95.70、實際略低於帳列。11/23再加碼123股(63@94.8+60@88.65)"
+      "notes": "元大台灣50核心;3927股均價90.36(含「元大台灣50」109股:9/19的54股+10/26的55股);11/23再加碼123股(63@94.8+60@88.65)。環境無法取得0050的11/27確定收盤,沿用11/24漲停收95.70;11/27大盤+156點、ETF淨值略高於帳列。1拆8分割相關(006208同步)"
     },
     {
       "ticker": "006208",
@@ -28,7 +28,7 @@
       "unrealizedPnL": 260959.86,
       "pnlPct": 76.94,
       "flag": "繼續持有",
-      "notes": "富邦台50;3162股均價107.27;追蹤大盤。環境無法取得更新確定收盤,沿用11/20收189.80;歷經11/25崩跌、11/26反彈,實際略低於帳列。1拆8分割12/18受益人會議表決"
+      "notes": "富邦台50;3162股均價107.27;追蹤大盤。環境無法取得11/27確定收盤,沿用11/20收189.80。『1拆7』分割投票11/27開跑、估一張降至約3萬元"
     },
     {
       "ticker": "00631L",
@@ -37,12 +37,12 @@
       "avgCost": 37.1429,
       "currentPrice": 31.92,
       "priceDate": "2026-11-14",
-      "totalInvested": 761429.45,
+      "totalInvested": 761430.0,
       "marketValue": 654360.0,
-      "unrealizedPnL": -107069.45,
+      "unrealizedPnL": -107070.0,
       "pnlPct": -14.06,
       "flag": "觀察中",
-      "notes": "元大台灣50正2(2x槓桿);20500股均價37.14;環境無法取得更新確定收盤,沿用11/14收31.92。11/25隨大盤崩約2倍跌幅、11/26反彈約2倍漲幅,高波動雙向劇烈;規模已衝破3千億元;大部位嚴控風險續觀察"
+      "notes": "元大台灣50正2(2x槓桿);20500股均價37.14;環境無法取得11/27確定收盤,沿用11/14收31.92。規模已衝破3千億元創新高;高波動雙向劇烈、大部位嚴控風險續觀察"
     },
     {
       "ticker": "00919",
@@ -56,7 +56,7 @@
       "unrealizedPnL": 38012.52,
       "pnlPct": 34.36,
       "flag": "繼續持有",
-      "notes": "群益台灣精選高息ETF;4956股均價22.32;沿用11/18收29.99;高息型沿用大盤新聞。11/26大盤反彈後實際較帳列略高"
+      "notes": "群益台灣精選高息ETF;4956股均價22.32;沿用11/18收29.99;高息型沿用大盤新聞。年化配息率一度衝破13%"
     },
     {
       "ticker": "009816",
@@ -65,12 +65,12 @@
       "avgCost": 14.8388,
       "currentPrice": 15.35,
       "priceDate": "2026-11-11",
-      "totalInvested": 751837.48,
+      "totalInvested": 751838.04,
       "marketValue": 777738.45,
-      "unrealizedPnL": 25900.97,
-      "pnlPct": 3.45,
+      "unrealizedPnL": 25900.41,
+      "pnlPct": 3.44,
       "flag": "繼續持有",
-      "notes": "凱基台灣TOP50不配息(逾101萬受益人人氣王);50667股均價14.84(含11/23加碼約6201股);追蹤大盤。環境無法取得更新收盤,沿用11/11收15.35;近半年為少數逆勢正報酬市值型ETF"
+      "notes": "凱基台灣TOP50不配息(逾101萬受益人人氣王);50667股均價14.84(含11/23加碼約6201股);追蹤大盤。環境無法取得11/27收盤,沿用11/11收15.35;近半年為少數逆勢正報酬市值型ETF(勝過0050)"
     },
     {
       "ticker": "00981A",
@@ -79,40 +79,40 @@
       "avgCost": 30.6918,
       "currentPrice": 31.06,
       "priceDate": "2026-10-13",
-      "totalInvested": 427874.38,
+      "totalInvested": 427873.86,
       "marketValue": 433007.46,
-      "unrealizedPnL": 5133.08,
+      "unrealizedPnL": 5133.6,
       "pnlPct": 1.2,
       "flag": "觀察中",
-      "notes": "統一台股增長主動式ETF;13941股均價30.69(含11/23加碼123股);環境僅得過時報價,沿用10/13收31.06。主動式重壓AI/被動元件,11/25崩、11/26反彈,高波動續觀察"
+      "notes": "統一台股增長主動式ETF;13941股均價30.69(含11/23加碼123股);環境僅得過時報價,沿用10/13收31.06。重壓AI/被動元件、高波動;近日爆約1.03億元違約交割事件,續觀察"
     },
     {
       "ticker": "2327",
       "market": "台股",
       "qty": 48.0,
       "avgCost": 855.4167,
-      "currentPrice": 411.0,
-      "priceDate": "2026-11-13",
+      "currentPrice": 339.0,
+      "priceDate": "2026-11-26",
       "totalInvested": 41060.0,
-      "marketValue": 19728.0,
-      "unrealizedPnL": -21332.0,
-      "pnlPct": -51.95,
+      "marketValue": 16272.0,
+      "unrealizedPnL": -24788.0,
+      "pnlPct": -60.37,
       "flag": "觀察中",
-      "notes": "國巨*;48股均價855.42;環境無法取得更新收盤,沿用11/13收411;惟11/21『跌破300元創波段新低、自7/1高點回跌逾75%』,實際明顯更低、帳面虧損遠大於帳列-52%。僅48股小部位"
+      "notes": "國巨*;48股均價855.42;自7/1高點(約1220元)崩至288元後反彈、11/26漲停收約339元,帳列改以339計(實際仍遠低於成本);外資喊目標價1000元、AI營收占比衝20%。僅48股小部位"
     },
     {
       "ticker": "2330",
       "market": "台股",
       "qty": 670.0,
       "avgCost": 1296.8288,
-      "currentPrice": 2145.0,
-      "priceDate": "2026-11-26",
-      "totalInvested": 868875.3,
-      "marketValue": 1437150.0,
-      "unrealizedPnL": 568274.7,
-      "pnlPct": 65.4,
+      "currentPrice": 2180.0,
+      "priceDate": "2026-11-27",
+      "totalInvested": 868875.28,
+      "marketValue": 1460600.0,
+      "unrealizedPnL": 591724.72,
+      "pnlPct": 68.1,
       "flag": "繼續持有",
-      "notes": "台積電最大部位;670股均價1296.83;11/26收2,145元(-5/-0.23%),大盤反彈+956點下相對小跌;自11/25的2,150續微跌。台積電ADR 11/25跌1.96%收342.34美元(折台股約2268.07元)。帳面約+65%、仍為最大獲利來源;基本面未變(Q4約533億美元、N2擴產)"
+      "notes": "台積電最大部位;670股均價1296.83;11/27尾盤爆萬張買單急拉、終場漲35元(+1.63%)收2,180元,助攻大盤翻紅。帳面約+68%、仍為最大獲利來源;美銀重申買進目標3,260元、擬在美布局第二座先進廠;基本面未變(N2擴產)"
     },
     {
       "ticker": "2891",
@@ -121,26 +121,26 @@
       "avgCost": 47.6328,
       "currentPrice": 74.9,
       "priceDate": "2026-11-05",
-      "totalInvested": 34581.41,
+      "totalInvested": 34581.4,
       "marketValue": 54377.4,
-      "unrealizedPnL": 19795.99,
+      "unrealizedPnL": 19796.0,
       "pnlPct": 57.24,
       "flag": "繼續持有",
-      "notes": "中信金;726股均價47.63;沿用11/5收74.9(環境無法取得更新收盤);10月合併營收176.33億、前10月賺685.5億(加計FVOCI約1488億);11/30召開Q3法說會"
+      "notes": "中信金;726股均價47.63;沿用11/5收74.9(環境無法取得11/27收盤);前10月稅後純益685.5億、加計FVOCI約1,488億已超越歷年全年;將於11/30召開Q3法人說明會"
     },
     {
       "ticker": "AMD",
       "market": "美股",
       "qty": 3.0,
       "avgCost": 509.27,
-      "currentPrice": 424.39,
-      "priceDate": "2026-11-20",
+      "currentPrice": 406.03,
+      "priceDate": "2026-11-25",
       "totalInvested": 1527.81,
-      "marketValue": 1273.17,
-      "unrealizedPnL": -254.64,
-      "pnlPct": -16.67,
+      "marketValue": 1218.09,
+      "unrealizedPnL": -309.72,
+      "pnlPct": -20.27,
       "flag": "繼續持有",
-      "notes": "超微;3股均價509.27;環境無法取得絕對收盤,沿用11/20收424.39;11/24隨AI晶片賣壓跌8.86%、11/25費半續跌約0.6%。Q3營收創高、Q4指引約170億美元;共識Strong Buy"
+      "notes": "超微;3股均價509.27;11/25收406.03(-1.75%),延續AI晶片族群回檔(11/23起連跌)。Q3營收創高、Q4指引約170億美元;共識Strong Buy"
     },
     {
       "ticker": "ASTS",
@@ -154,105 +154,105 @@
       "unrealizedPnL": -769.08,
       "pnlPct": -73.36,
       "flag": "觀察中",
-      "notes": "AST SpaceMobile;12股均價87.36;沿用11/20收23.27。Q3營收4,230萬(年增187%);與AT&T完成首次地面↔衛星換手。高波動;共識Buy"
+      "notes": "AST SpaceMobile;12股均價87.36;環境stockanalysis僅回傳至11/20收23.27、近52週低,續沿用。Q3營收4,230萬(年增187%);與AT&T完成首次地面↔衛星換手。高波動;共識Buy"
     },
     {
       "ticker": "GOOGL",
       "market": "美股",
       "qty": 10.43701,
       "avgCost": 353.3785,
-      "currentPrice": 265.29,
-      "priceDate": "2026-11-20",
-      "totalInvested": 3688.21,
-      "marketValue": 2768.83,
-      "unrealizedPnL": -919.38,
-      "pnlPct": -24.93,
+      "currentPrice": 273.1,
+      "priceDate": "2026-11-25",
+      "totalInvested": 3688.22,
+      "marketValue": 2850.35,
+      "unrealizedPnL": -837.87,
+      "pnlPct": -22.72,
       "flag": "繼續持有",
-      "notes": "Alphabet;10.437股均價353.38;環境無法取得絕對收盤,沿用11/20收265.29。11/18推Gemini 3並導入搜尋、自研TPU題材。每月定期定額5,000元。共識Strong Buy均目標約400"
+      "notes": "Alphabet;10.437股均價353.38;11/25收273.10(-2.13%),較月中高點回檔但仍遠高於11/20的265.29。Gemini 3導入搜尋與雲端、自研TPU題材續發酵。每月定期定額5,000元。共識Strong Buy均目標約400"
     },
     {
       "ticker": "MSFT",
       "market": "美股",
       "qty": 4.0,
       "avgCost": 384.94,
-      "currentPrice": 484.52,
-      "priceDate": "2026-11-20",
+      "currentPrice": 496.13,
+      "priceDate": "2026-11-24",
       "totalInvested": 1539.76,
-      "marketValue": 1938.08,
-      "unrealizedPnL": 398.32,
-      "pnlPct": 25.87,
+      "marketValue": 1984.52,
+      "unrealizedPnL": 444.76,
+      "pnlPct": 28.89,
       "flag": "繼續持有",
-      "notes": "微軟;4股均價384.94;沿用11/20收484.52;11/19除息0.98美元;11/17 Ignite大會。Azure年增48%。共識Strong Buy均目標約633"
+      "notes": "微軟;4股均價384.94;環境stockanalysis最新回傳11/24收496.13(+0.74%);11/19除息0.98美元;Ignite大會闡述企業AI、Azure年增48%。共識Strong Buy均目標約633"
     },
     {
       "ticker": "MU",
       "market": "美股",
       "qty": 2.0,
       "avgCost": 910.08,
-      "currentPrice": 629.79,
-      "priceDate": "2026-11-24",
+      "currentPrice": 601.25,
+      "priceDate": "2026-11-25",
       "totalInvested": 1820.16,
-      "marketValue": 1259.58,
-      "unrealizedPnL": -560.58,
-      "pnlPct": -30.8,
+      "marketValue": 1202.5,
+      "unrealizedPnL": -617.66,
+      "pnlPct": -33.93,
       "flag": "繼續持有",
-      "notes": "美光;2股均價910.08;11/24收629.79、單日-11.01%,隨記憶體/AI族群殺盤(費半-7.88%);11/25費半跌幅驟縮約-0.6%;HBM需求仍強。共識Strong Buy目標約1,560"
+      "notes": "美光;2股均價910.08;11/25收601.25(-4.53%),續隨記憶體/AI族群殺盤(自11/23的707急挫);HBM需求仍強。共識Strong Buy目標約1,560"
     },
     {
       "ticker": "NVDA",
       "market": "美股",
       "qty": 27.0,
       "avgCost": 173.1219,
-      "currentPrice": 155.38,
-      "priceDate": "2026-11-24",
+      "currentPrice": 149.3,
+      "priceDate": "2026-11-25",
       "totalInvested": 4674.29,
-      "marketValue": 4195.26,
-      "unrealizedPnL": -479.03,
-      "pnlPct": -10.25,
+      "marketValue": 4031.1,
+      "unrealizedPnL": -643.19,
+      "pnlPct": -13.76,
       "flag": "繼續持有",
-      "notes": "輝達;27股均價173.12;11/24收155.38(-5.86%);11/25美股急殺後反攻(道瓊收紅164點、那指/費半約-0.6%),惟NVDA仍跌近4%,環境未取得11/25絕對收盤,沿用11/24的155.38計。FY27 Q3爆發(營收1,158億、Q4指引1,300億、1,500億庫藏股、Vera Rubin出貨)。共識Strong Buy;高波動"
+      "notes": "輝達;27股均價173.12;11/25收149.30(-3.91%),AI股賣壓延續、創近期波段低。FY27 Q3爆發(營收1,158億、Q4指引1,300億、1,500億庫藏股、Vera Rubin出貨)。共識Strong Buy;高波動"
     },
     {
       "ticker": "SPCX",
       "market": "美股",
       "qty": 60.0,
       "avgCost": 181.2612,
-      "currentPrice": 143.5,
-      "priceDate": "2026-11-18",
+      "currentPrice": 127.44,
+      "priceDate": "2026-11-25",
       "totalInvested": 10875.67,
-      "marketValue": 8610.0,
-      "unrealizedPnL": -2265.67,
-      "pnlPct": -20.83,
+      "marketValue": 7646.4,
+      "unrealizedPnL": -3229.27,
+      "pnlPct": -29.69,
       "flag": "觀察中",
-      "notes": "SpaceX;60股均價181.26;環境無法取得更新確定收盤,沿用11/18收143.50;11/25 FCC核准Starmind百萬顆AI資料中心衛星計畫、當日股價盤中約-2.0%;12/8股票解禁。高波動;共識Buy均目標約246~257"
+      "notes": "SpaceX;60股均價181.26;11/25收127.44,自11/18的143.50續跌、波段走弱;11/25 FCC核准Starmind百萬顆AI資料中心衛星計畫;12/8股票解禁。高波動;共識Buy均目標約246~257"
     },
     {
       "ticker": "TSLA",
       "market": "美股",
       "qty": 4.0,
       "avgCost": 289.82,
-      "currentPrice": 345.82,
-      "priceDate": "2026-11-20",
+      "currentPrice": 380.14,
+      "priceDate": "2026-11-25",
       "totalInvested": 1159.28,
-      "marketValue": 1383.28,
-      "unrealizedPnL": 224.0,
-      "pnlPct": 19.32,
+      "marketValue": 1520.56,
+      "unrealizedPnL": 361.28,
+      "pnlPct": 31.16,
       "flag": "繼續持有",
-      "notes": "特斯拉;4股均價289.82;沿用11/20收345.82、帳面約+19%;robotaxi擴張、柏林廠擴產、芬蘭核准FSD;馬斯克1兆薪酬案面臨法律上訴風險。傳SpaceX洽併。共識Hold均目標約391"
+      "notes": "特斯拉;4股均價289.82;11/25收380.14(-1.18%),仍高於11/20的345.82、帳面約+31%;robotaxi擴張、柏林廠擴產、芬蘭核准FSD;馬斯克1兆薪酬案面臨法律上訴風險、傳SpaceX洽併。共識Hold均目標約391"
     },
     {
       "ticker": "VOO",
       "market": "美股",
       "qty": 10.16267,
       "avgCost": 571.1747,
-      "currentPrice": 663.91,
-      "priceDate": "2026-11-23",
+      "currentPrice": 658.87,
+      "priceDate": "2026-11-25",
       "totalInvested": 5804.66,
-      "marketValue": 6747.1,
-      "unrealizedPnL": 942.44,
-      "pnlPct": 16.24,
+      "marketValue": 6695.88,
+      "unrealizedPnL": 891.22,
+      "pnlPct": 15.35,
       "flag": "繼續持有",
-      "notes": "標普500 ETF;10.163股均價571.17;沿用11/23收663.91;11/24標普-0.50%、11/25反彈收紅,廣基ETF波動小。每月定期定額8,000元核心配置、費用率0.03%"
+      "notes": "標普500 ETF;10.163股均價571.17;11/25收658.87(-0.28%),自11/23的663.91小幅回檔;廣基ETF相對抗震。每月定期定額8,000元核心配置、費用率0.03%"
     },
     {
       "ticker": "VT",
@@ -266,15 +266,15 @@
       "unrealizedPnL": -1003.96,
       "pnlPct": -10.54,
       "flag": "繼續持有",
-      "notes": "全球股市ETF;60股均價158.81;環境無法取得更新收盤,沿用11/20收142.08。分散全球逾萬檔、費用率0.06%、長期核心配置"
+      "notes": "全球股市ETF;60股均價158.81;環境stockanalysis僅回傳至11/20收142.08、續沿用;分散全球逾萬檔、費用率0.06%、長期核心配置"
     }
   ],
   "realized": [
     {
       "ticker": "00403A",
       "market": "台股",
-      "realizedPnL": 1629.0,
-      "note": "2026/06已清倉:買入2000股(@9.82成本約19,667)、賣出2000股(淨額21,269、手續費30)、已實現約1,629元"
+      "realizedPnL": 1650.0,
+      "note": "2026/06已清倉:買入2000股(@9.82成本19,640)、賣出2000股(@10.66、手續費30、淨額21,290)、已實現約1,650元(依均價×股數公式計)"
     },
     {
       "ticker": "00713",
@@ -286,191 +286,191 @@
   "news": [
     {
       "ticker": "大盤",
-      "headline": "台股11/26反彈956點 收復39151收紅",
-      "summary": "11/26(四)加權指數收39,151.81點、大漲956.38點(+2.50%),一度急殺後拉回,收復前一日(11/25崩1,926點)部分跌幅、5日線失而復得;成交續放量。權值股多反彈,台達電漲6.16%收1,120、聯發科+1.65%收3,705、PCB與記憶體族群多檔漲停(欣興、南電、華邦電、群聯等);惟台積電逆勢小跌5元收2,145(外資提款台積電約392億)。催化為美股11/25感恩節前夕奇蹟逆轉(道瓊收紅164點、那指/費半約-0.6%、AI賣壓趨緩)。追蹤大盤之ETF(0050/006208/00631L/009816/00981A/00919)共用此則;多檔ETF因環境無法取得11/26確定收盤,市值仍沿用各自最近確定收盤(多為崩跌前水準)、與實際略有落差。",
-      "date": "2026-11-26",
+      "headline": "台股11/27收漲156點 守3萬9本週飆9%",
+      "summary": "11/27(五、投票日前一天)加權指數收39,308.08點、漲156.27點(+0.40%),尾盤由黑翻紅、終場量縮小漲,本週累計飆漲約9%(收復前一週崩跌)。台積電尾盤爆逾萬張買單急拉、終場漲35元收2,180元助攻翻紅;惟三大法人合計賣超213.04億元(外資連10賣、已提款逾5,000億)。權值股各走各的,PCB、光通訊股走弱。追蹤大盤之ETF(0050/006208/00631L/009816/00981A/00919)共用此則;多檔ETF因環境無法取得11/27確定收盤,市值仍沿用各自最近確定收盤、與實際略有落差。",
+      "date": "2026-11-27",
       "sources": [
         {
-          "title": "台股收盤大漲956點！台積電小跌 PCB記憶體5檔熱門漲停-Yahoo股市",
-          "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E6%94%B6%E7%9B%A4%E5%A4%A7%E6%BC%B2956%E9%BB%9E-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E5%B0%8F%E8%B7%8C-pcb%E8%A8%98%E6%86%B6%E9%AB%945%E6%AA%94%E7%86%B1%E9%96%80%E6%BC%B2%E5%81%9C-054108263.html"
+          "title": "【台股盤後】量縮收漲156點 週線收紅勁揚3274點",
+          "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E7%9B%A4%E5%BE%8C-%E9%87%8F%E7%B8%AE%E6%94%B6%E6%BC%B2156%E9%BB%9E-%E9%80%B1%E7%B7%9A%E6%94%B6%E7%B4%85%E5%8B%81%E6%8F%9A3274%E9%BB%9E-070716241.html"
         },
         {
-          "title": "【台北股市】漲956.38點-Yahoo股市",
-          "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E5%8C%97%E8%82%A1%E5%B8%82-%E6%BC%B2956-38%E9%BB%9E-054629446.html"
+          "title": "11/27集中市場三大法人合計賣超213.04億元",
+          "url": "https://tw.stock.yahoo.com/news/11-27%E9%9B%86%E4%B8%AD%E5%B8%82%E5%A0%B4%E4%B8%89%E5%A4%A7%E6%B3%95%E4%BA%BA%E5%90%88%E8%A8%88%E8%B3%A3%E8%B6%85213-04%E5%84%84%E5%85%83-070500733.html"
         }
       ]
     },
     {
       "ticker": "2330",
-      "headline": "台積電11/26收2145微跌5元 逆勢",
-      "summary": "台積電11/26收2,145元(-5/-0.23%),在大盤反彈956點下逆勢小跌,外資單日提款約392億元;自11/25的2,150續微跌。台積電ADR 11/25跌6.86美元(-1.96%)收342.34美元(折台股約2,268.07元)。帳面獲利約+65%、仍為投資組合最大獲利來源;基本面未變(Q4美元營收指引約533億、N2快速擴產)。",
-      "date": "2026-11-26",
+      "headline": "台積電11/27尾盤爆萬張急拉 漲35收2180",
+      "summary": "台積電11/27尾盤爆逾萬張買單急拉,終場上漲35元(+1.63%)收2,180元,助攻台股由黑翻紅。美銀重申買進、目標價上看3,260元(隱含漲幅逾5成),並點出台積電擬在美布局第二座先進晶圓廠。帳面獲利約+68%、仍為投資組合最大獲利來源;基本面未變(N2快速擴產)。",
+      "date": "2026-11-27",
       "sources": [
         {
-          "title": "台積電ADR25日下跌6.86美元跌幅1.96%折台股2268.07元-Yahoo股市",
-          "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BBadr25%E6%97%A5%E4%B8%8B%E8%B7%8C6-86%E7%BE%8E%E5%85%83%E8%B7%8C%E5%B9%851-96-%E6%8A%98%E5%8F%B0%E8%82%A12268-07%E5%85%83-224112229.html"
+          "title": "不是外資！台積電尾盤爆破萬張買單急拉20元 分析師揭真相",
+          "url": "https://tw.stock.yahoo.com/news/%E4%B8%8D%E6%98%AF%E5%A4%96%E8%B3%87%EF%BC%81%E5%8F%B0%E7%A9%8D%E9%9B%BB%E5%B0%BE%E7%9B%A4%E7%88%86%E7%A0%B4%E8%90%AC%E5%BC%B5%E8%B2%B7%E5%96%AE%E6%80%A5%E6%8B%8920%E5%85%83-%E5%88%86%E6%9E%90%E5%B8%AB%E6%8F%AD%E7%9C%9F%E7%9B%B8-055425822.html"
         },
         {
-          "title": "台股收盤大漲956點！台積電小跌-Yahoo股市",
-          "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E6%94%B6%E7%9B%A4%E5%A4%A7%E6%BC%B2956%E9%BB%9E-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E5%B0%8F%E8%B7%8C-pcb%E8%A8%98%E6%86%B6%E9%AB%945%E6%AA%94%E7%86%B1%E9%96%80%E6%BC%B2%E5%81%9C-054108263.html"
+          "title": "台積電擬在美布局第二座先進晶圓廠！美銀重申買進、目標價3260",
+          "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%93%AC%E5%9C%A8%E7%BE%8E%E5%B8%83%E5%B1%80%E7%AC%AC%E4%BA%8C%E5%BA%A7%E5%85%88%E9%80%B2%E6%99%B6%E5%9C%93%E5%BB%A0-%E7%BE%8E%E9%8A%80%E9%87%8D%E7%94%B3%E8%B2%B7%E9%80%B2-%E7%9B%AE%E6%A8%99%E5%83%B93260-%E9%9A%B1%E5%90%AB%E6%BC%B2%E5%B9%85%E9%80%BE5%E6%88%90-090003657.html"
+        }
+      ]
+    },
+    {
+      "ticker": "2327",
+      "headline": "國巨漲停339元又開飆 外資喊目標1000",
+      "summary": "國巨*自7/1高點(約1,220元)一路摔至288元後反彈、11/26漲停收約339元、11/27續強。外資最新目標價上看1,000元(同業水準、隱含上漲空間大),看好AI營收占比衝上約20%。帳列改以339元計(仍遠低於855元成本、帳面大虧),僅48股小部位、續觀察。",
+      "date": "2026-11-27",
+      "sources": [
+        {
+          "title": "國巨1220元摔到288元又開飆！昨漲停339元還能解套？外資喊出1000元",
+          "url": "https://tw.stock.yahoo.com/news/%E5%9C%8B%E5%B7%A81220%E5%85%83%E6%91%94%E5%88%B0288%E5%85%83%E5%8F%88%E9%96%8B%E9%A3%86-%E6%98%A8%E6%BC%B2%E5%81%9C339%E5%85%83%E9%82%84%E8%83%BD%E8%A7%A3%E5%A5%97-%E5%A4%96%E8%B3%87%E5%96%8A%E5%87%BA1000%E5%85%83-ai%E7%87%9F%E6%94%B6%E9%80%BC%E8%BF%912%E6%88%90-031000274.html"
+        }
+      ]
+    },
+    {
+      "ticker": "2891",
+      "headline": "中信金11/30召開Q3法說 前10月賺685億",
+      "summary": "中信金公告將於11/30(115年度第三季)召開法人說明會。前10月稅後純益685.5億元、加計FVOCI股票未實現利益合計約1,488億元、已超越歷年全年水準;10月合併營收176.33億元。股價沿用11/5的74.9元(環境無法取得11/27收盤)。",
+      "date": "2026-11-27",
+      "sources": [
+        {
+          "title": "【公告】中信金將於115年11月30日召開115年度第三季法人說明會",
+          "url": "https://tw.stock.yahoo.com/news/%E5%85%AC%E5%91%8A-%E4%B8%AD%E4%BF%A1%E9%87%91%E5%B0%87%E6%96%BC115%E5%B9%B411%E6%9C%8830%E6%97%A5%E5%8F%AC%E9%96%8B115%E5%B9%B4%E5%BA%A6%E7%AC%AC%E4%B8%89%E5%AD%A3%E6%B3%95%E4%BA%BA%E8%AA%AA%E6%98%8E%E6%9C%83-090953808.html"
         }
       ]
     },
     {
       "ticker": "NVDA",
-      "headline": "輝達11/25仍跌近4% 美股盤後逆轉收紅",
-      "summary": "美股11/25感恩節前夕上演奇蹟逆轉,急殺後反攻,道瓊收紅164點、那指與費半約-0.6%,惟輝達仍跌近4%、AI股賣壓未完全停歇;環境未取得11/25絕對收盤,沿用11/24收155.38美元(當日-5.86%)計。FY27 Q3爆發(營收1,158億、Q4指引1,300億、加碼1,500億庫藏股、Vera Rubin NVL72出貨)。帳面虧損約-10%。共識Strong Buy;高波動。",
+      "headline": "輝達11/25收149.30 AI賣壓延續創波段低",
+      "summary": "輝達11/25收149.30美元(-3.91%),AI股賣壓延續、跌破前一日155.38、創近期波段低。FY27 Q3爆發(營收1,158億、Q4指引1,300億、加碼1,500億庫藏股、Vera Rubin NVL72出貨)。帳面虧損約-14%。共識Strong Buy;高波動。",
       "date": "2026-11-25",
       "sources": [
         {
-          "title": "〈美股盤後〉道瓊驚天逆轉收紅164點！輝達跌近4% AI股賣壓未歇-Yahoo股市",
-          "url": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%82%A1%E7%9B%A4%E5%BE%8C-%E9%81%93%E7%93%8A%E9%A9%9A%E5%A4%A9%E9%80%86%E8%BD%89%E6%94%B6%E7%B4%85164%E9%BB%9E-%E8%BC%9D%E9%81%94%E8%B7%8C%E8%BF%914-ai%E8%82%A1%E8%B3%A3%E5%A3%93%E6%9C%AA%E6%AD%87-220458200.html"
+          "title": "NVIDIA (NVDA) Stock Price History",
+          "url": "https://stockanalysis.com/stocks/nvda/history/"
         }
       ]
     },
     {
       "ticker": "MU",
-      "headline": "美光11/24崩11% 記憶體族群殺盤",
-      "summary": "美光11/24收629.79美元、單日-11.01%,居AI/記憶體族群跌幅前段,隨費半重挫7.88%殺盤;11/25費半跌幅驟縮(約-0.6%)。HBM與記憶體供需仍緊。共識Strong Buy、均目標約1,560美元。",
-      "date": "2026-11-24",
+      "headline": "美光11/25收601.25 記憶體族群續殺",
+      "summary": "美光11/25收601.25美元(-4.53%),自11/23的707續挫、延續AI/記憶體族群殺盤。HBM與記憶體供需仍緊。共識Strong Buy、均目標約1,560美元。",
+      "date": "2026-11-25",
       "sources": [
         {
-          "title": "《美股》輝達拉回+Anthropic破發 費半挫 等PCE-Yahoo股市",
-          "url": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%82%A1-%E8%BC%9D%E9%81%94%E6%8B%89%E5%9B%9E-anthropic%E7%A0%B4%E7%99%BC-%E8%B2%BB%E5%8D%8A%E6%8C%AB-%E7%AD%89pce-224800615.html"
+          "title": "Micron (MU) Stock Price History",
+          "url": "https://stockanalysis.com/stocks/mu/history/"
         }
       ]
     },
     {
       "ticker": "AMD",
-      "headline": "超微11/24跌8.86% 隨AI晶片賣壓",
-      "summary": "超微11/24單日-8.86%,隨NVDA領軍之AI/晶片股賣壓重挫(費半-7.88%);11/25費半跌幅驟縮約-0.6%;沿用11/20收424.39美元(環境未取得絕對收盤)。基本面:Q3營收創高、Q4營收指引約170億美元。共識Strong Buy。",
-      "date": "2026-11-24",
+      "headline": "超微11/25收406.03 延續晶片回檔",
+      "summary": "超微11/25收406.03美元(-1.75%),延續AI晶片族群自11/23起之回檔(11/19曾達489)。基本面:Q3營收創高、Q4營收指引約170億美元。共識Strong Buy。",
+      "date": "2026-11-25",
       "sources": [
         {
-          "title": "《美股》輝達拉回+Anthropic破發 費半挫 等PCE-Yahoo股市",
-          "url": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%82%A1-%E8%BC%9D%E9%81%94%E6%8B%89%E5%9B%9E-anthropic%E7%A0%B4%E7%99%BC-%E8%B2%BB%E5%8D%8A%E6%8C%AB-%E7%AD%89pce-224800615.html"
+          "title": "AMD Stock Price History",
+          "url": "https://stockanalysis.com/stocks/amd/history/"
         }
       ]
     },
     {
       "ticker": "GOOGL",
-      "headline": "Alphabet 沿用11/20收265.29 Gemini 3題材",
-      "summary": "Alphabet沿用11/20收265.29美元;11/18推出Gemini 3並直接導入Google搜尋與企業雲端、自研TPU題材續發酵。每月定期定額5,000元續扣。共識Strong Buy、均目標約400美元。",
-      "date": "2026-11-20",
+      "headline": "Alphabet 11/25收273.10 Gemini 3題材",
+      "summary": "Alphabet 11/25收273.10美元(-2.13%),較月中高點(11/23約282)回檔但仍遠高於11/20的265.29。Gemini 3導入Google搜尋與企業雲端、自研TPU題材續發酵。每月定期定額5,000元。共識Strong Buy、均目標約400美元。",
+      "date": "2026-11-25",
       "sources": [
         {
-          "title": "Alphabet (GOOGL) Stock Price & Analysis-stockanalysis",
-          "url": "https://stockanalysis.com/stocks/googl/"
+          "title": "Alphabet (GOOGL) Stock Price History",
+          "url": "https://stockanalysis.com/stocks/googl/history/"
         }
       ]
     },
     {
       "ticker": "MSFT",
-      "headline": "微軟沿用11/20收484.52 企業AI布局",
-      "summary": "微軟沿用11/20收484.52美元;11/19除息0.98美元;11/17起召開Ignite大會闡述企業AI布局、Azure年增48%、FY27 Q1營收923億(+19%)。共識Strong Buy、均目標約633美元。",
-      "date": "2026-11-20",
+      "headline": "微軟 最新回報11/24收496.13 企業AI",
+      "summary": "微軟環境最新回傳11/24收496.13美元(+0.74%);11/19除息0.98美元;Ignite大會闡述企業AI布局、Azure年增48%。共識Strong Buy、均目標約633美元。",
+      "date": "2026-11-24",
       "sources": [
         {
-          "title": "Microsoft (MSFT) Stock Price & Analysis-stockanalysis",
-          "url": "https://stockanalysis.com/stocks/msft/"
+          "title": "Microsoft (MSFT) Stock Price History",
+          "url": "https://stockanalysis.com/stocks/msft/history/"
         }
       ]
     },
     {
       "ticker": "TSLA",
-      "headline": "特斯拉沿用11/20收345.82 題材紛陳",
-      "summary": "特斯拉沿用11/20收345.82美元;robotaxi擴張、柏林廠擴產、芬蘭核准FSD;馬斯克1兆美元薪酬案面臨法律上訴風險,傳SpaceX洽併。共識Hold、均目標約391美元。",
-      "date": "2026-11-20",
+      "headline": "特斯拉11/25收380.14 題材紛陳",
+      "summary": "特斯拉11/25收380.14美元(-1.18%),仍高於11/20的345.82、帳面約+31%;robotaxi擴張、柏林廠擴產、芬蘭核准FSD;馬斯克1兆美元薪酬案面臨法律上訴風險、傳SpaceX洽併。共識Hold、均目標約391美元。",
+      "date": "2026-11-25",
       "sources": [
         {
-          "title": "Tesla (TSLA) Stock Price & Analysis-stockanalysis",
-          "url": "https://stockanalysis.com/stocks/tsla/"
+          "title": "Tesla (TSLA) Stock Price History",
+          "url": "https://stockanalysis.com/stocks/tsla/history/"
+        }
+      ]
+    },
+    {
+      "ticker": "SPCX",
+      "headline": "SpaceX 11/25收127.44 波段走弱 FCC利多",
+      "summary": "SpaceX 11/25收127.44美元,自11/18的143.50續跌、波段走弱。11/25 FCC核准SpaceX『Starmind』計畫、最多發射100萬顆太空AI資料中心衛星;12/8有股票解禁。高波動;共識Buy均目標約246~257美元。",
+      "date": "2026-11-25",
+      "sources": [
+        {
+          "title": "Space Exploration Technologies (SPCX) Stock Price",
+          "url": "https://stockanalysis.com/stocks/spcx/"
         }
       ]
     },
     {
       "ticker": "ASTS",
       "headline": "AST 沿用11/20收23.27 近52週低",
-      "summary": "AST SpaceMobile 沿用11/20收23.27美元、近52週低;Q3營收4,230萬美元(年增187%)不如預期;與AT&T完成業界首次地面↔直連衛星換手、與Firefly簽逾13億美元火箭協議。高波動;共識Buy。",
+      "summary": "AST SpaceMobile 環境stockanalysis僅回傳至11/20收23.27美元、近52週低、續沿用;Q3營收4,230萬美元(年增187%);與AT&T完成業界首次地面↔直連衛星換手、與Firefly簽逾13億美元火箭協議。高波動;共識Buy。",
       "date": "2026-11-20",
       "sources": [
         {
-          "title": "AST SpaceMobile (ASTS) Stock Price & News-stockanalysis",
-          "url": "https://stockanalysis.com/stocks/asts/"
-        }
-      ]
-    },
-    {
-      "ticker": "SPCX",
-      "headline": "FCC核准SpaceX Starmind 百萬衛星AI資料中心",
-      "summary": "11/25 FCC核准SpaceX『Starmind』計畫、最多發射100萬顆充當太空AI資料中心的衛星(須於2038年前部署半數、2040年前全數);當日SPCX盤中約-2.0%(那指100約-1.7%)。環境無法取得更新確定收盤,沿用11/18收143.50美元;Q3營收創146億美元(逾半AI算力租賃);12/8有股票解禁。高波動;共識Buy均目標約246~257美元。",
-      "date": "2026-11-25",
-      "sources": [
-        {
-          "title": "FCC approves SpaceX's plan for up to 1 million data center satellites in orbit-stockanalysis",
-          "url": "https://stockanalysis.com/news/fcc-approves-spacex-starmind-data-centers-space/"
-        }
-      ]
-    },
-    {
-      "ticker": "2327",
-      "headline": "國巨跌破300元 自7/1高點回跌逾75%",
-      "summary": "國巨*11/中下旬『跌破300元關卡、創波段新低,自7/1高點回跌逾75%』,67萬股東套牢;10月合併營收175.97億元、年增約55%再創新高,惟股價自490區急挫、基本面利多不敵系統性賣壓。帳列仍以11/13的411元計、實際明顯更低。持倉僅48股小部位、續觀察。",
-      "date": "2026-11-21",
-      "sources": [
-        {
-          "title": "國巨跌破300元關卡創波段新低 自7/1高點回跌逾75%-Yahoo股市",
-          "url": "https://tw.stock.yahoo.com/news/%E5%9C%8B%E5%B7%A8%E8%B7%8C%E7%A0%B4300%E5%85%83%E9%97%9C%E5%8D%A1%E5%89%B5%E6%B3%A2%E6%AE%B5%E6%96%B0%E4%BD%8E-%E8%87%AA7-1%E9%AB%98%E9%BB%9E%E5%9B%9E%E8%B7%8C%E9%80%BE75-075925096.html"
-        }
-      ]
-    },
-    {
-      "ticker": "2891",
-      "headline": "中信金前10月賺685.5億 11/30法說",
-      "summary": "中信金10月合併營收176.33億元;前10月稅後純益685.5億元、加計FVOCI股票未實現利益合計約1,488億元、已超越歷年全年水準;將於11/30召開Q3法人說明會。股價沿用11/5的74.9元。",
-      "date": "2026-11-20",
-      "sources": [
-        {
-          "title": "中信金前10月賺685.5億元 加計FVOCI狂賺1488億元-Yahoo股市",
-          "url": "https://tw.stock.yahoo.com/news/%E4%B8%AD%E4%BF%A1%E9%87%91%E5%89%8D10%E6%9C%88%E8%B3%BA685-5%E5%84%84%E5%85%83-%E5%8A%A0%E8%A8%88fvoci%E8%82%A1%E7%A5%A8%E7%8B%82%E8%B3%BA1488%E5%84%84%E5%85%83%E8%B6%85%E8%B6%8A%E6%AD%B7%E5%B9%B4%E5%85%A8%E5%B9%B4-110530057.html"
+          "title": "AST SpaceMobile (ASTS) Stock Price History",
+          "url": "https://stockanalysis.com/stocks/asts/history/"
         }
       ]
     },
     {
       "ticker": "VOO",
-      "headline": "標普500 ETF 沿用11/23收663.91",
-      "summary": "VOO沿用11/23收663.91美元;11/24標普-0.50%、11/25急殺後反攻收紅,廣基ETF相對抗震。追蹤標普500、費用率0.03%、每月定期定額(8,000元)核心配置。",
-      "date": "2026-11-23",
+      "headline": "標普500 ETF 11/25收658.87",
+      "summary": "VOO 11/25收658.87美元(-0.28%),自11/23的663.91小幅回檔;廣基ETF相對抗震。追蹤標普500、費用率0.03%、每月定期定額(8,000元)核心配置。",
+      "date": "2026-11-25",
       "sources": [
         {
-          "title": "Vanguard S&P 500 ETF (VOO) Overview-stockanalysis",
-          "url": "https://stockanalysis.com/etf/voo/"
+          "title": "Vanguard S&P 500 ETF (VOO) History",
+          "url": "https://stockanalysis.com/etf/voo/history/"
         }
       ]
     },
     {
       "ticker": "VT",
       "headline": "全球股市ETF 沿用11/20收142.08",
-      "summary": "VT沿用11/20收142.08美元;分散全球逾萬檔、費用率0.06%、長期核心配置。",
+      "summary": "VT 環境stockanalysis僅回傳至11/20收142.08美元、續沿用;分散全球逾萬檔、費用率0.06%、長期核心配置。",
       "date": "2026-11-20",
       "sources": [
         {
-          "title": "VT ETF Stock Price & Overview-stockanalysis",
-          "url": "https://stockanalysis.com/etf/vt/"
+          "title": "VT ETF Stock Price History",
+          "url": "https://stockanalysis.com/etf/vt/history/"
         }
       ]
     }
   ],
   "summary": {
-    "twTotal": 3690288.95,
+    "twTotal": 3690289.6,
     "usTotal": 41666.93,
     "twCount": 9,
     "usCount": 10,
-    "twMarketValue": 4500953.25,
-    "usMarketValue": 36979.34,
-    "twUnrealizedPnL": 810664.3,
-    "usUnrealizedPnL": -4687.59,
-    "twReturnPct": 21.97,
-    "usReturnPct": -11.25
+    "twMarketValue": 4520947.25,
+    "usMarketValue": 35953.44,
+    "twUnrealizedPnL": 830657.65,
+    "usUnrealizedPnL": -5713.49,
+    "twReturnPct": 22.51,
+    "usReturnPct": -13.71
   }
 }
